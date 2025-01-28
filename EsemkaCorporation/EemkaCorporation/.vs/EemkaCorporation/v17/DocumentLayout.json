@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|d:\\lks_it_software\\learn-dotnet\\esemkacorporation\\eemkacorporation\\eemkacorporation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|d:\\lks_it_software\\learn-dotnet\\esemkacorporation\\eemkacorporation\\eemkacorporation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\Program.cs",
+              "RelativeDocumentMoniker": "EemkaCorporation\\Program.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\Program.cs",
+              "RelativeToolTip": "EemkaCorporation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:51:30.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\Login.cs",
+              "RelativeDocumentMoniker": "EemkaCorporation\\Login.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\Login.cs [Design]",
+              "RelativeToolTip": "EemkaCorporation\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:44:51.856Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

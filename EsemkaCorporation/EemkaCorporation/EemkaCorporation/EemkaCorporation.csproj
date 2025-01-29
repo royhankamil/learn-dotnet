@@ -110,6 +110,12 @@
     <Compile Include="promotion.cs">
       <DependentUpon>esemkaDataModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="PromotionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PromotionForm.Designer.cs">
+      <DependentUpon>PromotionForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
@@ -119,6 +125,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ProfileForm.resx">
       <DependentUpon>ProfileForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PromotionForm.resx">
+      <DependentUpon>PromotionForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\MutationFormcs.resx">
       <DependentUpon>MutationFormcs.cs</DependentUpon>

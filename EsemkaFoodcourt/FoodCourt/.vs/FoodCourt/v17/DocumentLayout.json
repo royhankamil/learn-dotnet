@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|d:\\lks_it_software\\learn-dotnet\\esemkafoodcourt\\foodcourt\\foodcourt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|solutionrelative:foodcourt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|d:\\lks_it_software\\learn-dotnet\\esemkafoodcourt\\foodcourt\\foodcourt\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|solutionrelative:foodcourt\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|d:\\lks_it_software\\learn-dotnet\\esemkafoodcourt\\foodcourt\\foodcourt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|solutionrelative:foodcourt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|d:\\lks_it_software\\learn-dotnet\\esemkafoodcourt\\foodcourt\\foodcourt\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|solutionrelative:foodcourt\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|d:\\lks_it_software\\learn-dotnet\\esemkafoodcourt\\foodcourt\\foodcourt\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|solutionrelative:foodcourt\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|d:\\lks_it_software\\learn-dotnet\\esemkafoodcourt\\foodcourt\\foodcourt\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|solutionrelative:foodcourt\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|d:\\lks_it_software\\learn-dotnet\\esemkafoodcourt\\foodcourt\\foodcourt\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|solutionrelative:foodcourt\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|d:\\lks_it_software\\learn-dotnet\\esemkafoodcourt\\foodcourt\\foodcourt\\resources\\foodcourtmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E70A5990-30EC-4190-A19A-09BF6EA92354}|FoodCourt\\FoodCourt.csproj|solutionrelative:foodcourt\\resources\\foodcourtmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\MainForm.cs",
+              "RelativeDocumentMoniker": "FoodCourt\\MainForm.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\MainForm.cs",
+              "RelativeToolTip": "FoodCourt\\MainForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:16:27.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\Register.cs",
+              "RelativeDocumentMoniker": "FoodCourt\\Register.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\Register.cs",
+              "RelativeToolTip": "FoodCourt\\Register.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwFQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:23:59.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "foodcourtmodel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\Resources\\foodcourtmodel.edmx",
+              "RelativeDocumentMoniker": "FoodCourt\\Resources\\foodcourtmodel.edmx",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\Resources\\foodcourtmodel.edmx [Diagram1]",
+              "RelativeToolTip": "FoodCourt\\Resources\\foodcourtmodel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-01-29T15:03:54.106Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "FoodCourt\\Login.Designer.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\Login.Designer.cs",
+              "RelativeToolTip": "FoodCourt\\Login.Designer.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAASwKgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:16:52.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\Login.cs",
+              "RelativeDocumentMoniker": "FoodCourt\\Login.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\Login.cs",
+              "RelativeToolTip": "FoodCourt\\Login.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAtwDcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:53:18.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\Login.cs",
+              "RelativeDocumentMoniker": "FoodCourt\\Login.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\Login.cs [Design]",
+              "RelativeToolTip": "FoodCourt\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:41:39.044Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\Register.cs",
+              "RelativeDocumentMoniker": "FoodCourt\\Register.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\Register.cs [Design]",
+              "RelativeToolTip": "FoodCourt\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:18:19.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\MainForm.cs",
+              "RelativeDocumentMoniker": "FoodCourt\\MainForm.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaFoodcourt\\FoodCourt\\FoodCourt\\MainForm.cs [Design]",
+              "RelativeToolTip": "FoodCourt\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:15:53.422Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

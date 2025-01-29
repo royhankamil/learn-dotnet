@@ -1,0 +1,17 @@
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\bin\Debug\FoodCourt.exe.config
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\bin\Debug\FoodCourt.exe
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\bin\Debug\FoodCourt.pdb
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.csproj.AssemblyReference.cache
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.Properties.Resources.resources
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.csproj.GenerateResource.cache
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.csproj.CoreCompileInputs.cache
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.exe
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.pdb
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\bin\Debug\EntityFramework.dll
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\bin\Debug\EntityFramework.SqlServer.dll
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\bin\Debug\EntityFramework.xml
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\bin\Debug\EntityFramework.SqlServer.xml
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.csproj.Up2Date
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.Login.resources
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.Register.resources
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.MainForm.resources

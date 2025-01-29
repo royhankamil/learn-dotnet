@@ -317,6 +317,7 @@
             this.DirectSupervisor.TabIndex = 19;
             this.DirectSupervisor.TabStop = true;
             this.DirectSupervisor.Text = "Direct Supervisore Name";
+            this.DirectSupervisor.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.DirectSupervisor_LinkClicked);
             // 
             // dataGridViewTextBoxColumn2
             // 

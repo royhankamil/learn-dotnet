@@ -86,5 +86,13 @@ namespace EemkaCorporation.Properties
             mainForm.Show();
             this.Hide();
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex >= 0 && dataGridView1.Columns[e.ColumnIndex].Name == "apply")
+            {
+                dataGridView1.Rows[e.RowIndex].Cells["apply"] = new DataGridViewTextBoxCell { Value = "Pending" };
+            }
+        }
     }
 }

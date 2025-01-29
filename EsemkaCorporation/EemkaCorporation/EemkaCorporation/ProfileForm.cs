@@ -123,5 +123,15 @@ namespace EemkaCorporation
         {
 
         }
+
+        private void DirectSupervisor_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            using (EsemkaCorporationEntities db = new EsemkaCorporationEntities())
+            {
+                ProfileForm profileForm = new ProfileForm(db.job.FirstOrDefault(y => y.id == db.position.FirstOrDefault(x => x.employee_id == employer.id).job_id).supervisor_job_id.Value);
+                profileForm.Show();
+                this.Hide();
+            }
+        }
     }
 }

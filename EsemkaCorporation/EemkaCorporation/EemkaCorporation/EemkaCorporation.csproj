@@ -33,8 +33,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,26 +55,109 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="department.cs">
+      <DependentUpon>esemkaDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="employee.cs">
+      <DependentUpon>esemkaDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="esemkaDataModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>esemkaDataModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="esemkaDataModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>esemkaDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="esemkaDataModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>esemkaDataModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="job.cs">
+      <DependentUpon>esemkaDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="job_level.cs">
+      <DependentUpon>esemkaDataModel.tt</DependentUpon>
+    </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mutation.cs">
+      <DependentUpon>esemkaDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="position.cs">
+      <DependentUpon>esemkaDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileForm.Designer.cs">
+      <DependentUpon>ProfileForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
+    <Compile Include="promotion.cs">
+      <DependentUpon>esemkaDataModel.tt</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileForm.resx">
+      <DependentUpon>ProfileForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\MutationFormcs.resx">
+      <DependentUpon>MutationFormcs.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <Compile Include="Properties\MutationFormcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\MutationFormcs.Designer.cs">
+      <DependentUpon>MutationFormcs.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EntityDeploy Include="esemkaDataModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>esemkaDataModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="esemkaDataModel.edmx.diagram">
+      <DependentUpon>esemkaDataModel.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\department.datasource" />
+    <None Include="Properties\DataSources\employee.datasource" />
+    <None Include="Properties\DataSources\EsemkaCorporationEntities.datasource" />
+    <None Include="Properties\DataSources\job.datasource" />
+    <None Include="Properties\DataSources\job_level.datasource" />
+    <None Include="Properties\DataSources\Login.datasource" />
+    <None Include="Properties\DataSources\MainForm.datasource" />
+    <None Include="Properties\DataSources\mutation.datasource" />
+    <None Include="Properties\DataSources\position.datasource" />
+    <None Include="Properties\DataSources\ProfileForm.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
+    <None Include="Properties\DataSources\promotion.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -78,6 +170,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="esemkaDataModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>esemkaDataModel.Context.cs</LastGenOutput>
+      <DependentUpon>esemkaDataModel.edmx</DependentUpon>
+    </Content>
+    <Content Include="esemkaDataModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>esemkaDataModel.edmx</DependentUpon>
+      <LastGenOutput>esemkaDataModel.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

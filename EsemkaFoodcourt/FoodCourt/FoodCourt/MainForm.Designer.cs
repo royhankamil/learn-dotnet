@@ -77,6 +77,7 @@
             this.mMenuIngredientButton.TabIndex = 3;
             this.mMenuIngredientButton.Text = "Manage Menu Ingredients";
             this.mMenuIngredientButton.UseVisualStyleBackColor = true;
+            this.mMenuIngredientButton.Click += new System.EventHandler(this.mMenuIngredientButton_Click);
             // 
             // reservationButton
             // 

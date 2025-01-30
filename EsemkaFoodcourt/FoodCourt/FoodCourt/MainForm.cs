@@ -51,5 +51,12 @@ namespace FoodCourt
             manageMenu.Show();
             this.Hide();
         }
+
+        private void mMenuIngredientButton_Click(object sender, EventArgs e)
+        {
+            MenuIngredientAdmin admin = new MenuIngredientAdmin();
+            admin.Show();
+            this.Hide();
+        }
     }
 }

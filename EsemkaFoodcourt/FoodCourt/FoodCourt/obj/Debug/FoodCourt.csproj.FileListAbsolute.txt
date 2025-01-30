@@ -16,3 +16,5 @@ D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\Fo
 D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.Register.resources
 D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.MainForm.resources
 D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.ManageForm.resources
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.ManageMenu.resources
+D:\lks_it_software\learn-dotnet\EsemkaFoodcourt\FoodCourt\FoodCourt\obj\Debug\FoodCourt.memberMainForm.resources

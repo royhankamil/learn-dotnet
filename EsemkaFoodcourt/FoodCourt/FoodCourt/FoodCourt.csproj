@@ -73,6 +73,12 @@
     <Compile Include="ManageForm.Designer.cs">
       <DependentUpon>ManageForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="ManageMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageMenu.Designer.cs">
+      <DependentUpon>ManageMenu.cs</DependentUpon>
+    </Compile>
     <Compile Include="memberMainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -140,6 +146,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ManageForm.resx">
       <DependentUpon>ManageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageMenu.resx">
+      <DependentUpon>ManageMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="memberMainForm.resx">
+      <DependentUpon>memberMainForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -66,6 +66,7 @@
             this.mMenuButton.TabIndex = 2;
             this.mMenuButton.Text = "Manage Menu";
             this.mMenuButton.UseVisualStyleBackColor = true;
+            this.mMenuButton.Click += new System.EventHandler(this.mMenuButton_Click);
             // 
             // mMenuIngredientButton
             // 

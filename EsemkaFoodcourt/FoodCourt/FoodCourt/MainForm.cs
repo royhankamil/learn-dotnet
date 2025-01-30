@@ -44,5 +44,12 @@ namespace FoodCourt
             manageForm.Show();
             this.Hide();
         }
+
+        private void mMenuButton_Click(object sender, EventArgs e)
+        {
+            ManageMenu manageMenu = new ManageMenu();
+            manageMenu.Show();
+            this.Hide();
+        }
     }
 }

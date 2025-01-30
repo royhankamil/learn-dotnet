@@ -7,21 +7,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using FoodCourt.Resources;
 
-namespace FoodCourt
+namespace EemkaCorporation
 {
-    public partial class memberMainForm : Form
+    public partial class ManageMenu : Form
     {
-        FoodcourtEntities db = new FoodcourtEntities();
-        public memberMainForm(int user_id)
+        public ManageMenu()
         {
             InitializeComponent();
-
-            
         }
 
-        private void memberMainForm_Load(object sender, EventArgs e)
+        private void ManageMenu_Load(object sender, EventArgs e)
         {
 
         }

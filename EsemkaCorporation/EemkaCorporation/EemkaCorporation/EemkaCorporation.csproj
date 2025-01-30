@@ -94,6 +94,12 @@
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="ManageMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageMenu.Designer.cs">
+      <DependentUpon>ManageMenu.cs</DependentUpon>
+    </Compile>
     <Compile Include="mutation.cs">
       <DependentUpon>esemkaDataModel.tt</DependentUpon>
     </Compile>
@@ -122,6 +128,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageMenu.resx">
+      <DependentUpon>ManageMenu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ProfileForm.resx">
       <DependentUpon>ProfileForm.cs</DependentUpon>

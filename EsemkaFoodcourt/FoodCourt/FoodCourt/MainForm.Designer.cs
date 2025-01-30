@@ -55,6 +55,7 @@
             this.mMembersButton.TabIndex = 1;
             this.mMembersButton.Text = "Manage Members";
             this.mMembersButton.UseVisualStyleBackColor = true;
+            this.mMembersButton.Click += new System.EventHandler(this.mMembersButton_Click);
             // 
             // mMenuButton
             // 
@@ -95,6 +96,7 @@
             this.button3.TabIndex = 5;
             this.button3.Text = "Logout";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // MainForm
             // 

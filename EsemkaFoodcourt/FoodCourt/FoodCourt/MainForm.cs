@@ -30,5 +30,19 @@ namespace FoodCourt
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Login login = new Login();
+            login.Show();
+            this.Hide();
+        }
+
+        private void mMembersButton_Click(object sender, EventArgs e)
+        {
+            ManageForm manageForm = new ManageForm();
+            manageForm.Show();
+            this.Hide();
+        }
     }
 }

@@ -19,7 +19,8 @@ namespace FoodCourt
 
             errorText.Text = "";
 
-            DummyLogin("lschwant0@europa.eu", "uM1%g)Aq0");
+            //DummyLogin("lschwant0@europa.eu", "uM1%g)Aq0");
+            DummyLogin("dgannyt@squidoo.com", "dN1|qg!,xuZ");
         }
 
         private void DummyLogin(string email, string password)
@@ -51,9 +52,19 @@ namespace FoodCourt
                             //berhasil
                             Console.WriteLine("Berhasil Login");
                             errorText.Text = "";
-                            MainForm mainForm = new MainForm(user.ID);
-                            mainForm.Show();
-                            this.Hide();
+
+                            if (user.RoleID == 1)
+                            {
+                                MainForm mainForm = new MainForm(user.ID);
+                                mainForm.Show();
+                                this.Hide();
+                            }
+                            else
+                            {
+                                memberMainForm mainForm = new memberMainForm(user.ID);
+                                mainForm.Show();
+                                this.Hide();
+                            }
                         }
                         else
                         {

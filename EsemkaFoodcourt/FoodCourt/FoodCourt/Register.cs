@@ -92,7 +92,7 @@ namespace FoodCourt
                             db.Users.Add(user);
                             db.SaveChanges();
 
-                            MainForm admin = new MainForm(db.Users.FirstOrDefault(u=>u.Email == user.Email).ID);
+                            memberMainForm admin = new memberMainForm(db.Users.FirstOrDefault(u=>u.Email == user.Email).ID);
                             admin.Show();
                             this.Hide();
                         }

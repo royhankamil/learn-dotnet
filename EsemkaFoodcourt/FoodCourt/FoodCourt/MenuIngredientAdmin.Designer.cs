@@ -42,9 +42,9 @@
             this.unitInput = new System.Windows.Forms.ComboBox();
             this.qtyInput = new System.Windows.Forms.NumericUpDown();
             this.ChooseIngredient = new System.Windows.Forms.ComboBox();
+            this.ingredientsBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.ingredientsBindingSource = new System.Windows.Forms.BindingSource(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
@@ -120,6 +120,7 @@
             this.cancelButton.TabIndex = 22;
             this.cancelButton.Text = "Cancel";
             this.cancelButton.UseVisualStyleBackColor = true;
+            this.cancelButton.Click += new System.EventHandler(this.cancelButton_Click);
             // 
             // saveButton
             // 
@@ -185,6 +186,10 @@
             this.ChooseIngredient.Size = new System.Drawing.Size(156, 21);
             this.ChooseIngredient.TabIndex = 2;
             // 
+            // ingredientsBindingSource
+            // 
+            this.ingredientsBindingSource.DataSource = typeof(FoodCourt.Resources.Ingredients);
+            // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -202,10 +207,6 @@
             this.label3.Size = new System.Drawing.Size(99, 13);
             this.label3.TabIndex = 0;
             this.label3.Text = "Choose Ingredient: ";
-            // 
-            // ingredientsBindingSource
-            // 
-            this.ingredientsBindingSource.DataSource = typeof(FoodCourt.Resources.Ingredients);
             // 
             // MenuIngredientAdmin
             // 

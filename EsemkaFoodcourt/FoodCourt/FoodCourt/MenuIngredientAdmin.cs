@@ -30,7 +30,8 @@ namespace FoodCourt
             link.Name = "Action";
             link.UseColumnTextForLinkValue = true;
             dataGridView1.Columns.Add(link);
-            
+
+            errorText.Text = "";
 
             groupBox1.Enabled = false;
 
@@ -81,7 +82,32 @@ namespace FoodCourt
                                                 mi.Qty,
                                                 Unit = u.Name
                                             }).ToList();
+                if (!dataGridView2.Columns.Contains("Action"))
+                {
+                    DataGridViewButtonColumn removeButton = new DataGridViewButtonColumn();
+                    removeButton.Text = "Remove";
+                    removeButton.HeaderText = "Action";
+                    removeButton.Name = "removeBUtton";
+                    removeButton.UseColumnTextForButtonValue = true;
+                    dataGridView2.Columns.Add(removeButton);
+
+                }
+
+                if (dataGridView1.Columns[e.ColumnIndex].Name == "Action")
+                {
+                    groupBox1.Enabled = true;
+                }
             }
+        }
+
+        private void cancelButton_Click(object sender, EventArgs e)
+        {
+            groupBox1.Enabled = false;
+            ChooseIngredient.SelectedIndex = 0;
+            unitInput.SelectedIndex = 0;
+            qtyInput.Value = 0;
+            errorText.Text = "";
+            dataGridView2.DataSource = null;
         }
     }
 }

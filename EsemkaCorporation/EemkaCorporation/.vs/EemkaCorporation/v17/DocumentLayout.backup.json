@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|d:\\lks_it_software\\learn-dotnet\\esemkacorporation\\eemkacorporation\\eemkacorporation\\properties\\mutationformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\properties\\mutationformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|d:\\lks_it_software\\learn-dotnet\\esemkacorporation\\eemkacorporation\\eemkacorporation\\properties\\mutationformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\properties\\mutationformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\eemkacorporation\\promotionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\promotionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\eemkacorporation\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\eemkacorporation\\promotionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\promotionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\eemkacorporation\\promotionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\promotionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\eemkacorporation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\eemkacorporation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\eemkacorporation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|d:\\lks_it_software\\learn-dotnet\\esemkacorporation\\eemkacorporation\\eemkacorporation\\properties\\mutationformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\properties\\mutationformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\eemkacorporation\\esemkadatamodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\esemkadatamodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\eemkacorporation\\promotionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\promotionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\eemkacorporation\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\eemkacorporation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\eemkacorporation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|d:\\lks_it_software\\learn-dotnet\\esemkacorporation\\eemkacorporation\\eemkacorporation\\properties\\mutationformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\properties\\mutationformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\eemkacorporation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|solutionrelative:eemkacorporation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F5B6960-B722-4185-B8EC-0BFFBBC8AF9F}|EemkaCorporation\\EemkaCorporation.csproj|D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\eemkacorporation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 209,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "ProfileForm.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\ProfileForm.cs",
               "RelativeDocumentMoniker": "EemkaCorporation\\ProfileForm.cs",
@@ -70,11 +70,12 @@
               "RelativeToolTip": "EemkaCorporation\\ProfileForm.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAawIIAAAC8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:44:01.512Z"
+              "WhenOpened": "2025-01-28T16:44:01.512Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "MainForm.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\MainForm.cs",
               "RelativeDocumentMoniker": "EemkaCorporation\\MainForm.cs",
@@ -82,22 +83,24 @@
               "RelativeToolTip": "EemkaCorporation\\MainForm.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAMwCoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:35:35.032Z"
+              "WhenOpened": "2025-01-28T15:35:35.032Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\MainForm.cs",
               "RelativeDocumentMoniker": "EemkaCorporation\\MainForm.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\MainForm.cs [Design]",
               "RelativeToolTip": "EemkaCorporation\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:31:50.733Z"
+              "WhenOpened": "2025-01-28T15:31:50.733Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "MutationFormcs.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\Properties\\MutationFormcs.cs",
               "RelativeDocumentMoniker": "EemkaCorporation\\Properties\\MutationFormcs.cs",
@@ -110,15 +113,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PromotionForm.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\PromotionForm.cs",
               "RelativeDocumentMoniker": "EemkaCorporation\\PromotionForm.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\PromotionForm.cs",
               "RelativeToolTip": "EemkaCorporation\\PromotionForm.cs",
-              "ViewState": "AgIAAFwAAACgYqWKyK8hwGMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAACAYqWKyK8jwGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T03:34:54.145Z"
+              "WhenOpened": "2025-01-29T03:34:54.145Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -134,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\Program.cs",
               "RelativeDocumentMoniker": "EemkaCorporation\\Program.cs",
@@ -159,7 +163,7 @@
         },
         {
           "DockedWidth": 191,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -167,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MutationFormcs.cs [Design]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\Properties\\MutationFormcs.cs",
               "RelativeDocumentMoniker": "EemkaCorporation\\Properties\\MutationFormcs.cs",
@@ -179,25 +183,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProfileForm.cs [Design]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\ProfileForm.cs",
               "RelativeDocumentMoniker": "EemkaCorporation\\ProfileForm.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\ProfileForm.cs [Design]",
               "RelativeToolTip": "EemkaCorporation\\ProfileForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:36:55.69Z"
+              "WhenOpened": "2025-01-28T16:36:55.69Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "esemkaDataModel.edmx [Diagram1]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\esemkaDataModel.edmx",
               "RelativeDocumentMoniker": "EemkaCorporation\\esemkaDataModel.edmx",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\esemkaDataModel.edmx [Diagram1]",
               "RelativeToolTip": "EemkaCorporation\\esemkaDataModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-01-28T15:13:38.192Z"
+              "WhenOpened": "2025-01-28T15:13:38.192Z",
+              "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
@@ -208,7 +214,8 @@
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaCorporation\\EemkaCorporation\\EemkaCorporation\\PromotionForm.cs [Design]",
               "RelativeToolTip": "EemkaCorporation\\PromotionForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T03:34:51.399Z"
+              "WhenOpened": "2025-01-29T03:34:51.399Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

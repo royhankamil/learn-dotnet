@@ -6,6 +6,7 @@ using TestApi.Models;
 namespace TestApi.Controllers
 {
     [Route("api/controller")]
+    [ApiController]
     public class BooksController(DataContext _context) : Controller
     {
         DataContext _context = _context;
@@ -25,9 +26,30 @@ namespace TestApi.Controllers
             if (book == default) 
                 return NotFound(new { message = "book id couldn't found"});
 
-            //var user = _context.users.First(u => u.id == book.creator_id);
-            //book.creator = user;
+            var user = _context.users.First(u => u.id == book.creator_id);
+            book.creator = user;
+
+            var comments = _context.comment.Where(c => c.book_id == id);
+            book.comments = comments.ToList();
+
             return Ok(book);
+        }
+
+        [HttpGet("Books/User/{userid}")]
+        public IActionResult GetBooksByUserId(int userid)
+        {
+            var books = _context.books.Where(b => b.creator_id == userid).ToList();
+
+            if (books == null)
+                return NotFound(new { message = "couldn't find userid by given userid" });
+
+            //foreach (var item in books)
+            //{
+            //    var book = _context.books.First(b => b.id == item.book_id);
+            //    item.book = book;
+            //}
+
+            return Ok(books);
         }
 
         [HttpPost("Books")]

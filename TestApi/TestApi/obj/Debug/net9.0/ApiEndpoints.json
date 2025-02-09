@@ -84,6 +84,117 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "TestApi.Controllers.BooksController",
+    "Method": "GetBooksByUserId",
+    "RelativePath": "api/controller/Books/User/{userid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestApi.Controllers.CommentController",
+    "Method": "GetAllComment",
+    "RelativePath": "api/controller/Comment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestApi.Controllers.CommentController",
+    "Method": "PostComment",
+    "RelativePath": "api/controller/Comment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "commentDto",
+        "Type": "TestApi.Dto.CommentsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestApi.Controllers.CommentController",
+    "Method": "GetCommentById",
+    "RelativePath": "api/controller/Comment/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestApi.Controllers.CommentController",
+    "Method": "PutComment",
+    "RelativePath": "api/controller/Comment/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "commentDto",
+        "Type": "TestApi.Dto.CommentsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestApi.Controllers.CommentController",
+    "Method": "DeleteComment",
+    "RelativePath": "api/controller/Comment/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestApi.Controllers.CommentController",
+    "Method": "GetCommentByUserId",
+    "RelativePath": "api/controller/Comment/User/{userid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TestApi.Controllers.UsersController",
     "Method": "AllUsers",
     "RelativePath": "api/controller/Users",

@@ -28,9 +28,13 @@ namespace TestApi.Controllers
                 return NotFound(new {message = "id user  not found"});
             }
 
-            //var books = _context.books.Where(b => b.creator_id == user.id).ToList();
+            var books = _context.books.Where(b => b.creator_id == user.id).ToList();
 
-            //user.Books = books;
+            user.Books = books;
+
+
+            var comments = _context.comment.Where(c => c.user_id == id).ToList();
+            user.Comments = comments;
 
             return Ok(user);
 

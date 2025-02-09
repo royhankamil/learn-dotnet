@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\dto\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,36 +31,28 @@
       "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\dto\\commentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dto\\commentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0FA705E-C90F-45BE-A3A5-F96CFB03A423}|TestApi\\TestApi.csproj|d:\\lks_it_software\\learn-dotnet\\testapi\\testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -74,11 +78,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\CommentController.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:02:58.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T00:46:38.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksDto.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Dto\\BooksDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\Dto\\BooksDto.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Dto\\BooksDto.cs",
+              "RelativeToolTip": "TestApi\\Dto\\BooksDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T03:44:51.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommentsDto.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Dto\\CommentsDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\Dto\\CommentsDto.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Dto\\CommentsDto.cs",
+              "RelativeToolTip": "TestApi\\Dto\\CommentsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T03:46:18.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "usersDto.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Dto\\usersDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\Dto\\usersDto.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Dto\\usersDto.cs",
+              "RelativeToolTip": "TestApi\\Dto\\usersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T03:24:49.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Program.cs",
+              "RelativeDocumentMoniker": "TestApi\\Program.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Program.cs",
+              "RelativeToolTip": "TestApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:04:01.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T03:48:57.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "TestApi\\Models\\DataContext.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Models\\DataContext.cs",
+              "RelativeToolTip": "TestApi\\Models\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:26:44.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "TestApi\\Models\\Comment.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Models\\Comment.cs",
+              "RelativeToolTip": "TestApi\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:43:15.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -88,40 +203,26 @@
               "RelativeDocumentMoniker": "TestApi\\Controllers\\BooksController.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Controllers\\BooksController.cs",
               "RelativeToolTip": "TestApi\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADgvyYAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwDMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T18:06:01.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "TestApi\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "TestApi\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAASwCAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T03:48:57.48Z",
-              "EditorCaption": ""
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TestApi\\appsettings.Development.json",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\appsettings.Development.json",
+              "RelativeToolTip": "TestApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T20:06:02.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Books.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Models\\Books.cs",
-              "RelativeDocumentMoniker": "TestApi\\Models\\Books.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Models\\Books.cs",
-              "RelativeToolTip": "TestApi\\Models\\Books.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T18:36:57.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Users.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Models\\Users.cs",
               "RelativeDocumentMoniker": "TestApi\\Models\\Users.cs",
@@ -135,97 +236,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Models\\DataContext.cs",
-              "RelativeDocumentMoniker": "TestApi\\Models\\DataContext.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Models\\DataContext.cs",
-              "RelativeToolTip": "TestApi\\Models\\DataContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBkAAAAwAAAAAAAAAA==",
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "TestApi\\Models\\Books.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Models\\Books.cs",
+              "RelativeToolTip": "TestApi\\Models\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T18:26:44.242Z",
+              "WhenOpened": "2025-02-07T18:36:57.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "TestApi\\appsettings.Development.json",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\appsettings.Development.json",
-              "RelativeToolTip": "TestApi\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-02T20:06:02.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "TestApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "TestApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T00:46:38.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BooksDto.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Dto\\BooksDto.cs",
-              "RelativeDocumentMoniker": "TestApi\\Dto\\BooksDto.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Dto\\BooksDto.cs",
-              "RelativeToolTip": "TestApi\\Dto\\BooksDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T03:44:51.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CommentsDto.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Dto\\CommentsDto.cs",
-              "RelativeDocumentMoniker": "TestApi\\Dto\\CommentsDto.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Dto\\CommentsDto.cs",
-              "RelativeToolTip": "TestApi\\Dto\\CommentsDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T03:46:18.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "usersDto.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Dto\\usersDto.cs",
-              "RelativeDocumentMoniker": "TestApi\\Dto\\usersDto.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Dto\\usersDto.cs",
-              "RelativeToolTip": "TestApi\\Dto\\usersDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T03:24:49.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "TestApi\\Models\\Comment.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Models\\Comment.cs",
-              "RelativeToolTip": "TestApi\\Models\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T18:43:15.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\appsettings.json",
               "RelativeDocumentMoniker": "TestApi\\appsettings.json",
@@ -233,12 +256,11 @@
               "RelativeToolTip": "TestApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-02T20:06:00.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T20:06:00.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TestApi\\Properties\\launchSettings.json",
@@ -246,12 +268,11 @@
               "RelativeToolTip": "TestApi\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-02T20:05:49.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T20:05:49.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "TestApi.http",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\TestApi.http",
               "RelativeDocumentMoniker": "TestApi\\TestApi.http",
@@ -259,12 +280,11 @@
               "RelativeToolTip": "TestApi\\TestApi.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-02T20:05:18.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T20:05:18.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "TestApi\\WeatherForecast.cs",
@@ -272,21 +292,7 @@
               "RelativeToolTip": "TestApi\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T20:04:54.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Program.cs",
-              "RelativeDocumentMoniker": "TestApi\\Program.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\TestApi\\TestApi\\Program.cs",
-              "RelativeToolTip": "TestApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T20:04:01.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T20:04:54.993Z"
             }
           ]
         }

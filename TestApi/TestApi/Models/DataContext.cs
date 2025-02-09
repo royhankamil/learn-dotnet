@@ -12,7 +12,7 @@ namespace TestApi.Models
 
         public DbSet<Users> users { get; set; }
         public DbSet<Books> books { get; set; }
-        public DbSet<Comment> comments { get; set; }
+        public DbSet<Comment> comment { get; set; }
 
         //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         //{
@@ -28,12 +28,12 @@ namespace TestApi.Models
 
             modelBuilder.Entity<Comment>().HasOne(b => b.user)
                 .WithMany(u => u.Comments)
-                .HasForeignKey(u => u.userId)
+                .HasForeignKey(u => u.user_id)
                 .OnDelete(DeleteBehavior.Cascade);
 
             modelBuilder.Entity<Comment>().HasOne(b => b.book)
                 .WithMany(b => b.comments)
-                .HasForeignKey(u => u.bookId)
+                .HasForeignKey(u => u.book_id)
                 .OnDelete(DeleteBehavior.Cascade);
 
         }

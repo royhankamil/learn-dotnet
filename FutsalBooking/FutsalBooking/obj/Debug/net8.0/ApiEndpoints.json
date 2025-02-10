@@ -1,1 +1,181 @@
-[]
+[
+  {
+    "ContainingType": "FutsalBooking.Controllers.FieledsController",
+    "Method": "GetFields",
+    "RelativePath": "api/controller/fields",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FutsalBooking.Controllers.FieledsController",
+    "Method": "PostFields",
+    "RelativePath": "api/controller/fields",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fieldsDto",
+        "Type": "FutsalBooking.Dto.FieldsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FutsalBooking.Controllers.FieledsController",
+    "Method": "UpadateField",
+    "RelativePath": "api/controller/fields/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "fieldsDto",
+        "Type": "FutsalBooking.Dto.FieldsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FutsalBooking.Controllers.FieledsController",
+    "Method": "DeleteField",
+    "RelativePath": "api/controller/fields/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FutsalBooking.Controllers.PaymentsController",
+    "Method": "PostPayments",
+    "RelativePath": "api/controller/Payments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "paymentsDto",
+        "Type": "FutsalBooking.Dto.PaymentsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FutsalBooking.Controllers.PaymentsController",
+    "Method": "GetPayments",
+    "RelativePath": "api/controller/Payments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FutsalBooking.Controllers.ReservationController",
+    "Method": "GetReservations",
+    "RelativePath": "api/controller/Reservations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FutsalBooking.Controllers.ReservationController",
+    "Method": "PostReservations",
+    "RelativePath": "api/controller/Reservations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reservationsDto",
+        "Type": "FutsalBooking.Dto.ReservationsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FutsalBooking.Controllers.ReservationController",
+    "Method": "UpadateReservations",
+    "RelativePath": "api/controller/Reservations/{id}/cancel",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FutsalBooking.Controllers.UsersController",
+    "Method": "GetUserById",
+    "RelativePath": "api/controller/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FutsalBooking.Controllers.UsersController",
+    "Method": "Login",
+    "RelativePath": "api/controller/User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userdto",
+        "Type": "FutsalBooking.Dto.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FutsalBooking.Controllers.UsersController",
+    "Method": "Register",
+    "RelativePath": "api/controller/User/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDto",
+        "Type": "FutsalBooking.Dto.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FutsalBooking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bf72ee4d2ffe5202ccd5eb0c09c15a497288f9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cdf6b7c0f140a449b1ae5fbcb421dec4c9f81c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("FutsalBooking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FutsalBooking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

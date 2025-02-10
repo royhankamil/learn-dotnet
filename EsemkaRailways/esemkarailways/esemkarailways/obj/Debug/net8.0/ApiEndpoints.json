@@ -1,0 +1,360 @@
+[
+  {
+    "ContainingType": "esemkarailways.Controllers.PassengerController",
+    "Method": "GetPassenegr",
+    "RelativePath": "api/controller/Passenger",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.PassengerController",
+    "Method": "PostPassenger",
+    "RelativePath": "api/controller/Passenger",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "passengerDto",
+        "Type": "esemkarailways.Dto.PassengerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.PassengerController",
+    "Method": "GetPassengerbyId",
+    "RelativePath": "api/controller/Passenger/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.PassengerController",
+    "Method": "PutPassenger",
+    "RelativePath": "api/controller/Passenger/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "passengerDto",
+        "Type": "esemkarailways.Dto.PassengerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.PassengerController",
+    "Method": "DeletePassenger",
+    "RelativePath": "api/controller/Passenger/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.ScheduleController",
+    "Method": "GetSChedule",
+    "RelativePath": "api/controller/Schedule",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.ScheduleController",
+    "Method": "PostSchedule",
+    "RelativePath": "api/controller/Schedule",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "scheduleDto",
+        "Type": "esemkarailways.Dto.ScheduleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.ScheduleController",
+    "Method": "GetScheduleById",
+    "RelativePath": "api/controller/Schedule/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.ScheduleController",
+    "Method": "PutSchedule",
+    "RelativePath": "api/controller/Schedule/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "scheduleDto",
+        "Type": "esemkarailways.Dto.ScheduleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.ScheduleController",
+    "Method": "DeleteSchedule",
+    "RelativePath": "api/controller/Schedule/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.TicketController",
+    "Method": "GetScheduleByPassengerID",
+    "RelativePath": "api/controller/Schedule/Passenger/{PassengerID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PassengerID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "trainID",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "departureDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.StationController",
+    "Method": "GetStation",
+    "RelativePath": "api/controller/Station",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.StationController",
+    "Method": "PostStation",
+    "RelativePath": "api/controller/Station",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stationDto",
+        "Type": "esemkarailways.Dto.StationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.StationController",
+    "Method": "GetStations",
+    "RelativePath": "api/controller/Station/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.StationController",
+    "Method": "PutStation",
+    "RelativePath": "api/controller/Station/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "stationDto",
+        "Type": "esemkarailways.Dto.StationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.StationController",
+    "Method": "DeleteStation",
+    "RelativePath": "api/controller/Station/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.TicketController",
+    "Method": "PostTicket",
+    "RelativePath": "api/controller/Ticket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ticketDto",
+        "Type": "esemkarailways.Dto.TicketDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.TrainController",
+    "Method": "GetTrain",
+    "RelativePath": "api/controller/Train",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.TrainController",
+    "Method": "PostTrain",
+    "RelativePath": "api/controller/Train",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainDto",
+        "Type": "esemkarailways.Dto.TrainDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.TrainController",
+    "Method": "GetTrains",
+    "RelativePath": "api/controller/Train/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.TrainController",
+    "Method": "PutTrain",
+    "RelativePath": "api/controller/Train/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "trainDto",
+        "Type": "esemkarailways.Dto.TrainDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "esemkarailways.Controllers.TrainController",
+    "Method": "DeleteTrain",
+    "RelativePath": "api/controller/Train/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

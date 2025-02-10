@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|solutionrelative:futsalbooking\\controllers\\fieledscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|d:\\lks_it_software\\learn-dotnet\\futsalbooking\\futsalbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|solutionrelative:futsalbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|d:\\lks_it_software\\learn-dotnet\\futsalbooking\\futsalbooking\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|solutionrelative:futsalbooking\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|d:\\lks_it_software\\learn-dotnet\\futsalbooking\\futsalbooking\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|solutionrelative:futsalbooking\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|solutionrelative:futsalbooking\\models\\fields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|d:\\lks_it_software\\learn-dotnet\\futsalbooking\\futsalbooking\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|solutionrelative:futsalbooking\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|d:\\lks_it_software\\learn-dotnet\\futsalbooking\\futsalbooking\\dto\\reservationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|solutionrelative:futsalbooking\\dto\\reservationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -65,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|d:\\lks_it_software\\learn-dotnet\\futsalbooking\\futsalbooking\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|solutionrelative:futsalbooking\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|d:\\lks_it_software\\learn-dotnet\\futsalbooking\\futsalbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E7AF1-A5A3-4CD8-AB23-72387BBD11AB}|FutsalBooking\\FutsalBooking.csproj|solutionrelative:futsalbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,21 +78,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PaymentsController.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Controllers\\PaymentsController.cs",
-              "RelativeDocumentMoniker": "FutsalBooking\\Controllers\\PaymentsController.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Controllers\\PaymentsController.cs",
-              "RelativeToolTip": "FutsalBooking\\Controllers\\PaymentsController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T02:35:08.444Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -101,27 +88,27 @@
               "RelativeDocumentMoniker": "FutsalBooking\\Controllers\\FieledsController.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Controllers\\FieledsController.cs",
               "RelativeToolTip": "FutsalBooking\\Controllers\\FieledsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T01:22:46.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "DataContext.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Models\\DataContext.cs",
               "RelativeDocumentMoniker": "FutsalBooking\\Models\\DataContext.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Models\\DataContext.cs",
               "RelativeToolTip": "FutsalBooking\\Models\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T18:55:55.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ReservationsDto.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\ReservationsDto.cs",
               "RelativeDocumentMoniker": "FutsalBooking\\Dto\\ReservationsDto.cs",
@@ -129,12 +116,11 @@
               "RelativeToolTip": "FutsalBooking\\Dto\\ReservationsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T18:44:16.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T18:44:16.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "UsersDto.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\UsersDto.cs",
               "RelativeDocumentMoniker": "FutsalBooking\\Dto\\UsersDto.cs",
@@ -142,12 +128,11 @@
               "RelativeToolTip": "FutsalBooking\\Dto\\UsersDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T18:42:14.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T18:42:14.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Fields.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Models\\Fields.cs",
               "RelativeDocumentMoniker": "FutsalBooking\\Models\\Fields.cs",
@@ -155,12 +140,11 @@
               "RelativeToolTip": "FutsalBooking\\Models\\Fields.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T18:37:47.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T18:37:47.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Payments.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Models\\Payments.cs",
               "RelativeDocumentMoniker": "FutsalBooking\\Models\\Payments.cs",
@@ -168,12 +152,11 @@
               "RelativeToolTip": "FutsalBooking\\Models\\Payments.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T18:20:28.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T18:20:28.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Reservations.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Models\\Reservations.cs",
               "RelativeDocumentMoniker": "FutsalBooking\\Models\\Reservations.cs",
@@ -181,12 +164,11 @@
               "RelativeToolTip": "FutsalBooking\\Models\\Reservations.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAMwA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T18:14:43.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T18:14:43.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Users.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Models\\Users.cs",
               "RelativeDocumentMoniker": "FutsalBooking\\Models\\Users.cs",
@@ -194,12 +176,11 @@
               "RelativeToolTip": "FutsalBooking\\Models\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T12:09:24.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T12:09:24.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "FutsalBooking\\Controllers\\UsersController.cs",
@@ -207,12 +188,11 @@
               "RelativeToolTip": "FutsalBooking\\Controllers\\UsersController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAArwDwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T00:40:04.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T00:40:04.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PaymentsDto.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\PaymentsDto.cs",
               "RelativeDocumentMoniker": "FutsalBooking\\Dto\\PaymentsDto.cs",
@@ -220,77 +200,11 @@
               "RelativeToolTip": "FutsalBooking\\Dto\\PaymentsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T18:44:41.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T18:44:41.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ReservationController.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Controllers\\ReservationController.cs",
-              "RelativeDocumentMoniker": "FutsalBooking\\Controllers\\ReservationController.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Controllers\\ReservationController.cs",
-              "RelativeToolTip": "FutsalBooking\\Controllers\\ReservationController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T02:09:13.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FieldsDto.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\FieldsDto.cs",
-              "RelativeDocumentMoniker": "FutsalBooking\\Dto\\FieldsDto.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\FieldsDto.cs",
-              "RelativeToolTip": "FutsalBooking\\Dto\\FieldsDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T18:44:59.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\appsettings.json",
-              "RelativeDocumentMoniker": "FutsalBooking\\appsettings.json",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\appsettings.json",
-              "RelativeToolTip": "FutsalBooking\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-09T19:24:11.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "FutsalBooking\\Dto\\RegisterDto.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\RegisterDto.cs",
-              "RelativeToolTip": "FutsalBooking\\Dto\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T01:06:29.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\LoginDto.cs",
-              "RelativeDocumentMoniker": "FutsalBooking\\Dto\\LoginDto.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\LoginDto.cs",
-              "RelativeToolTip": "FutsalBooking\\Dto\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T01:03:59.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Program.cs",
               "RelativeDocumentMoniker": "FutsalBooking\\Program.cs",
@@ -300,6 +214,78 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T12:02:19.46Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "FutsalBooking\\Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "FutsalBooking\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T02:35:08.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "FutsalBooking\\Controllers\\ReservationController.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "FutsalBooking\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T02:09:13.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FieldsDto.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\FieldsDto.cs",
+              "RelativeDocumentMoniker": "FutsalBooking\\Dto\\FieldsDto.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\FieldsDto.cs",
+              "RelativeToolTip": "FutsalBooking\\Dto\\FieldsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:44:59.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\appsettings.json",
+              "RelativeDocumentMoniker": "FutsalBooking\\appsettings.json",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\appsettings.json",
+              "RelativeToolTip": "FutsalBooking\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T19:24:11.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "FutsalBooking\\Dto\\RegisterDto.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "FutsalBooking\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T01:06:29.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "FutsalBooking\\Dto\\LoginDto.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\FutsalBooking\\FutsalBooking\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "FutsalBooking\\Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T01:03:59.019Z"
             }
           ]
         }

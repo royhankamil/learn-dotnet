@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|d:\\lks_it_software\\learn-dotnet\\esemkarailways\\esemkarailways\\esemkarailways\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|solutionrelative:esemkarailways\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|d:\\lks_it_software\\learn-dotnet\\esemkarailways\\esemkarailways\\esemkarailways\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|solutionrelative:esemkarailways\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|d:\\lks_it_software\\learn-dotnet\\esemkarailways\\esemkarailways\\esemkarailways\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|solutionrelative:esemkarailways\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|d:\\lks_it_software\\learn-dotnet\\esemkarailways\\esemkarailways\\esemkarailways\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|solutionrelative:esemkarailways\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +23,8 @@
       "RelativeMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|solutionrelative:esemkarailways\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|d:\\lks_it_software\\learn-dotnet\\esemkarailways\\esemkarailways\\esemkarailways\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|solutionrelative:esemkarailways\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|d:\\lks_it_software\\learn-dotnet\\esemkarailways\\esemkarailways\\esemkarailways\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|solutionrelative:esemkarailways\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|d:\\lks_it_software\\learn-dotnet\\esemkarailways\\esemkarailways\\esemkarailways\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|solutionrelative:esemkarailways\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|d:\\lks_it_software\\learn-dotnet\\esemkarailways\\esemkarailways\\esemkarailways\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|solutionrelative:esemkarailways\\esemkarailways.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|d:\\lks_it_software\\learn-dotnet\\esemkarailways\\esemkarailways\\esemkarailways\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|solutionrelative:esemkarailways\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|d:\\lks_it_software\\learn-dotnet\\esemkarailways\\esemkarailways\\esemkarailways\\dto\\passengerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18008F48-8A7E-4DAE-80A1-3932DC317FDB}|esemkarailways\\esemkarailways.csproj|solutionrelative:esemkarailways\\dto\\passengerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -98,33 +98,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Schedule.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Models\\Schedule.cs",
-              "RelativeDocumentMoniker": "esemkarailways\\Models\\Schedule.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Models\\Schedule.cs",
-              "RelativeToolTip": "esemkarailways\\Models\\Schedule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T07:52:04.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "StationDto.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Dto\\StationDto.cs",
-              "RelativeDocumentMoniker": "esemkarailways\\Dto\\StationDto.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Dto\\StationDto.cs",
-              "RelativeToolTip": "esemkarailways\\Dto\\StationDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T09:07:15.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TrainDto.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Dto\\TrainDto.cs",
               "RelativeDocumentMoniker": "esemkarailways\\Dto\\TrainDto.cs",
@@ -132,12 +106,11 @@
               "RelativeToolTip": "esemkarailways\\Dto\\TrainDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T09:10:19.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T09:10:19.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TicketController.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Controllers\\TicketController.cs",
               "RelativeDocumentMoniker": "esemkarailways\\Controllers\\TicketController.cs",
@@ -145,12 +118,11 @@
               "RelativeToolTip": "esemkarailways\\Controllers\\TicketController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T17:01:42.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T17:01:42.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Passenger.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Models\\Passenger.cs",
               "RelativeDocumentMoniker": "esemkarailways\\Models\\Passenger.cs",
@@ -158,12 +130,11 @@
               "RelativeToolTip": "esemkarailways\\Models\\Passenger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T07:50:37.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T07:50:37.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ScheduleDto.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Dto\\ScheduleDto.cs",
               "RelativeDocumentMoniker": "esemkarailways\\Dto\\ScheduleDto.cs",
@@ -171,12 +142,11 @@
               "RelativeToolTip": "esemkarailways\\Dto\\ScheduleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T08:59:42.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T08:59:42.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ScheduleController.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Controllers\\ScheduleController.cs",
               "RelativeDocumentMoniker": "esemkarailways\\Controllers\\ScheduleController.cs",
@@ -189,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TicketDto.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Dto\\TicketDto.cs",
               "RelativeDocumentMoniker": "esemkarailways\\Dto\\TicketDto.cs",
@@ -197,25 +167,24 @@
               "RelativeToolTip": "esemkarailways\\Dto\\TicketDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T09:08:37.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T09:08:37.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "DataContext.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "esemkarailways\\Data\\DataContext.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Data\\DataContext.cs",
               "RelativeToolTip": "esemkarailways\\Data\\DataContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwA8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T09:19:45.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PassengerController.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Controllers\\PassengerController.cs",
               "RelativeDocumentMoniker": "esemkarailways\\Controllers\\PassengerController.cs",
@@ -223,8 +192,7 @@
               "RelativeToolTip": "esemkarailways\\Controllers\\PassengerController.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:56:13.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T10:56:13.263Z"
             },
             {
               "$type": "Document",
@@ -241,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Ticket.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Models\\Ticket.cs",
               "RelativeDocumentMoniker": "esemkarailways\\Models\\Ticket.cs",
@@ -249,17 +217,16 @@
               "RelativeToolTip": "esemkarailways\\Models\\Ticket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T07:56:19.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T07:56:19.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\appsettings.json",
               "RelativeDocumentMoniker": "esemkarailways\\appsettings.json",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\appsettings.json",
-              "RelativeToolTip": "esemkarailways\\appsettings.json",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\appsettings.json*",
+              "RelativeToolTip": "esemkarailways\\appsettings.json*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-10T07:46:23.266Z",
@@ -267,7 +234,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
+              "Title": "StationDto.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Dto\\StationDto.cs",
+              "RelativeDocumentMoniker": "esemkarailways\\Dto\\StationDto.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Dto\\StationDto.cs",
+              "RelativeToolTip": "esemkarailways\\Dto\\StationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:07:15.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "esemkarailways\\Models\\Schedule.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Models\\Schedule.cs",
+              "RelativeToolTip": "esemkarailways\\Models\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:52:04.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Station.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Models\\Station.cs",
               "RelativeDocumentMoniker": "esemkarailways\\Models\\Station.cs",
@@ -275,12 +266,11 @@
               "RelativeToolTip": "esemkarailways\\Models\\Station.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T07:54:08.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T07:54:08.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Train.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Models\\Train.cs",
               "RelativeDocumentMoniker": "esemkarailways\\Models\\Train.cs",
@@ -288,12 +278,11 @@
               "RelativeToolTip": "esemkarailways\\Models\\Train.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T07:57:47.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T07:57:47.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "TrainController.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Controllers\\TrainController.cs",
               "RelativeDocumentMoniker": "esemkarailways\\Controllers\\TrainController.cs",
@@ -301,12 +290,11 @@
               "RelativeToolTip": "esemkarailways\\Controllers\\TrainController.cs",
               "ViewState": "AgIAACcAAAAA09LS0tIMwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T17:06:08.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T17:06:08.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "StationController.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\Controllers\\StationController.cs",
               "RelativeDocumentMoniker": "esemkarailways\\Controllers\\StationController.cs",
@@ -314,12 +302,11 @@
               "RelativeToolTip": "esemkarailways\\Controllers\\StationController.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T16:23:08.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T16:23:08.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "esemkarailways.http",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\esemkarailways.http",
               "RelativeDocumentMoniker": "esemkarailways\\esemkarailways.http",
@@ -327,33 +314,30 @@
               "RelativeToolTip": "esemkarailways\\esemkarailways.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-10T10:05:50.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T10:05:50.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "esemkarailways",
+              "DocumentIndex": 18,
+              "Title": "esemkarailways.csproj",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\esemkarailways.csproj",
               "RelativeDocumentMoniker": "esemkarailways\\esemkarailways.csproj",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\esemkarailways.csproj",
               "RelativeToolTip": "esemkarailways\\esemkarailways.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-10T09:19:56.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T09:19:56.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "esemkarailways",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\esemkarailways.csproj",
               "RelativeDocumentMoniker": "esemkarailways\\esemkarailways.csproj",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\EsemkaRailways\\esemkarailways\\esemkarailways\\esemkarailways.csproj",
               "RelativeToolTip": "esemkarailways\\esemkarailways.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-10T10:54:09.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T10:54:09.232Z"
             },
             {
               "$type": "Document",
@@ -365,8 +349,7 @@
               "RelativeToolTip": "esemkarailways\\Dto\\PassengerDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T08:57:46.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T08:57:46.74Z"
             }
           ]
         }

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|d:\\lks_it_software\\learn-dotnet\\jwt_dasar\\jwt_dasar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|solutionrelative:jwt_dasar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|d:\\lks_it_software\\learn-dotnet\\jwt_dasar\\jwt_dasar\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|solutionrelative:jwt_dasar\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|d:\\lks_it_software\\learn-dotnet\\jwt_dasar\\jwt_dasar\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|solutionrelative:jwt_dasar\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|d:\\lks_it_software\\learn-dotnet\\jwt_dasar\\jwt_dasar\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|solutionrelative:jwt_dasar\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|d:\\lks_it_software\\learn-dotnet\\jwt_dasar\\jwt_dasar\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|solutionrelative:jwt_dasar\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|d:\\lks_it_software\\learn-dotnet\\jwt_dasar\\jwt_dasar\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|solutionrelative:jwt_dasar\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|d:\\lks_it_software\\learn-dotnet\\jwt_dasar\\jwt_dasar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|solutionrelative:jwt_dasar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|d:\\lks_it_software\\learn-dotnet\\jwt_dasar\\jwt_dasar\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|solutionrelative:jwt_dasar\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|d:\\lks_it_software\\learn-dotnet\\jwt_dasar\\jwt_dasar\\dto\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBED7CC-D165-4243-B707-BE749704FB3F}|JWT_Dasar\\JWT_Dasar.csproj|solutionrelative:jwt_dasar\\dto\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "JWT_Dasar\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "JWT_Dasar\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:37:11.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BooksDto.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\Dto\\BooksDto.cs",
+              "RelativeDocumentMoniker": "JWT_Dasar\\Dto\\BooksDto.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\Dto\\BooksDto.cs",
+              "RelativeToolTip": "JWT_Dasar\\Dto\\BooksDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:36:36.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "JWT_Dasar\\Models\\Books.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\Models\\Books.cs",
+              "RelativeToolTip": "JWT_Dasar\\Models\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:35:31.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "JWT_Dasar\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "JWT_Dasar\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAlwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:44:29.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\DataContext.cs",
+              "RelativeDocumentMoniker": "JWT_Dasar\\DataContext.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\DataContext.cs",
+              "RelativeToolTip": "JWT_Dasar\\DataContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:04:30.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "JWT_Dasar\\Dto\\UserDto.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\Dto\\UserDto.cs",
+              "RelativeToolTip": "JWT_Dasar\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:03:44.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\Program.cs",
+              "RelativeDocumentMoniker": "JWT_Dasar\\Program.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\Program.cs*",
+              "RelativeToolTip": "JWT_Dasar\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T04:30:53.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "JWT_Dasar\\Models\\Users.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\Models\\Users.cs",
+              "RelativeToolTip": "JWT_Dasar\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:02:14.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT_Dasar\\appsettings.json",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\JWT_Dasar\\JWT_Dasar\\appsettings.json",
+              "RelativeToolTip": "JWT_Dasar\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T04:38:52.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("esemkarailways")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e47fe1c8af255c670198fc76b3a1913a4c049308")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45b261b3acc266d31d8136a848c01e94bb8f8bad")]
 [assembly: System.Reflection.AssemblyProductAttribute("esemkarailways")]
 [assembly: System.Reflection.AssemblyTitleAttribute("esemkarailways")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

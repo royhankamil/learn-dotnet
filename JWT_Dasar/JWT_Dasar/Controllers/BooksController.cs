@@ -20,7 +20,8 @@ namespace JWT_Dasar.Controllers
             return Ok(data);
         }
 
-        [Authorize(Policy = "UserOnly")]
+        //[Authorize(Policy = "UserOnly")]
+        [Authorize(Roles = "User")]
         [HttpGet("Books/{id}")]
         public IActionResult GetBookByID(int id)
         {

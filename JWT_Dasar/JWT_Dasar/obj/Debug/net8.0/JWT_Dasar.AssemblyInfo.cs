@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JWT_Dasar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45b261b3acc266d31d8136a848c01e94bb8f8bad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c053bf7e6b89583a9c0f9b091fb38f7583a5982e")]
 [assembly: System.Reflection.AssemblyProductAttribute("JWT_Dasar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JWT_Dasar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

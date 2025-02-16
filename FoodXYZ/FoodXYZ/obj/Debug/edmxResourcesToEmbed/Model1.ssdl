@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FoodXYZModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="tbl_barang">
+    <Key>
+      <PropertyRef Name="id_barang" />
+    </Key>
+    <Property Name="id_barang" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kode_barang" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="nama_barang" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="expired_date" Type="date" Nullable="false" />
+    <Property Name="jumlah_barang" Type="bigint" Nullable="false" />
+    <Property Name="satuan" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="harga_satuan" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_log">
+    <Key>
+      <PropertyRef Name="id_log" />
+    </Key>
+    <Property Name="id_log" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="waktu" Type="timestamp" StoreGeneratedPattern="Computed" Nullable="false" />
+    <Property Name="aktivitas" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="id_user" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_transaksi">
+    <Key>
+      <PropertyRef Name="id_transaksi" />
+    </Key>
+    <Property Name="id_transaksi" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="no_transaksi" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="tgl_transaksi" Type="date" Nullable="false" />
+    <Property Name="total_bayar" Type="bigint" Nullable="false" />
+    <Property Name="id_user" Type="int" Nullable="false" />
+    <Property Name="id_barang" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_user">
+    <Key>
+      <PropertyRef Name="id_user" />
+    </Key>
+    <Property Name="id_user" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="tipe_user" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="nama" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="alamat" Type="nchar" MaxLength="150" Nullable="false" />
+    <Property Name="telepon" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="username" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="password" Type="nchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_tbl_log_tbl_user">
+    <End Role="tbl_user" Type="Self.tbl_user" Multiplicity="1" />
+    <End Role="tbl_log" Type="Self.tbl_log" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_user">
+        <PropertyRef Name="id_user" />
+      </Principal>
+      <Dependent Role="tbl_log">
+        <PropertyRef Name="id_user" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbl_transaksi_tbl_barang">
+    <End Role="tbl_barang" Type="Self.tbl_barang" Multiplicity="1" />
+    <End Role="tbl_transaksi" Type="Self.tbl_transaksi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_barang">
+        <PropertyRef Name="id_barang" />
+      </Principal>
+      <Dependent Role="tbl_transaksi">
+        <PropertyRef Name="id_barang" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbl_transaksi_tbl_user">
+    <End Role="tbl_user" Type="Self.tbl_user" Multiplicity="1" />
+    <End Role="tbl_transaksi" Type="Self.tbl_transaksi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_user">
+        <PropertyRef Name="id_user" />
+      </Principal>
+      <Dependent Role="tbl_transaksi">
+        <PropertyRef Name="id_user" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FoodXYZModelStoreContainer">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_barang" EntityType="Self.tbl_barang" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_log" EntityType="Self.tbl_log" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_transaksi" EntityType="Self.tbl_transaksi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_user" EntityType="Self.tbl_user" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_tbl_log_tbl_user" Association="Self.FK_tbl_log_tbl_user">
+      <End Role="tbl_user" EntitySet="tbl_user" />
+      <End Role="tbl_log" EntitySet="tbl_log" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbl_transaksi_tbl_barang" Association="Self.FK_tbl_transaksi_tbl_barang">
+      <End Role="tbl_barang" EntitySet="tbl_barang" />
+      <End Role="tbl_transaksi" EntitySet="tbl_transaksi" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbl_transaksi_tbl_user" Association="Self.FK_tbl_transaksi_tbl_user">
+      <End Role="tbl_user" EntitySet="tbl_user" />
+      <End Role="tbl_transaksi" EntitySet="tbl_transaksi" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

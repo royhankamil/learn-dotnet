@@ -1,0 +1,15 @@
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\bin\Debug\FoodXYZ.exe.config
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\bin\Debug\FoodXYZ.exe
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\bin\Debug\FoodXYZ.pdb
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\bin\Debug\EntityFramework.dll
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\bin\Debug\EntityFramework.SqlServer.dll
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\bin\Debug\EntityFramework.xml
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\bin\Debug\EntityFramework.SqlServer.xml
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\obj\Debug\FoodXYZ.csproj.AssemblyReference.cache
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\obj\Debug\FoodXYZ.Form1.resources
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\obj\Debug\FoodXYZ.Properties.Resources.resources
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\obj\Debug\FoodXYZ.csproj.GenerateResource.cache
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\obj\Debug\FoodXYZ.csproj.CoreCompileInputs.cache
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\obj\Debug\FoodXYZ.csproj.Up2Date
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\obj\Debug\FoodXYZ.exe
+D:\lks_it_software\learn-dotnet\FoodXYZ\FoodXYZ\obj\Debug\FoodXYZ.pdb

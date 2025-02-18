@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FoodXYZModelStoreContainer" CdmEntityContainer="FoodXYZEntities1">
+    <EntitySetMapping Name="tbl_barang">
+      <EntityTypeMapping TypeName="FoodXYZModel.tbl_barang">
+        <MappingFragment StoreEntitySet="tbl_barang">
+          <ScalarProperty Name="id_barang" ColumnName="id_barang" />
+          <ScalarProperty Name="kode_barang" ColumnName="kode_barang" />
+          <ScalarProperty Name="nama_barang" ColumnName="nama_barang" />
+          <ScalarProperty Name="expired_date" ColumnName="expired_date" />
+          <ScalarProperty Name="jumlah_barang" ColumnName="jumlah_barang" />
+          <ScalarProperty Name="satuan" ColumnName="satuan" />
+          <ScalarProperty Name="harga_satuan" ColumnName="harga_satuan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_log">
+      <EntityTypeMapping TypeName="FoodXYZModel.tbl_log">
+        <MappingFragment StoreEntitySet="tbl_log">
+          <ScalarProperty Name="id_log" ColumnName="id_log" />
+          <ScalarProperty Name="waktu" ColumnName="waktu" />
+          <ScalarProperty Name="aktivitas" ColumnName="aktivitas" />
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_transaksi">
+      <EntityTypeMapping TypeName="FoodXYZModel.tbl_transaksi">
+        <MappingFragment StoreEntitySet="tbl_transaksi">
+          <ScalarProperty Name="id_transaksi" ColumnName="id_transaksi" />
+          <ScalarProperty Name="no_transaksi" ColumnName="no_transaksi" />
+          <ScalarProperty Name="tgl_transaksi" ColumnName="tgl_transaksi" />
+          <ScalarProperty Name="total_bayar" ColumnName="total_bayar" />
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+          <ScalarProperty Name="id_barang" ColumnName="id_barang" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_user">
+      <EntityTypeMapping TypeName="FoodXYZModel.tbl_user">
+        <MappingFragment StoreEntitySet="tbl_user">
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+          <ScalarProperty Name="tipe_user" ColumnName="tipe_user" />
+          <ScalarProperty Name="nama" ColumnName="nama" />
+          <ScalarProperty Name="alamat" ColumnName="alamat" />
+          <ScalarProperty Name="telpon" ColumnName="telpon" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

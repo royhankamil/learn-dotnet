@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d19a04579dd84bbfa86428449979b46d" Name="Diagram1">
+        <EntityTypeShape EntityType="FoodXYZModel.tbl_barang" Width="1.5" PointX="4.125" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodXYZModel.tbl_log" Width="1.5" PointX="0.5" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodXYZModel.tbl_transaksi" Width="1.5" PointX="4.875" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodXYZModel.tbl_user" Width="1.5" PointX="0.875" PointY="1.25" IsExpanded="true" />
+        <AssociationConnector Association="FoodXYZModel.FK_tbl_transaksi_tbl_barang" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodXYZModel.FK_tbl_log_tbl_user" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodXYZModel.FK_tbl_transaksi_tbl_user" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

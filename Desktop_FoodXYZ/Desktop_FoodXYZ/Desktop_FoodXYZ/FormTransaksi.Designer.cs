@@ -61,6 +61,7 @@
             this.Username = new System.Windows.Forms.TextBox();
             this.KodeBarang = new System.Windows.Forms.ComboBox();
             this.TotHarga = new System.Windows.Forms.TextBox();
+            this.printDocument1 = new System.Drawing.Printing.PrintDocument();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -353,6 +354,7 @@
             this.button2.TabIndex = 33;
             this.button2.Text = "Print";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // Username
             // 
@@ -386,6 +388,10 @@
             this.TotHarga.ReadOnly = true;
             this.TotHarga.Size = new System.Drawing.Size(184, 24);
             this.TotHarga.TabIndex = 37;
+            // 
+            // printDocument1
+            // 
+            this.printDocument1.PrintPage += new System.Drawing.Printing.PrintPageEventHandler(this.printDocument1_PrintPage);
             // 
             // FormTransaksi
             // 
@@ -462,5 +468,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Quantitas_column;
         private System.Windows.Forms.DataGridViewTextBoxColumn Subtotal;
         private System.Windows.Forms.TextBox TotHarga;
+        private System.Drawing.Printing.PrintDocument printDocument1;
     }
 }

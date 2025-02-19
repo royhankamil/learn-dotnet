@@ -157,5 +157,29 @@ namespace Desktop_FoodXYZ
                 }
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            PrintDialog printDialog = new PrintDialog();
+            printDialog.Document = printDocument1;
+
+            if (printDialog.ShowDialog() == DialogResult.OK)
+            {
+                printDocument1.Print();
+            }
+        }
+
+        private void printDocument1_PrintPage(object sender, System.Drawing.Printing.PrintPageEventArgs e)
+        {
+            Font font = new Font("Arial", 12);
+            Brush brush = Brushes.Black;
+
+            float x = 100;
+            float y = 100;
+
+            e.Graphics.DrawString(dataGridView1.DataSource.ToString(), font, brush, x, y);
+        }
+
+
     }
 }

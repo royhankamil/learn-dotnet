@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c5fbb839cf1a4a088eacab62189c5123" Name="Diagram1">
+        <EntityTypeShape EntityType="EsemNetModel.Jeni" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="EsemNetModel.KodePotonganHarga" Width="1.5" PointX="3" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="EsemNetModel.Komputer" Width="1.5" PointX="3" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="EsemNetModel.Member" Width="1.5" PointX="3" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EsemNetModel.Paket" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="EsemNetModel.Pengguna" Width="1.5" PointX="3" PointY="14.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="EsemNetModel.Transaksi" Width="1.5" PointX="5.25" PointY="2.625" IsExpanded="true" />
+        <AssociationConnector Association="EsemNetModel.FK_Komputer_Jenis" ManuallyRouted="false" />
+        <AssociationConnector Association="EsemNetModel.FK_Paket_Jenis" ManuallyRouted="false" />
+        <AssociationConnector Association="EsemNetModel.FK_Transaksi_PotonganHarga" ManuallyRouted="false" />
+        <AssociationConnector Association="EsemNetModel.FK_Transaksi_Komputer" ManuallyRouted="false" />
+        <AssociationConnector Association="EsemNetModel.FK_Transaksi_Member" ManuallyRouted="false" />
+        <AssociationConnector Association="EsemNetModel.FK_Transaksi_Paket" ManuallyRouted="false" />
+        <AssociationConnector Association="EsemNetModel.FK_Transaksi_Operator" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

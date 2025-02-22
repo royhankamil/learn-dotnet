@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EsemNetModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Jenis">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Jenis" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="KodePotonganHarga">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nama" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Kode" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Presentase" Type="int" Nullable="false" />
+    <Property Name="Maksimal" Type="float" />
+    <Property Name="BerlakuSampai" Type="date" />
+  </EntityType>
+  <EntityType Name="Komputer">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nomor" Type="int" Nullable="false" />
+    <Property Name="Merek" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="IDJenis" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Member">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nama" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Telepon" Type="varchar" MaxLength="16" Nullable="false" />
+    <Property Name="Alamat" Type="text" />
+    <Property Name="MasihAktif" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Paket">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nama" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="IDJenis" Type="int" />
+    <Property Name="HargaPerJam" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Pengguna">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NamaPengguna" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="KataSandi" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Transaksi">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDKomputer" Type="int" Nullable="false" />
+    <Property Name="IDMember" Type="int" />
+    <Property Name="IDPaket" Type="int" Nullable="false" />
+    <Property Name="IDPotonganHarga" Type="int" />
+    <Property Name="Tanggal" Type="date" Nullable="false" />
+    <Property Name="Waktu" Type="time" Precision="7" Nullable="false" />
+    <Property Name="DibuatOleh" Type="int" Nullable="false" />
+    <Property Name="Durasi" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Komputer_Jenis">
+    <End Role="Jenis" Type="Self.Jenis" Multiplicity="1" />
+    <End Role="Komputer" Type="Self.Komputer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Jenis">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Komputer">
+        <PropertyRef Name="IDJenis" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Paket_Jenis">
+    <End Role="Jenis" Type="Self.Jenis" Multiplicity="0..1" />
+    <End Role="Paket" Type="Self.Paket" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Jenis">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Paket">
+        <PropertyRef Name="IDJenis" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transaksi_Komputer">
+    <End Role="Komputer" Type="Self.Komputer" Multiplicity="1" />
+    <End Role="Transaksi" Type="Self.Transaksi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Komputer">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Transaksi">
+        <PropertyRef Name="IDKomputer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transaksi_Member">
+    <End Role="Member" Type="Self.Member" Multiplicity="0..1" />
+    <End Role="Transaksi" Type="Self.Transaksi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Member">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Transaksi">
+        <PropertyRef Name="IDMember" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transaksi_Operator">
+    <End Role="Pengguna" Type="Self.Pengguna" Multiplicity="1" />
+    <End Role="Transaksi" Type="Self.Transaksi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pengguna">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Transaksi">
+        <PropertyRef Name="DibuatOleh" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transaksi_Paket">
+    <End Role="Paket" Type="Self.Paket" Multiplicity="1" />
+    <End Role="Transaksi" Type="Self.Transaksi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Paket">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Transaksi">
+        <PropertyRef Name="IDPaket" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transaksi_PotonganHarga">
+    <End Role="KodePotonganHarga" Type="Self.KodePotonganHarga" Multiplicity="0..1" />
+    <End Role="Transaksi" Type="Self.Transaksi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KodePotonganHarga">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Transaksi">
+        <PropertyRef Name="IDPotonganHarga" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EsemNetModelStoreContainer">
+    <EntitySet Name="Jenis" EntityType="Self.Jenis" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KodePotonganHarga" EntityType="Self.KodePotonganHarga" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Komputer" EntityType="Self.Komputer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Member" EntityType="Self.Member" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Paket" EntityType="Self.Paket" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Pengguna" EntityType="Self.Pengguna" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Transaksi" EntityType="Self.Transaksi" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Komputer_Jenis" Association="Self.FK_Komputer_Jenis">
+      <End Role="Jenis" EntitySet="Jenis" />
+      <End Role="Komputer" EntitySet="Komputer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Paket_Jenis" Association="Self.FK_Paket_Jenis">
+      <End Role="Jenis" EntitySet="Jenis" />
+      <End Role="Paket" EntitySet="Paket" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transaksi_Komputer" Association="Self.FK_Transaksi_Komputer">
+      <End Role="Komputer" EntitySet="Komputer" />
+      <End Role="Transaksi" EntitySet="Transaksi" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transaksi_Member" Association="Self.FK_Transaksi_Member">
+      <End Role="Member" EntitySet="Member" />
+      <End Role="Transaksi" EntitySet="Transaksi" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transaksi_Operator" Association="Self.FK_Transaksi_Operator">
+      <End Role="Pengguna" EntitySet="Pengguna" />
+      <End Role="Transaksi" EntitySet="Transaksi" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transaksi_Paket" Association="Self.FK_Transaksi_Paket">
+      <End Role="Paket" EntitySet="Paket" />
+      <End Role="Transaksi" EntitySet="Transaksi" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transaksi_PotonganHarga" Association="Self.FK_Transaksi_PotonganHarga">
+      <End Role="KodePotonganHarga" EntitySet="KodePotonganHarga" />
+      <End Role="Transaksi" EntitySet="Transaksi" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

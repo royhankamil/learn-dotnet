@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EsemNetModelStoreContainer" CdmEntityContainer="EsemNetEntities">
+    <EntitySetMapping Name="Jenis">
+      <EntityTypeMapping TypeName="EsemNetModel.Jeni">
+        <MappingFragment StoreEntitySet="Jenis">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Jenis" ColumnName="Jenis" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KodePotonganHargas">
+      <EntityTypeMapping TypeName="EsemNetModel.KodePotonganHarga">
+        <MappingFragment StoreEntitySet="KodePotonganHarga">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Nama" ColumnName="Nama" />
+          <ScalarProperty Name="Kode" ColumnName="Kode" />
+          <ScalarProperty Name="Presentase" ColumnName="Presentase" />
+          <ScalarProperty Name="Maksimal" ColumnName="Maksimal" />
+          <ScalarProperty Name="BerlakuSampai" ColumnName="BerlakuSampai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Komputers">
+      <EntityTypeMapping TypeName="EsemNetModel.Komputer">
+        <MappingFragment StoreEntitySet="Komputer">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Nomor" ColumnName="Nomor" />
+          <ScalarProperty Name="Merek" ColumnName="Merek" />
+          <ScalarProperty Name="IDJenis" ColumnName="IDJenis" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Members">
+      <EntityTypeMapping TypeName="EsemNetModel.Member">
+        <MappingFragment StoreEntitySet="Member">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Nama" ColumnName="Nama" />
+          <ScalarProperty Name="Telepon" ColumnName="Telepon" />
+          <ScalarProperty Name="Alamat" ColumnName="Alamat" />
+          <ScalarProperty Name="MasihAktif" ColumnName="MasihAktif" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pakets">
+      <EntityTypeMapping TypeName="EsemNetModel.Paket">
+        <MappingFragment StoreEntitySet="Paket">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Nama" ColumnName="Nama" />
+          <ScalarProperty Name="IDJenis" ColumnName="IDJenis" />
+          <ScalarProperty Name="HargaPerJam" ColumnName="HargaPerJam" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Penggunas">
+      <EntityTypeMapping TypeName="EsemNetModel.Pengguna">
+        <MappingFragment StoreEntitySet="Pengguna">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NamaPengguna" ColumnName="NamaPengguna" />
+          <ScalarProperty Name="KataSandi" ColumnName="KataSandi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Transaksis">
+      <EntityTypeMapping TypeName="EsemNetModel.Transaksi">
+        <MappingFragment StoreEntitySet="Transaksi">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="IDKomputer" ColumnName="IDKomputer" />
+          <ScalarProperty Name="IDMember" ColumnName="IDMember" />
+          <ScalarProperty Name="IDPaket" ColumnName="IDPaket" />
+          <ScalarProperty Name="IDPotonganHarga" ColumnName="IDPotonganHarga" />
+          <ScalarProperty Name="Tanggal" ColumnName="Tanggal" />
+          <ScalarProperty Name="Waktu" ColumnName="Waktu" />
+          <ScalarProperty Name="DibuatOleh" ColumnName="DibuatOleh" />
+          <ScalarProperty Name="Durasi" ColumnName="Durasi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

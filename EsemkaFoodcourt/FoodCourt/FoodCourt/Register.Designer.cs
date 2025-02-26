@@ -32,25 +32,25 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.fNameInput = new System.Windows.Forms.TextBox();
-            this.lNameInput = new System.Windows.Forms.TextBox();
-            this.emailInput = new System.Windows.Forms.TextBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.pNumberInput = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.passwordInput = new System.Windows.Forms.TextBox();
-            this.label7 = new System.Windows.Forms.Label();
+            this.confirmPassErrorTxt = new System.Windows.Forms.Label();
+            this.passwordErrorTxt = new System.Windows.Forms.Label();
+            this.PNumErrorTxt = new System.Windows.Forms.Label();
+            this.emailErrorTxt = new System.Windows.Forms.Label();
+            this.nameErrorTxt = new System.Windows.Forms.Label();
             this.confirmPassInput = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
+            this.passwordInput = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.pNumberInput = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.emailInput = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.lNameInput = new System.Windows.Forms.TextBox();
+            this.fNameInput = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             this.backButton = new System.Windows.Forms.Button();
             this.registerButton = new System.Windows.Forms.Button();
-            this.nameErrorTxt = new System.Windows.Forms.Label();
-            this.emailErrorTxt = new System.Windows.Forms.Label();
-            this.PNumErrorTxt = new System.Windows.Forms.Label();
-            this.passwordErrorTxt = new System.Windows.Forms.Label();
-            this.confirmPassErrorTxt = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -112,74 +112,88 @@
             this.groupBox1.Text = "Your Information";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
-            // label3
+            // confirmPassErrorTxt
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(32, 33);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(57, 13);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "First Name";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
+            this.confirmPassErrorTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.confirmPassErrorTxt.ForeColor = System.Drawing.Color.Red;
+            this.confirmPassErrorTxt.Location = new System.Drawing.Point(34, 336);
+            this.confirmPassErrorTxt.Name = "confirmPassErrorTxt";
+            this.confirmPassErrorTxt.Size = new System.Drawing.Size(250, 24);
+            this.confirmPassErrorTxt.TabIndex = 16;
+            this.confirmPassErrorTxt.Text = "[Error Message]";
+            this.confirmPassErrorTxt.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label4
+            // passwordErrorTxt
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(179, 33);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(58, 13);
-            this.label4.TabIndex = 1;
-            this.label4.Text = "Last Name";
+            this.passwordErrorTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.passwordErrorTxt.ForeColor = System.Drawing.Color.Red;
+            this.passwordErrorTxt.Location = new System.Drawing.Point(34, 268);
+            this.passwordErrorTxt.Name = "passwordErrorTxt";
+            this.passwordErrorTxt.Size = new System.Drawing.Size(250, 29);
+            this.passwordErrorTxt.TabIndex = 15;
+            this.passwordErrorTxt.Text = "[Error Message]";
+            this.passwordErrorTxt.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // fNameInput
+            // PNumErrorTxt
             // 
-            this.fNameInput.Location = new System.Drawing.Point(34, 60);
-            this.fNameInput.Name = "fNameInput";
-            this.fNameInput.Size = new System.Drawing.Size(128, 20);
-            this.fNameInput.TabIndex = 2;
-            this.fNameInput.TextChanged += new System.EventHandler(this.fNameInput_TextChanged);
+            this.PNumErrorTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.PNumErrorTxt.ForeColor = System.Drawing.Color.Red;
+            this.PNumErrorTxt.Location = new System.Drawing.Point(34, 201);
+            this.PNumErrorTxt.Name = "PNumErrorTxt";
+            this.PNumErrorTxt.Size = new System.Drawing.Size(250, 19);
+            this.PNumErrorTxt.TabIndex = 14;
+            this.PNumErrorTxt.Text = "[Error Message]";
+            this.PNumErrorTxt.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // lNameInput
+            // emailErrorTxt
             // 
-            this.lNameInput.Location = new System.Drawing.Point(182, 62);
-            this.lNameInput.Name = "lNameInput";
-            this.lNameInput.Size = new System.Drawing.Size(120, 20);
-            this.lNameInput.TabIndex = 3;
-            this.lNameInput.TextChanged += new System.EventHandler(this.lNameInput_TextChanged);
+            this.emailErrorTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.emailErrorTxt.ForeColor = System.Drawing.Color.Red;
+            this.emailErrorTxt.Location = new System.Drawing.Point(34, 141);
+            this.emailErrorTxt.Name = "emailErrorTxt";
+            this.emailErrorTxt.Size = new System.Drawing.Size(250, 21);
+            this.emailErrorTxt.TabIndex = 13;
+            this.emailErrorTxt.Text = "[Error Message]";
+            this.emailErrorTxt.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // emailInput
+            // nameErrorTxt
             // 
-            this.emailInput.Location = new System.Drawing.Point(34, 120);
-            this.emailInput.Name = "emailInput";
-            this.emailInput.Size = new System.Drawing.Size(268, 20);
-            this.emailInput.TabIndex = 5;
-            this.emailInput.TextChanged += new System.EventHandler(this.emailInput_TextChanged);
+            this.nameErrorTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.nameErrorTxt.ForeColor = System.Drawing.Color.Red;
+            this.nameErrorTxt.Location = new System.Drawing.Point(34, 83);
+            this.nameErrorTxt.Name = "nameErrorTxt";
+            this.nameErrorTxt.Size = new System.Drawing.Size(250, 21);
+            this.nameErrorTxt.TabIndex = 12;
+            this.nameErrorTxt.Text = "[Error Message]";
+            this.nameErrorTxt.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label5
+            // confirmPassInput
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(32, 104);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(32, 13);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "Email";
+            this.confirmPassInput.Location = new System.Drawing.Point(32, 313);
+            this.confirmPassInput.Name = "confirmPassInput";
+            this.confirmPassInput.Size = new System.Drawing.Size(268, 20);
+            this.confirmPassInput.TabIndex = 11;
+            this.confirmPassInput.UseSystemPasswordChar = true;
+            this.confirmPassInput.TextChanged += new System.EventHandler(this.confirmPassInput_TextChanged);
             // 
-            // pNumberInput
+            // label8
             // 
-            this.pNumberInput.Location = new System.Drawing.Point(36, 178);
-            this.pNumberInput.Name = "pNumberInput";
-            this.pNumberInput.Size = new System.Drawing.Size(268, 20);
-            this.pNumberInput.TabIndex = 7;
-            this.pNumberInput.TextChanged += new System.EventHandler(this.pNumberInput_TextChanged);
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(34, 162);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(78, 13);
-            this.label6.TabIndex = 6;
-            this.label6.Text = "Phone Number";
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(30, 297);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(91, 13);
+            this.label8.TabIndex = 10;
+            this.label8.Text = "Confirm Password";
             // 
             // passwordInput
             // 
@@ -199,23 +213,74 @@
             this.label7.TabIndex = 8;
             this.label7.Text = "Password";
             // 
-            // confirmPassInput
+            // pNumberInput
             // 
-            this.confirmPassInput.Location = new System.Drawing.Point(32, 313);
-            this.confirmPassInput.Name = "confirmPassInput";
-            this.confirmPassInput.Size = new System.Drawing.Size(268, 20);
-            this.confirmPassInput.TabIndex = 11;
-            this.confirmPassInput.UseSystemPasswordChar = true;
-            this.confirmPassInput.TextChanged += new System.EventHandler(this.confirmPassInput_TextChanged);
+            this.pNumberInput.Location = new System.Drawing.Point(36, 178);
+            this.pNumberInput.Name = "pNumberInput";
+            this.pNumberInput.Size = new System.Drawing.Size(268, 20);
+            this.pNumberInput.TabIndex = 7;
+            this.pNumberInput.TextChanged += new System.EventHandler(this.pNumberInput_TextChanged);
             // 
-            // label8
+            // label6
             // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(30, 297);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(91, 13);
-            this.label8.TabIndex = 10;
-            this.label8.Text = "Confirm Password";
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(34, 162);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(78, 13);
+            this.label6.TabIndex = 6;
+            this.label6.Text = "Phone Number";
+            // 
+            // emailInput
+            // 
+            this.emailInput.Location = new System.Drawing.Point(34, 120);
+            this.emailInput.Name = "emailInput";
+            this.emailInput.Size = new System.Drawing.Size(268, 20);
+            this.emailInput.TabIndex = 5;
+            this.emailInput.TextChanged += new System.EventHandler(this.emailInput_TextChanged);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(32, 104);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(32, 13);
+            this.label5.TabIndex = 4;
+            this.label5.Text = "Email";
+            // 
+            // lNameInput
+            // 
+            this.lNameInput.Location = new System.Drawing.Point(182, 62);
+            this.lNameInput.Name = "lNameInput";
+            this.lNameInput.Size = new System.Drawing.Size(120, 20);
+            this.lNameInput.TabIndex = 3;
+            this.lNameInput.TextChanged += new System.EventHandler(this.lNameInput_TextChanged);
+            // 
+            // fNameInput
+            // 
+            this.fNameInput.Location = new System.Drawing.Point(34, 60);
+            this.fNameInput.Name = "fNameInput";
+            this.fNameInput.Size = new System.Drawing.Size(128, 20);
+            this.fNameInput.TabIndex = 2;
+            this.fNameInput.TextChanged += new System.EventHandler(this.fNameInput_TextChanged);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(179, 33);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(58, 13);
+            this.label4.TabIndex = 1;
+            this.label4.Text = "Last Name";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(32, 33);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(57, 13);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "First Name";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // backButton
             // 
@@ -237,71 +302,6 @@
             this.registerButton.UseVisualStyleBackColor = true;
             this.registerButton.Click += new System.EventHandler(this.registerButton_Click);
             // 
-            // nameErrorTxt
-            // 
-            this.nameErrorTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.nameErrorTxt.ForeColor = System.Drawing.Color.Red;
-            this.nameErrorTxt.Location = new System.Drawing.Point(34, 83);
-            this.nameErrorTxt.Name = "nameErrorTxt";
-            this.nameErrorTxt.Size = new System.Drawing.Size(250, 21);
-            this.nameErrorTxt.TabIndex = 12;
-            this.nameErrorTxt.Text = "[Error Message]";
-            this.nameErrorTxt.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // emailErrorTxt
-            // 
-            this.emailErrorTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.emailErrorTxt.ForeColor = System.Drawing.Color.Red;
-            this.emailErrorTxt.Location = new System.Drawing.Point(34, 141);
-            this.emailErrorTxt.Name = "emailErrorTxt";
-            this.emailErrorTxt.Size = new System.Drawing.Size(250, 21);
-            this.emailErrorTxt.TabIndex = 13;
-            this.emailErrorTxt.Text = "[Error Message]";
-            this.emailErrorTxt.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // PNumErrorTxt
-            // 
-            this.PNumErrorTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.PNumErrorTxt.ForeColor = System.Drawing.Color.Red;
-            this.PNumErrorTxt.Location = new System.Drawing.Point(34, 201);
-            this.PNumErrorTxt.Name = "PNumErrorTxt";
-            this.PNumErrorTxt.Size = new System.Drawing.Size(250, 19);
-            this.PNumErrorTxt.TabIndex = 14;
-            this.PNumErrorTxt.Text = "[Error Message]";
-            this.PNumErrorTxt.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // passwordErrorTxt
-            // 
-            this.passwordErrorTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.passwordErrorTxt.ForeColor = System.Drawing.Color.Red;
-            this.passwordErrorTxt.Location = new System.Drawing.Point(34, 268);
-            this.passwordErrorTxt.Name = "passwordErrorTxt";
-            this.passwordErrorTxt.Size = new System.Drawing.Size(250, 29);
-            this.passwordErrorTxt.TabIndex = 15;
-            this.passwordErrorTxt.Text = "[Error Message]";
-            this.passwordErrorTxt.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // confirmPassErrorTxt
-            // 
-            this.confirmPassErrorTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.confirmPassErrorTxt.ForeColor = System.Drawing.Color.Red;
-            this.confirmPassErrorTxt.Location = new System.Drawing.Point(34, 336);
-            this.confirmPassErrorTxt.Name = "confirmPassErrorTxt";
-            this.confirmPassErrorTxt.Size = new System.Drawing.Size(250, 24);
-            this.confirmPassErrorTxt.TabIndex = 16;
-            this.confirmPassErrorTxt.Text = "[Error Message]";
-            this.confirmPassErrorTxt.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // Register
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -315,6 +315,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Name = "Register";
             this.Text = "Register";
+            this.Load += new System.EventHandler(this.Register_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

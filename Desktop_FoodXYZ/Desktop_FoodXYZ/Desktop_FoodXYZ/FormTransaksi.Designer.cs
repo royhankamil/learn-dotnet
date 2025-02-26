@@ -62,6 +62,7 @@
             this.KodeBarang = new System.Windows.Forms.ComboBox();
             this.TotHarga = new System.Windows.Forms.TextBox();
             this.printDocument1 = new System.Drawing.Printing.PrintDocument();
+            this.printDialog1 = new System.Windows.Forms.PrintDialog();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -377,7 +378,7 @@
             this.KodeBarang.Name = "KodeBarang";
             this.KodeBarang.Size = new System.Drawing.Size(184, 28);
             this.KodeBarang.TabIndex = 36;
-            this.KodeBarang.SelectedIndexChanged += new System.EventHandler(this.KodeBarang_SelectedIndexChanged);
+            //this.KodeBarang.SelectedIndexChanged += new System.EventHandler(this.KodeBarang_SelectedIndexChanged);
             // 
             // TotHarga
             // 
@@ -392,6 +393,10 @@
             // printDocument1
             // 
             this.printDocument1.PrintPage += new System.Drawing.Printing.PrintPageEventHandler(this.printDocument1_PrintPage);
+            // 
+            // printDialog1
+            // 
+            this.printDialog1.UseEXDialog = true;
             // 
             // FormTransaksi
             // 
@@ -469,5 +474,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Subtotal;
         private System.Windows.Forms.TextBox TotHarga;
         private System.Drawing.Printing.PrintDocument printDocument1;
+        private System.Windows.Forms.PrintDialog printDialog1;
     }
 }

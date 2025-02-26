@@ -204,14 +204,13 @@ namespace Desktop_FoodXYZ
             foreach (var data in db.tbl_barang.Select(u => u.satuan).ToList())
             {
                 if (!Satuan.Items.Contains(data))
-                    Satuan.Items.
-                        
-                        
-                        
-                        
-                        
-                        (data);
+                    Satuan.Items.Add(data);
             }
+        }
+
+        private void HargaPerSatuan_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

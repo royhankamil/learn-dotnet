@@ -100,16 +100,7 @@ namespace Desktop_FoodXYZ
         {
             //TotHarga.Text = (int.Parse(HargaBarang.Text) * int.Parse(Quantitas.Text)).ToString();
         }
-
-        private void KodeBarang_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            var kodebarang = KodeBarang.Text.Split('-');
-            string kode = kodebarang[0];
-            HargaBarang.Text = db.tbl_barang.FirstOrDefault(b => b.kode_barang == kode).harga_satuan.ToString();
-            Console.WriteLine(int.Parse(HargaBarang.Text) * int.Parse(Quantitas.Text));
-            TotHarga.Text = (int.Parse(HargaBarang.Text) * int.Parse(Quantitas.Text)).ToString();
-        }
-
+            
         private void Quantitas_TextChanged(object sender, EventArgs e)
         {
             if (Quantitas.Text.All(char.IsDigit) && Quantitas.Text != "")
@@ -160,10 +151,7 @@ namespace Desktop_FoodXYZ
 
         private void button2_Click(object sender, EventArgs e)
         {
-            PrintDialog printDialog = new PrintDialog();
-            printDialog.Document = printDocument1;
-
-            if (printDialog.ShowDialog() == DialogResult.OK)
+            if (printDialog1.ShowDialog() == DialogResult.OK)
             {
                 printDocument1.Print();
             }
@@ -171,13 +159,19 @@ namespace Desktop_FoodXYZ
 
         private void printDocument1_PrintPage(object sender, System.Drawing.Printing.PrintPageEventArgs e)
         {
-            Font font = new Font("Arial", 12);
+            Font font = new Font("Arial", 30);
             Brush brush = Brushes.Black;
+            float LineText = 100;
+            float position = 100;
 
-            float x = 100;
-            float y = 100;
+            e.Graphics.DrawString($"Kode Barang: Nama Barang \tHarga Satuan \t \tSubtotal", font, brush, 5, position);
 
-            e.Graphics.DrawString(dataGridView1.DataSource.ToString(), font, brush, x, y);
+            foreach(var barang in keranjang)
+            {
+                position += LineText;
+                e.Graphics.DrawString($"{barang.Kode_Barang}: {barang.Nama_Barang} \t{barang.Harga_Satuan} \t{barang.Quantitas_Column} \t{barang.Subtotal}", font, brush, 5, position);
+            }
+            
         }
 
 

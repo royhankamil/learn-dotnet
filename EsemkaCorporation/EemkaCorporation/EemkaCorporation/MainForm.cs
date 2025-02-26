@@ -70,5 +70,10 @@ namespace EemkaCorporation
             login.Show();
             this.Hide();
         }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

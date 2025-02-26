@@ -133,5 +133,10 @@ namespace EemkaCorporation
                 this.Hide();
             }
         }
+
+        private void ProfileForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -82,10 +82,7 @@ namespace Desktop_FoodXYZ
 
         }
 
-        private void 
-            
-            
-            Button_Click(object sender, EventArgs e)
+        private void Button_Click(object sender, EventArgs e)
         {
             DialogResult result = MessageBox.Show("Are you sure to Add this data", "Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
             if (CheckData() && result == DialogResult.Yes)

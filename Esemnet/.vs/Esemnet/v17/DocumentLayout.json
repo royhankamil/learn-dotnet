@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|d:\\lks_it_software\\learn-dotnet\\esemnet\\esemnet\\mastermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\mastermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|d:\\lks_it_software\\learn-dotnet\\esemnet\\esemnet\\mastermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\mastermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\mastermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,52 +11,64 @@
       "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterkomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\masterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\masterpotonganharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterpotonganharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\masterpaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterpaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\masterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\masterpaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterpaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|d:\\lks_it_software\\learn-dotnet\\esemnet\\esemnet\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|d:\\lks_it_software\\learn-dotnet\\esemnet\\esemnet\\masterpotonganharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterpotonganharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|d:\\lks_it_software\\learn-dotnet\\esemnet\\esemnet\\masterpotonganharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterpotonganharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|d:\\lks_it_software\\learn-dotnet\\esemnet\\esemnet\\masterpaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterpaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\masterkomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterkomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|d:\\lks_it_software\\learn-dotnet\\esemnet\\esemnet\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\masterkomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterkomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\masterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\masterpaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterpaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\mastermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\mastermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|D:\\lks_it_software\\learn-dotnet\\Esemnet\\esemnet\\masterpotonganharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterpotonganharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,24 +78,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 98,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\App.config",
+              "RelativeDocumentMoniker": "Esemnet\\App.config",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\App.config",
+              "RelativeToolTip": "Esemnet\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-24T11:48:29.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Esemnet\\Dashboard.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\Dashboard.cs",
+              "RelativeToolTip": "Esemnet\\Dashboard.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:28:54.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Esemnet\\Dashboard.cs",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Esemnet\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:34:41.099Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\packages.config",
+              "RelativeDocumentMoniker": "Esemnet\\packages.config",
+              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\packages.config",
+              "RelativeToolTip": "Esemnet\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-24T08:51:25.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "MasterMember.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\MasterMember.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterMember.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\MasterMember.cs",
               "RelativeToolTip": "Esemnet\\MasterMember.cs",
-              "ViewState": "AgIAAAsBAAAAAAAAAAAkwA4BAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwA4BAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T20:55:26.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MasterMember.cs [Design]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\MasterMember.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterMember.cs",
@@ -99,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "MasterPotonganHarga.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\MasterPotonganHarga.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterPotonganHarga.cs",
@@ -112,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "MasterPotonganHarga.cs [Design]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\MasterPotonganHarga.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterPotonganHarga.cs",
@@ -124,20 +186,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MasterKomputer.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\MasterKomputer.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterKomputer.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\MasterKomputer.cs",
               "RelativeToolTip": "Esemnet\\MasterKomputer.cs",
-              "ViewState": "AgIAAPYAAAAAAAAAAAAAAP8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAiwMEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T18:38:38.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MasterKomputer.cs [Design]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\MasterKomputer.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterKomputer.cs",
@@ -149,20 +211,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "MasterPaket.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\MasterPaket.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterPaket.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\MasterPaket.cs",
               "RelativeToolTip": "Esemnet\\MasterPaket.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAswIgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswJYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T20:26:54.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "MasterPaket.cs [Design]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\MasterPaket.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterPaket.cs",
@@ -174,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "MasterData.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\MasterData.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterData.cs",
@@ -199,45 +261,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\Dashboard.cs",
-              "RelativeDocumentMoniker": "Esemnet\\Dashboard.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\Dashboard.cs",
-              "RelativeToolTip": "Esemnet\\Dashboard.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAD4vzAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T19:28:54.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\Dashboard.cs",
-              "RelativeDocumentMoniker": "Esemnet\\Dashboard.cs",
-              "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\Dashboard.cs [Design]",
-              "RelativeToolTip": "Esemnet\\Dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T19:28:46.096Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Login.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\Login.cs",
               "RelativeDocumentMoniker": "Esemnet\\Login.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\Login.cs",
               "RelativeToolTip": "Esemnet\\Login.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAnwCQAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T19:06:57.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\Login.cs",
               "RelativeDocumentMoniker": "Esemnet\\Login.cs",
@@ -249,15 +286,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "DbModel.edmx [Diagram1]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\DbModel.edmx",
               "RelativeDocumentMoniker": "Esemnet\\DbModel.edmx",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Esemnet\\Esemnet\\DbModel.edmx [Diagram1]",
               "RelativeToolTip": "Esemnet\\DbModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-02-19T18:59:19.399Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2025-02-19T18:59:19.399Z"
             }
           ]
         }

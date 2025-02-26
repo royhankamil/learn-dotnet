@@ -272,7 +272,7 @@
             this.AddButton.TabIndex = 20;
             this.AddButton.Text = "Tambah";
             this.AddButton.UseVisualStyleBackColor = true;
-            this.AddButton.Click += new System.EventHandler(this.AddButton_Click);
+            //this.AddButton.Click += new System.EventHandler(this.AddButton_Click);
             // 
             // EditButton
             // 

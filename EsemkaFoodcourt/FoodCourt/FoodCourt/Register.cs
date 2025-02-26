@@ -73,8 +73,8 @@ namespace FoodCourt
 
                 if (emailInput.Text.Contains("@") && emailInput.Text.Contains("."))
                 {
-                    if (nameErrorTxt.Text == "" && emailErrorTxt.Text == "" && PNumErrorTxt.Text == ""
-                    && passwordErrorTxt.Text == "" && confirmPassErrorTxt.Text == "")
+                    if (nameErrorTxt.Text != "" && emailErrorTxt.Text != "" && PNumErrorTxt.Text != ""
+                    && passwordErrorTxt.Text != "" && confirmPassErrorTxt.Text != "")
                     {
                         Users user = new Users();
                         user.FirstName = fNameInput.Text;
@@ -147,6 +147,11 @@ namespace FoodCourt
                 confirmPassErrorTxt.Text = "";
         }
         private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Register_Load(object sender, EventArgs e)
         {
 
         }

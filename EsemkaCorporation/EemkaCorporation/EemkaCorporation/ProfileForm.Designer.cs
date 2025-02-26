@@ -393,6 +393,7 @@
             this.Controls.Add(this.MainButton);
             this.Name = "ProfileForm";
             this.Text = "ProfileForm";
+            this.Load += new System.EventHandler(this.ProfileForm_Load);
             this.JobHistory.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.WorksWith.ResumeLayout(false);

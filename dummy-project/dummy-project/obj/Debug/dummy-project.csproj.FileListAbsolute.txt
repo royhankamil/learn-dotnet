@@ -1,0 +1,10 @@
+D:\lks_it_software\learn-dotnet\dummy-project\dummy-project\bin\Debug\dummy-project.exe.config
+D:\lks_it_software\learn-dotnet\dummy-project\dummy-project\bin\Debug\dummy-project.exe
+D:\lks_it_software\learn-dotnet\dummy-project\dummy-project\bin\Debug\dummy-project.pdb
+D:\lks_it_software\learn-dotnet\dummy-project\dummy-project\obj\Debug\dummy-project.csproj.AssemblyReference.cache
+D:\lks_it_software\learn-dotnet\dummy-project\dummy-project\obj\Debug\dummy_project.Form1.resources
+D:\lks_it_software\learn-dotnet\dummy-project\dummy-project\obj\Debug\dummy_project.Properties.Resources.resources
+D:\lks_it_software\learn-dotnet\dummy-project\dummy-project\obj\Debug\dummy-project.csproj.GenerateResource.cache
+D:\lks_it_software\learn-dotnet\dummy-project\dummy-project\obj\Debug\dummy-project.csproj.CoreCompileInputs.cache
+D:\lks_it_software\learn-dotnet\dummy-project\dummy-project\obj\Debug\dummy-project.exe
+D:\lks_it_software\learn-dotnet\dummy-project\dummy-project\obj\Debug\dummy-project.pdb

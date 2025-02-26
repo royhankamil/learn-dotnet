@@ -17,3 +17,4 @@ D:\lks_it_software\learn-dotnet\EsemkaCorporation\EemkaCorporation\EemkaCorporat
 D:\lks_it_software\learn-dotnet\EsemkaCorporation\EemkaCorporation\EemkaCorporation\obj\Debug\EemkaCorporation.ProfileForm.resources
 D:\lks_it_software\learn-dotnet\EsemkaCorporation\EemkaCorporation\EemkaCorporation\obj\Debug\EemkaCorporation.Properties.MutationFormcs.resources
 D:\lks_it_software\learn-dotnet\EsemkaCorporation\EemkaCorporation\EemkaCorporation\obj\Debug\EemkaCorporation.PromotionForm.resources
+D:\lks_it_software\learn-dotnet\EsemkaCorporation\EemkaCorporation\EemkaCorporation\obj\Debug\EemkaCorporation.ManageMenu.resources

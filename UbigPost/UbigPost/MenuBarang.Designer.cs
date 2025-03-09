@@ -34,19 +34,19 @@
             this.label3 = new System.Windows.Forms.Label();
             this.SearchInput = new System.Windows.Forms.TextBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.nameInput = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.priceInput = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.itemCountInput = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
+            this.categoryInput = new System.Windows.Forms.ComboBox();
+            this.InsertBtn = new System.Windows.Forms.Button();
+            this.UpdateBtn = new System.Windows.Forms.Button();
+            this.deleteBtn = new System.Windows.Forms.Button();
+            this.saveBtn = new System.Windows.Forms.Button();
+            this.cancelBtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -57,6 +57,7 @@
             this.mainMenuCon1.Name = "mainMenuCon1";
             this.mainMenuCon1.Size = new System.Drawing.Size(124, 398);
             this.mainMenuCon1.TabIndex = 0;
+            this.mainMenuCon1.HideMainForm += Panel_HideMainForm;
             // 
             // label1
             // 
@@ -92,24 +93,27 @@
             this.SearchInput.Name = "SearchInput";
             this.SearchInput.Size = new System.Drawing.Size(149, 20);
             this.SearchInput.TabIndex = 4;
+            this.SearchInput.TextChanged += new System.EventHandler(this.SearchInput_TextChanged);
             // 
             // dataGridView1
             // 
             this.dataGridView1.AllowUserToAddRows = false;
             this.dataGridView1.AllowUserToDeleteRows = false;
+            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(155, 114);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.Size = new System.Drawing.Size(535, 168);
             this.dataGridView1.TabIndex = 5;
+            this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
-            // textBox2
+            // nameInput
             // 
-            this.textBox2.Location = new System.Drawing.Point(243, 288);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(149, 20);
-            this.textBox2.TabIndex = 7;
+            this.nameInput.Location = new System.Drawing.Point(243, 288);
+            this.nameInput.Name = "nameInput";
+            this.nameInput.Size = new System.Drawing.Size(149, 20);
+            this.nameInput.TabIndex = 7;
             // 
             // label4
             // 
@@ -120,12 +124,12 @@
             this.label4.TabIndex = 6;
             this.label4.Text = "Name";
             // 
-            // textBox1
+            // priceInput
             // 
-            this.textBox1.Location = new System.Drawing.Point(243, 314);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(149, 20);
-            this.textBox1.TabIndex = 9;
+            this.priceInput.Location = new System.Drawing.Point(243, 314);
+            this.priceInput.Name = "priceInput";
+            this.priceInput.Size = new System.Drawing.Size(149, 20);
+            this.priceInput.TabIndex = 9;
             // 
             // label5
             // 
@@ -136,12 +140,12 @@
             this.label5.TabIndex = 8;
             this.label5.Text = "Price";
             // 
-            // textBox3
+            // itemCountInput
             // 
-            this.textBox3.Location = new System.Drawing.Point(243, 340);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(149, 20);
-            this.textBox3.TabIndex = 11;
+            this.itemCountInput.Location = new System.Drawing.Point(243, 340);
+            this.itemCountInput.Name = "itemCountInput";
+            this.itemCountInput.Size = new System.Drawing.Size(149, 20);
+            this.itemCountInput.TabIndex = 11;
             // 
             // label6
             // 
@@ -161,77 +165,81 @@
             this.label7.TabIndex = 12;
             this.label7.Text = "Category";
             // 
-            // comboBox1
+            // categoryInput
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(243, 366);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(149, 21);
-            this.comboBox1.TabIndex = 13;
+            this.categoryInput.FormattingEnabled = true;
+            this.categoryInput.Location = new System.Drawing.Point(243, 366);
+            this.categoryInput.Name = "categoryInput";
+            this.categoryInput.Size = new System.Drawing.Size(149, 21);
+            this.categoryInput.TabIndex = 13;
             // 
-            // button1
+            // InsertBtn
             // 
-            this.button1.Location = new System.Drawing.Point(448, 307);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 14;
-            this.button1.Text = "Insert";
-            this.button1.UseVisualStyleBackColor = true;
+            this.InsertBtn.Location = new System.Drawing.Point(448, 307);
+            this.InsertBtn.Name = "InsertBtn";
+            this.InsertBtn.Size = new System.Drawing.Size(75, 23);
+            this.InsertBtn.TabIndex = 14;
+            this.InsertBtn.Text = "Insert";
+            this.InsertBtn.UseVisualStyleBackColor = true;
+            this.InsertBtn.Click += new System.EventHandler(this.InsertBtn_Click);
             // 
-            // button2
+            // UpdateBtn
             // 
-            this.button2.Location = new System.Drawing.Point(529, 307);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 15;
-            this.button2.Text = "Update";
-            this.button2.UseVisualStyleBackColor = true;
+            this.UpdateBtn.Location = new System.Drawing.Point(529, 307);
+            this.UpdateBtn.Name = "UpdateBtn";
+            this.UpdateBtn.Size = new System.Drawing.Size(75, 23);
+            this.UpdateBtn.TabIndex = 15;
+            this.UpdateBtn.Text = "Update";
+            this.UpdateBtn.UseVisualStyleBackColor = true;
+            this.UpdateBtn.Click += new System.EventHandler(this.UpdateBtn_Click);
             // 
-            // button3
+            // deleteBtn
             // 
-            this.button3.Location = new System.Drawing.Point(610, 307);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 16;
-            this.button3.Text = "Delete";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.deleteBtn.Location = new System.Drawing.Point(610, 307);
+            this.deleteBtn.Name = "deleteBtn";
+            this.deleteBtn.Size = new System.Drawing.Size(75, 23);
+            this.deleteBtn.TabIndex = 16;
+            this.deleteBtn.Text = "Delete";
+            this.deleteBtn.UseVisualStyleBackColor = true;
+            this.deleteBtn.Click += new System.EventHandler(this.button3_Click);
             // 
-            // button4
+            // saveBtn
             // 
-            this.button4.Location = new System.Drawing.Point(485, 336);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(75, 23);
-            this.button4.TabIndex = 17;
-            this.button4.Text = "Save";
-            this.button4.UseVisualStyleBackColor = true;
+            this.saveBtn.Location = new System.Drawing.Point(485, 336);
+            this.saveBtn.Name = "saveBtn";
+            this.saveBtn.Size = new System.Drawing.Size(75, 23);
+            this.saveBtn.TabIndex = 17;
+            this.saveBtn.Text = "Save";
+            this.saveBtn.UseVisualStyleBackColor = true;
+            this.saveBtn.Click += new System.EventHandler(this.saveBtn_Click);
             // 
-            // button5
+            // cancelBtn
             // 
-            this.button5.Location = new System.Drawing.Point(566, 336);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(75, 23);
-            this.button5.TabIndex = 18;
-            this.button5.Text = "Cancel";
-            this.button5.UseVisualStyleBackColor = true;
+            this.cancelBtn.Location = new System.Drawing.Point(566, 336);
+            this.cancelBtn.Name = "cancelBtn";
+            this.cancelBtn.Size = new System.Drawing.Size(75, 23);
+            this.cancelBtn.TabIndex = 18;
+            this.cancelBtn.Text = "Cancel";
+            this.cancelBtn.UseVisualStyleBackColor = true;
+            this.cancelBtn.Click += new System.EventHandler(this.cancelBtn_Click);
             // 
             // MenuBarang
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(723, 398);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.cancelBtn);
+            this.Controls.Add(this.saveBtn);
+            this.Controls.Add(this.deleteBtn);
+            this.Controls.Add(this.UpdateBtn);
+            this.Controls.Add(this.InsertBtn);
+            this.Controls.Add(this.categoryInput);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.itemCountInput);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.priceInput);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.nameInput);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.SearchInput);
@@ -256,18 +264,19 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox SearchInput;
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox nameInput;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox priceInput;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox itemCountInput;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.ComboBox categoryInput;
+        private System.Windows.Forms.Button InsertBtn;
+        private System.Windows.Forms.Button UpdateBtn;
+        private System.Windows.Forms.Button deleteBtn;
+        private System.Windows.Forms.Button saveBtn;
+        private System.Windows.Forms.Button cancelBtn;
+        private int userId;
     }
 }

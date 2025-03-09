@@ -15,12 +15,14 @@ namespace UbigPost
     public partial class MainMenu: Form
     {
         MiniKasirEntities db = new MiniKasirEntities();
-        int userId;
+        //int userId;
         public MainMenu(int userId)
         {
-            InitializeComponent();
-
             this.userId = userId;
+
+            InitializeComponent();
+            mainMenuCon1.userId = this.userId;
+
             User user = db.Users.Find(userId);
 
             Welcome.Text = $"Welcome {user.FirstName} {user.LastName}";
@@ -30,9 +32,9 @@ namespace UbigPost
             SalesToday.Text = db.Coupons.AsEnumerable().Where(s => s.StartDate > DateTime.Now
                                 && s.EndDate < DateTime.Now).ToList().Count().ToString();
 
-            var AllIncome = db.Transactions.AsEnumerable().Where(t => t.Date.Date == DateTime.Now.Date)
+            var AllIncome = db.Transactions.AsEnumerable().Where(t => t.Date.ToString("D") == DateTime.Now.ToString("D"))
                             .Select(t => t.TotalPrice).ToList();
-            Income.Text = "Rp. " + AllIncome.Sum().ToString("C");
+            Income.Text = AllIncome.Sum().ToString("C");
 
             chart1.Series.Clear();
             Series series = new Series("TOP 5 ITEMS")
@@ -85,6 +87,16 @@ namespace UbigPost
         }
 
         private void MainMenu_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Panel_HideMainForm()
+        {
+            this.Hide();
+        }
+
+        private void MainMenu_Load_1(object sender, EventArgs e)
         {
 
         }

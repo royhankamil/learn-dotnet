@@ -62,6 +62,7 @@
             this.mainMenuCon1.Name = "mainMenuCon1";
             this.mainMenuCon1.Size = new System.Drawing.Size(134, 367);
             this.mainMenuCon1.TabIndex = 0;
+            this.mainMenuCon1.HideMainForm += Panel_HideMainForm;
             // 
             // Welcome
             // 
@@ -226,5 +227,6 @@
         private System.Windows.Forms.DataVisualization.Charting.Chart chart1;
         private System.Windows.Forms.GroupBox groupBox5;
         private System.Windows.Forms.DataVisualization.Charting.Chart chart2;
+        private int userId;
     }
 }

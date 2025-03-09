@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\couponform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\couponform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\mainmenucon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\mainmenucon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\mainmenucon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\mainmenucon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\couponform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\couponform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\menubarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\menubarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\menubarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\menubarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\menubarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\menubarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\cashier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\cashier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\formtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\formtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\formtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\formtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\historysalesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\historysalesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\historysalesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\historysalesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\ubigpost\\ubigpost\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8382126-5D2B-4B05-9A2C-29B07D8FA0C6}|UbigPost\\UbigPost.csproj|solutionrelative:ubigpost\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenuCon.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\MainMenuCon.cs",
+              "RelativeDocumentMoniker": "UbigPost\\MainMenuCon.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\MainMenuCon.cs",
+              "RelativeToolTip": "UbigPost\\MainMenuCon.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:06:44.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenuCon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\MainMenuCon.cs",
+              "RelativeDocumentMoniker": "UbigPost\\MainMenuCon.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\MainMenuCon.cs [Design]",
+              "RelativeToolTip": "UbigPost\\MainMenuCon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:06:41.251Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CouponForm.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\CouponForm.cs",
+              "RelativeDocumentMoniker": "UbigPost\\CouponForm.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\CouponForm.cs",
+              "RelativeToolTip": "UbigPost\\CouponForm.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAALQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:43:00.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuBarang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\MenuBarang.cs",
+              "RelativeDocumentMoniker": "UbigPost\\MenuBarang.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\MenuBarang.cs [Design]",
+              "RelativeToolTip": "UbigPost\\MenuBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:42:35.419Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CouponForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\CouponForm.cs",
+              "RelativeDocumentMoniker": "UbigPost\\CouponForm.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\CouponForm.cs [Design]",
+              "RelativeToolTip": "UbigPost\\CouponForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:41:49.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cashier.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\Cashier.Designer.cs",
+              "RelativeDocumentMoniker": "UbigPost\\Cashier.Designer.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\Cashier.Designer.cs",
+              "RelativeToolTip": "UbigPost\\Cashier.Designer.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAgwNUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:32:16.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cashier.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\Cashier.cs",
+              "RelativeDocumentMoniker": "UbigPost\\Cashier.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\Cashier.cs",
+              "RelativeToolTip": "UbigPost\\Cashier.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAHkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:36:46.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cashier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\Cashier.cs",
+              "RelativeDocumentMoniker": "UbigPost\\Cashier.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\Cashier.cs [Design]",
+              "RelativeToolTip": "UbigPost\\Cashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:41:11.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\FormTransaction.cs",
+              "RelativeDocumentMoniker": "UbigPost\\FormTransaction.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\FormTransaction.cs",
+              "RelativeToolTip": "UbigPost\\FormTransaction.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwFYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:25:20.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormTransaction.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\FormTransaction.cs",
+              "RelativeDocumentMoniker": "UbigPost\\FormTransaction.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\FormTransaction.cs [Design]",
+              "RelativeToolTip": "UbigPost\\FormTransaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:23:47.999Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HistorySalesForm.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\HistorySalesForm.cs",
+              "RelativeDocumentMoniker": "UbigPost\\HistorySalesForm.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\HistorySalesForm.cs",
+              "RelativeToolTip": "UbigPost\\HistorySalesForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewCYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:33:34.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HistorySalesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\HistorySalesForm.cs",
+              "RelativeDocumentMoniker": "UbigPost\\HistorySalesForm.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\HistorySalesForm.cs [Design]",
+              "RelativeToolTip": "UbigPost\\HistorySalesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:29:41.722Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuBarang.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\MenuBarang.cs",
+              "RelativeDocumentMoniker": "UbigPost\\MenuBarang.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\MenuBarang.cs",
+              "RelativeToolTip": "UbigPost\\MenuBarang.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T02:09:05.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\MainMenu.cs",
+              "RelativeDocumentMoniker": "UbigPost\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\MainMenu.cs",
+              "RelativeToolTip": "UbigPost\\MainMenu.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA6wBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T02:05:25.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuBarang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\MenuBarang.Designer.cs",
+              "RelativeDocumentMoniker": "UbigPost\\MenuBarang.Designer.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\UbigPost\\UbigPost\\MenuBarang.Designer.cs",
+              "RelativeToolTip": "UbigPost\\MenuBarang.Designer.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAAABcBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T02:04:37.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

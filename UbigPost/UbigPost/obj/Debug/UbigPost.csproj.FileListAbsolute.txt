@@ -16,3 +16,9 @@ C:\Users\royha\Downloads\it-software\learn-dotnet\UbigPost\UbigPost\obj\Debug\Ub
 C:\Users\royha\Downloads\it-software\learn-dotnet\UbigPost\UbigPost\obj\Debug\UbigPost.RegisterForm.resources
 C:\Users\royha\Downloads\it-software\learn-dotnet\UbigPost\UbigPost\obj\Debug\UbigPost.MainMenu.resources
 C:\Users\royha\Downloads\it-software\learn-dotnet\UbigPost\UbigPost\obj\Debug\UbigPost.MainMenuCon.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\UbigPost\UbigPost\obj\Debug\UbigPost.MenuBarang.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\UbigPost\UbigPost\obj\Debug\UbigPost.MenuCategory.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\UbigPost\UbigPost\obj\Debug\UbigPost.HistorySalesForm.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\UbigPost\UbigPost\obj\Debug\UbigPost.Cashier.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\UbigPost\UbigPost\obj\Debug\UbigPost.FormTransaction.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\UbigPost\UbigPost\obj\Debug\UbigPost.CouponForm.resources

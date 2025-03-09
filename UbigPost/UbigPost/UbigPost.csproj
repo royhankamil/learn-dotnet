@@ -59,11 +59,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cashier.Designer.cs">
+      <DependentUpon>Cashier.cs</DependentUpon>
+    </Compile>
     <Compile Include="Category.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="Coupon.cs">
       <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CouponForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CouponForm.Designer.cs">
+      <DependentUpon>CouponForm.cs</DependentUpon>
     </Compile>
     <Compile Include="DetailTransaction.cs">
       <DependentUpon>Model1.tt</DependentUpon>
@@ -73,6 +85,18 @@
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTransaction.Designer.cs">
+      <DependentUpon>FormTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistorySalesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistorySalesForm.Designer.cs">
+      <DependentUpon>HistorySalesForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Item.cs">
       <DependentUpon>Model1.tt</DependentUpon>
@@ -88,6 +112,12 @@
     </Compile>
     <Compile Include="MenuBarang.Designer.cs">
       <DependentUpon>MenuBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuCategory.Designer.cs">
+      <DependentUpon>MenuCategory.cs</DependentUpon>
     </Compile>
     <Compile Include="Model1.Context.cs">
       <AutoGen>True</AutoGen>
@@ -124,14 +154,29 @@
     <Compile Include="MainMenuCon.Designer.cs">
       <DependentUpon>MainMenuCon.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Cashier.resx">
+      <DependentUpon>Cashier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CouponForm.resx">
+      <DependentUpon>CouponForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTransaction.resx">
+      <DependentUpon>FormTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistorySalesForm.resx">
+      <DependentUpon>HistorySalesForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainMenu.resx">
       <DependentUpon>MainMenu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MenuBarang.resx">
       <DependentUpon>MenuBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuCategory.resx">
+      <DependentUpon>MenuCategory.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

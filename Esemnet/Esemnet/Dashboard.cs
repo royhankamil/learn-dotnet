@@ -45,9 +45,9 @@ namespace Esemnet
             //    new Label = KomputerNameTemp.get
             //}
 
-            Label labelo = KomputerNameTemp.;
-            labelo.Name = "e";
-            labelo.Location = new Point(labelo.Location.X, labelo.Location.Y + 30);
+            //Label labelo = KomputerNameTemp.;
+            //labelo.Name = "e";
+            //labelo.Location = new Point(labelo.Location.X, labelo.Location.Y + 30);
             
         }
 
@@ -67,7 +67,7 @@ namespace Esemnet
         {
             timercount = timercount.AddSeconds(1);
             Time.Text = DateTime.Now.ToString("dd MMMM yyyy   HH:mm:ss");
-            label5.Text = timercount.ToString("HH:mm:ss");
+            //label5.Text = timercount.ToString("HH:mm:ss");
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -84,7 +84,9 @@ namespace Esemnet
 
         private void label3_Click(object sender, EventArgs e)
         {
-
+            HalamanTransaksi transaksi = new HalamanTransaksi(user_id);
+            transaksi.Show();
+            this.Hide();
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)

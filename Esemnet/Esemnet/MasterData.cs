@@ -60,5 +60,12 @@ namespace Esemnet
             member.Show();  
             this.Hide();
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            HalamanTransaksi transaksi = new HalamanTransaksi(user_id);
+            transaksi.Show();
+            this.Hide();
+        }
     }
 }

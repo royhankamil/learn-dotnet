@@ -29,6 +29,10 @@
         private void InitializeComponent()
         {
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.button2 = new System.Windows.Forms.Button();
+            this.checkBox2 = new System.Windows.Forms.CheckBox();
+            this.label12 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.totalTxt = new System.Windows.Forms.Label();
             this.potonganmember = new System.Windows.Forms.Label();
             this.subtotal = new System.Windows.Forms.Label();
@@ -38,6 +42,9 @@
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.label13 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.AlamatInput = new System.Windows.Forms.TextBox();
@@ -53,13 +60,6 @@
             this.label5 = new System.Windows.Forms.Label();
             this.HargaInput = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.label13 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.checkBox2 = new System.Windows.Forms.CheckBox();
-            this.button2 = new System.Windows.Forms.Button();
             this.groupBox3.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -85,6 +85,45 @@
             this.groupBox3.TabIndex = 31;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Total Harga";
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.RoyalBlue;
+            this.button2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button2.Location = new System.Drawing.Point(20, 272);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(232, 34);
+            this.button2.TabIndex = 29;
+            this.button2.Text = "Submit";
+            this.button2.UseVisualStyleBackColor = false;
+            // 
+            // checkBox2
+            // 
+            this.checkBox2.AutoSize = true;
+            this.checkBox2.Location = new System.Drawing.Point(13, 249);
+            this.checkBox2.Name = "checkBox2";
+            this.checkBox2.Size = new System.Drawing.Size(117, 17);
+            this.checkBox2.TabIndex = 29;
+            this.checkBox2.Text = "Tambah Ke Antrian";
+            this.checkBox2.UseVisualStyleBackColor = true;
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Location = new System.Drawing.Point(14, 20);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(155, 18);
+            this.label12.TabIndex = 26;
+            this.label12.Text = "Kode Potongan Harga";
+            // 
+            // textBox1
+            // 
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(17, 41);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(235, 24);
+            this.textBox1.TabIndex = 27;
             // 
             // totalTxt
             // 
@@ -189,6 +228,37 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Member";
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(30, 58);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(115, 17);
+            this.checkBox1.TabIndex = 28;
+            this.checkBox1.Text = "Atau Tambah Baru";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.RoyalBlue;
+            this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button1.Location = new System.Drawing.Point(127, 18);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(87, 34);
+            this.button1.TabIndex = 27;
+            this.button1.Text = "Pilih";
+            this.button1.UseVisualStyleBackColor = false;
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label13.Location = new System.Drawing.Point(27, 25);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(94, 18);
+            this.label13.TabIndex = 26;
+            this.label13.Text = "Pilih Member";
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -260,6 +330,7 @@
             this.groupBox1.TabIndex = 29;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Pilih Komputer";
+            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // komputer
             // 
@@ -270,6 +341,7 @@
             this.komputer.Name = "komputer";
             this.komputer.Size = new System.Drawing.Size(156, 26);
             this.komputer.TabIndex = 29;
+            this.komputer.SelectedIndexChanged += new System.EventHandler(this.komputer_SelectedIndexChanged);
             // 
             // paket
             // 
@@ -280,6 +352,7 @@
             this.paket.Name = "paket";
             this.paket.Size = new System.Drawing.Size(156, 26);
             this.paket.TabIndex = 28;
+            this.paket.SelectedIndexChanged += new System.EventHandler(this.paket_SelectedIndexChanged);
             // 
             // DurasiInput
             // 
@@ -288,6 +361,7 @@
             this.DurasiInput.Name = "DurasiInput";
             this.DurasiInput.Size = new System.Drawing.Size(156, 24);
             this.DurasiInput.TabIndex = 27;
+            this.DurasiInput.TextChanged += new System.EventHandler(this.DurasiInput_TextChanged);
             // 
             // label7
             // 
@@ -324,6 +398,7 @@
             this.HargaInput.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.HargaInput.Location = new System.Drawing.Point(197, 41);
             this.HargaInput.Name = "HargaInput";
+            this.HargaInput.ReadOnly = true;
             this.HargaInput.Size = new System.Drawing.Size(152, 24);
             this.HargaInput.TabIndex = 25;
             // 
@@ -336,76 +411,6 @@
             this.label6.Size = new System.Drawing.Size(73, 18);
             this.label6.TabIndex = 22;
             this.label6.Text = "Komputer";
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(14, 20);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(155, 18);
-            this.label12.TabIndex = 26;
-            this.label12.Text = "Kode Potongan Harga";
-            // 
-            // textBox1
-            // 
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(17, 41);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(235, 24);
-            this.textBox1.TabIndex = 27;
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(27, 25);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(94, 18);
-            this.label13.TabIndex = 26;
-            this.label13.Text = "Pilih Member";
-            // 
-            // button1
-            // 
-            this.button1.BackColor = System.Drawing.Color.RoyalBlue;
-            this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button1.Location = new System.Drawing.Point(127, 18);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(87, 34);
-            this.button1.TabIndex = 27;
-            this.button1.Text = "Pilih";
-            this.button1.UseVisualStyleBackColor = false;
-            // 
-            // checkBox1
-            // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(30, 58);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(115, 17);
-            this.checkBox1.TabIndex = 28;
-            this.checkBox1.Text = "Atau Tambah Baru";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            // 
-            // checkBox2
-            // 
-            this.checkBox2.AutoSize = true;
-            this.checkBox2.Location = new System.Drawing.Point(13, 249);
-            this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(117, 17);
-            this.checkBox2.TabIndex = 29;
-            this.checkBox2.Text = "Tambah Ke Antrian";
-            this.checkBox2.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            this.button2.BackColor = System.Drawing.Color.RoyalBlue;
-            this.button2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button2.Location = new System.Drawing.Point(20, 272);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(232, 34);
-            this.button2.TabIndex = 29;
-            this.button2.Text = "Submit";
-            this.button2.UseVisualStyleBackColor = false;
             // 
             // TambahTransaksi
             // 

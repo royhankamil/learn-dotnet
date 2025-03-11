@@ -36,20 +36,35 @@
             this.label1 = new System.Windows.Forms.Label();
             this.WelcomeTxt = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.CountDownTemp = new System.Windows.Forms.Label();
+            this.DurationTemp = new System.Windows.Forms.Label();
+            this.KomputerNameTemp = new System.Windows.Forms.Label();
+            this.ImageTemplate = new System.Windows.Forms.PictureBox();
             this.TambahTransaksi = new System.Windows.Forms.Button();
             this.Terpakai = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.Time = new System.Windows.Forms.Label();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.ImageTemplate = new System.Windows.Forms.PictureBox();
+            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
+            this.panel3 = new System.Windows.Forms.Panel();
             this.label5 = new System.Windows.Forms.Label();
-            this.KomputerNameTemp = new System.Windows.Forms.Label();
-            this.DurationTemp = new System.Windows.Forms.Label();
-            this.CountDownTemp = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.ImageTemplate)).BeginInit();
+            this.flowLayoutPanel1.SuspendLayout();
+            this.panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -125,7 +140,7 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.panel2);
+            this.groupBox1.Controls.Add(this.flowLayoutPanel1);
             this.groupBox1.Controls.Add(this.TambahTransaksi);
             this.groupBox1.Controls.Add(this.Terpakai);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -135,6 +150,58 @@
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Transaksi Hari Ini";
+            // 
+            // panel2
+            // 
+            this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel2.Controls.Add(this.CountDownTemp);
+            this.panel2.Controls.Add(this.DurationTemp);
+            this.panel2.Controls.Add(this.KomputerNameTemp);
+            this.panel2.Controls.Add(this.ImageTemplate);
+            this.panel2.Location = new System.Drawing.Point(3, 3);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(258, 132);
+            this.panel2.TabIndex = 6;
+            // 
+            // CountDownTemp
+            // 
+            this.CountDownTemp.AutoSize = true;
+            this.CountDownTemp.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CountDownTemp.Location = new System.Drawing.Point(128, 77);
+            this.CountDownTemp.Name = "CountDownTemp";
+            this.CountDownTemp.Size = new System.Drawing.Size(72, 18);
+            this.CountDownTemp.TabIndex = 3;
+            this.CountDownTemp.Text = "00:54:38";
+            // 
+            // DurationTemp
+            // 
+            this.DurationTemp.AutoSize = true;
+            this.DurationTemp.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DurationTemp.Location = new System.Drawing.Point(128, 54);
+            this.DurationTemp.Name = "DurationTemp";
+            this.DurationTemp.Size = new System.Drawing.Size(35, 13);
+            this.DurationTemp.TabIndex = 2;
+            this.DurationTemp.Text = "2 Jam";
+            // 
+            // KomputerNameTemp
+            // 
+            this.KomputerNameTemp.AutoSize = true;
+            this.KomputerNameTemp.Location = new System.Drawing.Point(128, 27);
+            this.KomputerNameTemp.Name = "KomputerNameTemp";
+            this.KomputerNameTemp.Size = new System.Drawing.Size(85, 18);
+            this.KomputerNameTemp.TabIndex = 1;
+            this.KomputerNameTemp.Text = "Komputer 1";
+            // 
+            // ImageTemplate
+            // 
+            this.ImageTemplate.Image = global::Esemnet.Properties.Resources.online_test;
+            this.ImageTemplate.Location = new System.Drawing.Point(-6, 18);
+            this.ImageTemplate.Name = "ImageTemplate";
+            this.ImageTemplate.Size = new System.Drawing.Size(119, 87);
+            this.ImageTemplate.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.ImageTemplate.TabIndex = 0;
+            this.ImageTemplate.TabStop = false;
+            this.ImageTemplate.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // TambahTransaksi
             // 
@@ -173,74 +240,123 @@
             this.Time.TextAlign = System.Drawing.ContentAlignment.TopRight;
             this.Time.Click += new System.EventHandler(this.Time_Click);
             // 
-            // panel2
+            // flowLayoutPanel1
             // 
-            this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel2.Controls.Add(this.CountDownTemp);
-            this.panel2.Controls.Add(this.DurationTemp);
-            this.panel2.Controls.Add(this.KomputerNameTemp);
-            this.panel2.Controls.Add(this.ImageTemplate);
-            this.panel2.Location = new System.Drawing.Point(22, 93);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(258, 132);
-            this.panel2.TabIndex = 6;
+            this.flowLayoutPanel1.Controls.Add(this.panel2);
+            this.flowLayoutPanel1.Controls.Add(this.panel3);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(6, 97);
+            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(531, 252);
+            this.flowLayoutPanel1.TabIndex = 7;
             // 
-            // ImageTemplate
+            // panel3
             // 
-            this.ImageTemplate.Image = global::Esemnet.Properties.Resources.online_test;
-            this.ImageTemplate.Location = new System.Drawing.Point(-6, 18);
-            this.ImageTemplate.Name = "ImageTemplate";
-            this.ImageTemplate.Size = new System.Drawing.Size(119, 87);
-            this.ImageTemplate.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.ImageTemplate.TabIndex = 0;
-            this.ImageTemplate.TabStop = false;
-            this.ImageTemplate.Click += new System.EventHandler(this.pictureBox1_Click);
+            this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel3.Controls.Add(this.panel4);
+            this.panel3.Controls.Add(this.label5);
+            this.panel3.Controls.Add(this.label6);
+            this.panel3.Controls.Add(this.label7);
+            this.panel3.Controls.Add(this.pictureBox1);
+            this.panel3.Location = new System.Drawing.Point(267, 3);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(258, 132);
+            this.panel3.TabIndex = 7;
             // 
             // label5
             // 
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(580, 53);
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(128, 77);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(195, 23);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "20 Desember 2025   20:03";
-            this.label5.TextAlign = System.Drawing.ContentAlignment.TopRight;
+            this.label5.Size = new System.Drawing.Size(72, 18);
+            this.label5.TabIndex = 3;
+            this.label5.Text = "00:54:38";
             // 
-            // KomputerNameTemp
+            // label6
             // 
-            this.KomputerNameTemp.AutoSize = true;
-            this.KomputerNameTemp.Location = new System.Drawing.Point(128, 27);
-            this.KomputerNameTemp.Name = "KomputerNameTemp";
-            this.KomputerNameTemp.Size = new System.Drawing.Size(85, 18);
-            this.KomputerNameTemp.TabIndex = 1;
-            this.KomputerNameTemp.Text = "Komputer 1";
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(128, 54);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(35, 13);
+            this.label6.TabIndex = 2;
+            this.label6.Text = "2 Jam";
             // 
-            // DurationTemp
+            // label7
             // 
-            this.DurationTemp.AutoSize = true;
-            this.DurationTemp.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.DurationTemp.Location = new System.Drawing.Point(128, 54);
-            this.DurationTemp.Name = "DurationTemp";
-            this.DurationTemp.Size = new System.Drawing.Size(35, 13);
-            this.DurationTemp.TabIndex = 2;
-            this.DurationTemp.Text = "2 Jam";
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(128, 27);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(85, 18);
+            this.label7.TabIndex = 1;
+            this.label7.Text = "Komputer 1";
             // 
-            // CountDownTemp
+            // pictureBox1
             // 
-            this.CountDownTemp.AutoSize = true;
-            this.CountDownTemp.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CountDownTemp.Location = new System.Drawing.Point(128, 77);
-            this.CountDownTemp.Name = "CountDownTemp";
-            this.CountDownTemp.Size = new System.Drawing.Size(72, 18);
-            this.CountDownTemp.TabIndex = 3;
-            this.CountDownTemp.Text = "00:54:38";
+            this.pictureBox1.Image = global::Esemnet.Properties.Resources.online_test;
+            this.pictureBox1.Location = new System.Drawing.Point(-6, 18);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(119, 87);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
+            // panel4
+            // 
+            this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel4.Controls.Add(this.label8);
+            this.panel4.Controls.Add(this.label9);
+            this.panel4.Controls.Add(this.label10);
+            this.panel4.Controls.Add(this.pictureBox2);
+            this.panel4.Location = new System.Drawing.Point(-1, -1);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(258, 132);
+            this.panel4.TabIndex = 7;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(128, 77);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(72, 18);
+            this.label8.TabIndex = 3;
+            this.label8.Text = "00:54:38";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(128, 54);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(35, 13);
+            this.label9.TabIndex = 2;
+            this.label9.Text = "2 Jam";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(128, 27);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(85, 18);
+            this.label10.TabIndex = 1;
+            this.label10.Text = "Komputer 1";
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::Esemnet.Properties.Resources.online_test;
+            this.pictureBox2.Location = new System.Drawing.Point(-6, 18);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(119, 87);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox2.TabIndex = 0;
+            this.pictureBox2.TabStop = false;
             // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label5);
             this.Controls.Add(this.Time);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.WelcomeTxt);
@@ -255,6 +371,13 @@
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.ImageTemplate)).EndInit();
+            this.flowLayoutPanel1.ResumeLayout(false);
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.panel4.ResumeLayout(false);
+            this.panel4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -275,9 +398,19 @@
         private System.Windows.Forms.Label Terpakai;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.PictureBox ImageTemplate;
-        private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label CountDownTemp;
         private System.Windows.Forms.Label DurationTemp;
         private System.Windows.Forms.Label KomputerNameTemp;
+        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

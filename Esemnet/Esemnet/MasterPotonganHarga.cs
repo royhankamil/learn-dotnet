@@ -276,5 +276,12 @@ namespace Esemnet
                 ErrorText.Text = "Please Select the Data to change";
             }
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            HalamanTransaksi transaksi = new HalamanTransaksi(user_id);
+            transaksi.Show();
+            this.Hide();
+        }
     }
 }

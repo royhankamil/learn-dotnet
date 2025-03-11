@@ -32,7 +32,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.label12 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.KodeInput = new System.Windows.Forms.TextBox();
             this.totalTxt = new System.Windows.Forms.Label();
             this.potonganmember = new System.Windows.Forms.Label();
             this.subtotal = new System.Windows.Forms.Label();
@@ -70,7 +70,7 @@
             this.groupBox3.Controls.Add(this.button2);
             this.groupBox3.Controls.Add(this.checkBox2);
             this.groupBox3.Controls.Add(this.label12);
-            this.groupBox3.Controls.Add(this.textBox1);
+            this.groupBox3.Controls.Add(this.KodeInput);
             this.groupBox3.Controls.Add(this.totalTxt);
             this.groupBox3.Controls.Add(this.potonganmember);
             this.groupBox3.Controls.Add(this.subtotal);
@@ -96,6 +96,7 @@
             this.button2.TabIndex = 29;
             this.button2.Text = "Submit";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // checkBox2
             // 
@@ -117,13 +118,14 @@
             this.label12.TabIndex = 26;
             this.label12.Text = "Kode Potongan Harga";
             // 
-            // textBox1
+            // KodeInput
             // 
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(17, 41);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(235, 24);
-            this.textBox1.TabIndex = 27;
+            this.KodeInput.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.KodeInput.Location = new System.Drawing.Point(17, 41);
+            this.KodeInput.Name = "KodeInput";
+            this.KodeInput.Size = new System.Drawing.Size(235, 24);
+            this.KodeInput.TabIndex = 27;
+            this.KodeInput.TextChanged += new System.EventHandler(this.KodeInput_TextChanged);
             // 
             // totalTxt
             // 
@@ -237,6 +239,7 @@
             this.checkBox1.TabIndex = 28;
             this.checkBox1.Text = "Atau Tambah Baru";
             this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // button1
             // 
@@ -248,6 +251,7 @@
             this.button1.TabIndex = 27;
             this.button1.Text = "Pilih";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label13
             // 
@@ -285,6 +289,7 @@
             this.AlamatInput.Location = new System.Drawing.Point(201, 116);
             this.AlamatInput.Multiline = true;
             this.AlamatInput.Name = "AlamatInput";
+            this.AlamatInput.ReadOnly = true;
             this.AlamatInput.Size = new System.Drawing.Size(152, 71);
             this.AlamatInput.TabIndex = 25;
             // 
@@ -293,6 +298,7 @@
             this.NamaInput.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.NamaInput.Location = new System.Drawing.Point(21, 116);
             this.NamaInput.Name = "NamaInput";
+            this.NamaInput.ReadOnly = true;
             this.NamaInput.Size = new System.Drawing.Size(156, 24);
             this.NamaInput.TabIndex = 21;
             // 
@@ -311,6 +317,7 @@
             this.TeleponInput.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TeleponInput.Location = new System.Drawing.Point(21, 163);
             this.TeleponInput.Name = "TeleponInput";
+            this.TeleponInput.ReadOnly = true;
             this.TeleponInput.Size = new System.Drawing.Size(156, 24);
             this.TeleponInput.TabIndex = 23;
             // 
@@ -463,7 +470,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.CheckBox checkBox2;
         private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox KodeInput;
         private System.Windows.Forms.CheckBox checkBox1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label13;

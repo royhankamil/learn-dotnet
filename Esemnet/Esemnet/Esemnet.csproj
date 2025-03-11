@@ -76,6 +76,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DbModel.edmx</DependentUpon>
     </Compile>
+    <Compile Include="dialogpilihmember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dialogpilihmember.Designer.cs">
+      <DependentUpon>dialogpilihmember.cs</DependentUpon>
+    </Compile>
     <Compile Include="DialogTransaksi.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -155,6 +161,9 @@
     </Compile>
     <EmbeddedResource Include="Dashboard.resx">
       <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dialogpilihmember.resx">
+      <DependentUpon>dialogpilihmember.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="DialogTransaksi.resx">
       <DependentUpon>DialogTransaksi.cs</DependentUpon>

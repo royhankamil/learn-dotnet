@@ -49,11 +49,10 @@ namespace Esemnet
 
         private void addBtn_Click(object sender, EventArgs e)
         {
-            if (selectedTransaksi == null)
-            {
-                MessageBox.Show("Please select the data to continue", "Error selected", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
+            TambahTransaksi transaksi = new TambahTransaksi();
+            transaksi.onSuccessResult += update_datagrid;
+            transaksi.Show();
+
         }
             
 

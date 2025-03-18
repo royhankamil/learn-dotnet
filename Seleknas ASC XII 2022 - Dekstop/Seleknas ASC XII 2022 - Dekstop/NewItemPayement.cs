@@ -26,17 +26,19 @@ namespace Seleknas_ASC_XII_2022___Dekstop
         {
             if (textBox1.Text.All(char.IsNumber) && int.Parse(textBox1.Text) >0)
             {
-
+                payment pay = db.payments.Find(id);
                 payment_detail detail = new payment_detail()
                 {
-                    payment_id = id,
+                    payment = pay,
                     item = NameInput.Text,
                     nominal = decimal.Parse(textBox1.Text),
-                    notes = textBox2.Text
+                    notes = textBox2.Text,
+                    created_at = DateTime.Now
                 };
 
                 db.payment_detail.Add(detail);
                 db.SaveChanges();
+                MessageBox.Show("Adding proccess successsfully");
                 ondone?.Invoke();
                 this.Hide();
             }

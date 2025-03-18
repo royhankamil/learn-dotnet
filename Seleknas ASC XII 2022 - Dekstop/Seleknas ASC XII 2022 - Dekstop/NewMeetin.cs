@@ -143,6 +143,7 @@ namespace Seleknas_ASC_XII_2022___Dekstop
 
                 db.meetings.Add(newmeet);
                 db.SaveChanges();
+                MessageBox.Show("Submitting Successsfully");
             }
         }
 

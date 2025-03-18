@@ -74,9 +74,11 @@ namespace Seleknas_ASC_XII_2022___Dekstop
                             if (pay.total_payment >= total)
                                 dataGridView2.Rows.Add(item.notes, "", "");
 
-                            dataGridView2.Rows.Add(item.notes, " ", " ");
+                            else
+                                dataGridView2.Rows.Add(item.notes, " ", " ");
                         }
-                        dataGridView2.Rows.Add(item.notes, " ", " ");
+                        else
+                            dataGridView2.Rows.Add(item.notes, " ", " ");
                     }
 
                 }
@@ -118,10 +120,11 @@ namespace Seleknas_ASC_XII_2022___Dekstop
                 {
                     if (pay.total_payment >= total)
                         dataGridView2.Rows.Add(item.notes, "", "");
-
-                    dataGridView2.Rows.Add(item.notes, " ", " ");
+                    else
+                        dataGridView2.Rows.Add(item.notes, " ", " ");
                 }
-                dataGridView2.Rows.Add(item.notes, " ", " ");
+                else
+                    dataGridView2.Rows.Add(item.notes, " ", " ");
             }
 
         }
@@ -130,9 +133,20 @@ namespace Seleknas_ASC_XII_2022___Dekstop
         {
             if (dataGridView2.CurrentRow.Index != -1)
             {
+                payment pay = db.payments.FirstOrDefault(p => p.meeting_id == met.id);
+                decimal total = 0;
+                if (pay != null)
+                    total = db.payment_detail.Where(p => p.payment_id == pay.id).Select(p => p.nominal).ToList().Sum();
+
+                if (pay != null)
+                {
+                    if (pay.total_payment >= total)
+                        return;
+                }
                 patient_record pat_rec = db.patient_record.AsEnumerable().FirstOrDefault(r => r.notes == dataGridView2.Rows[e.RowIndex].Cells["RecordsCol"].Value.ToString());
                 if (dataGridView2.Columns[e.ColumnIndex].Name == "EditCol")
                 {
+
                     NewpatientRecord rec = new NewpatientRecord(0, 0, pat_rec.id);
                     rec.onChange += ondone;
                     rec.Show();
@@ -145,7 +159,9 @@ namespace Seleknas_ASC_XII_2022___Dekstop
                     if (result == DialogResult.Yes)
                     {
                         db.patient_record.Remove(pat_rec);
-                        db.SaveChanges(); 
+                        db.SaveChanges();
+
+                        MessageBox.Show("deleting successfully");
                     }
                 }
             }

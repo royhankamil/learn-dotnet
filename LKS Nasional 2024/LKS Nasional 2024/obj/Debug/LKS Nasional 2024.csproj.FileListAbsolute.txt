@@ -1,0 +1,18 @@
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\bin\Debug\LKS Nasional 2024.exe.config
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\bin\Debug\LKS Nasional 2024.exe
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\bin\Debug\LKS Nasional 2024.pdb
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\bin\Debug\EntityFramework.dll
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\bin\Debug\EntityFramework.xml
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS Nasional 2024.csproj.AssemblyReference.cache
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS_Nasional_2024.CreateAccount.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS_Nasional_2024.Login.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS_Nasional_2024.Properties.Resources.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS Nasional 2024.csproj.GenerateResource.cache
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS Nasional 2024.csproj.CoreCompileInputs.cache
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS Nasi.A70747EC.Up2Date
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS Nasional 2024.exe
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS Nasional 2024.pdb
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS_Nasional_2024.MainForm.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS_Nasional_2024.ProfileForm.resources

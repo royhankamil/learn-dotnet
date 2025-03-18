@@ -23,22 +23,26 @@ namespace Seleknas_ASC_XII_2022___Dekstop
             dateTimePicker1.Value = DateTime.Now.AddYears(5);
 
             pay = db.payments.FirstOrDefault(p => p.meeting_id == id);
-            foreach (var item in db.payment_detail.Where(p=>p.payment_id == pay.id).ToList())
+            if (pay != null)
             {
-                if (alreadyPaid())
+                foreach (var item in db.payment_detail.Where(p=>p.payment_id == pay.id).ToList())
                 {
-                    dataGridView1.Rows.Add(item.item,
-                        item.nominal,
-                        item.notes,
-                        "");
+                    if (alreadyPaid())
+                    {
+                        dataGridView1.Rows.Add(item.item,
+                            item.nominal,
+                            item.notes,
+                            "");
+                    }
+                    else
+                    {
+                        dataGridView1.Rows.Add(item.item,
+                            item.nominal,
+                            item.notes,
+                            " ");
+                    }    
                 }
-                else
-                {
-                    dataGridView1.Rows.Add(item.item,
-                        item.nominal,
-                        item.notes,
-                        " ");
-                }    
+
             }
 
             if (alreadyPaid())
@@ -49,6 +53,7 @@ namespace Seleknas_ASC_XII_2022___Dekstop
                 textBox2.Enabled = false;
                 textBox3.Enabled = false;
                 button2.Enabled = false;
+                dateTimePicker1.Enabled = false;
 
             }
         }
@@ -59,7 +64,10 @@ namespace Seleknas_ASC_XII_2022___Dekstop
         }
         private bool alreadyPaid()
         {
-            decimal total = db.payment_detail.Select(u => u.nominal).ToList().Sum();
+            if (pay == null)
+                return false;
+
+            decimal total = db.payment_detail.Where(p=>p.payment_id == pay.id).Select(u => u.nominal).ToList().Sum();
             return pay.total_payment >= total;
         }
 
@@ -67,8 +75,15 @@ namespace Seleknas_ASC_XII_2022___Dekstop
         {
             if (!alreadyPaid())
             {
-                NewItemPayement detail = new NewItemPayement(pay.id);
-                detail.Show();
+                if (pay != null) 
+                {
+                    NewItemPayement detail = new NewItemPayement(pay.id);
+                    detail.Show();
+                }
+                else
+                {
+
+                }
             }
         }
 
@@ -84,11 +99,14 @@ namespace Seleknas_ASC_XII_2022___Dekstop
                     primary_account_number = textBox1.Text,
                     expiration_date = dateTimePicker1.Value,
                     service_code = int.Parse(textBox2.Text),
-                    total_payment = decimal.Parse(textBox3.Text)
+                    total_payment = decimal.Parse(textBox3.Text),
+                    created_at = DateTime.Now
                 };
 
                 db.payments.Add(pay);
                 db.SaveChanges();
+
+                MessageBox.Show("Submitting proccesss successfully");
             }
         }
 
@@ -96,7 +114,7 @@ namespace Seleknas_ASC_XII_2022___Dekstop
         {
             decimal total = db.payment_detail.Select(u => u.nominal).ToList().Sum();
 
-            if (textBox2.Text.Length != 3 || textBox2.Text.All(char.IsNumber))
+            if (textBox2.Text.Length != 3 || !textBox2.Text.All(char.IsNumber))
             {
                 MessageBox.Show("Service code should be three digit numeric.");
                 return false;
@@ -165,6 +183,11 @@ namespace Seleknas_ASC_XII_2022___Dekstop
         }
 
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
         {
 
         }

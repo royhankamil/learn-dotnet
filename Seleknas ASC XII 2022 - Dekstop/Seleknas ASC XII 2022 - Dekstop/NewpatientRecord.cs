@@ -50,6 +50,7 @@ namespace Seleknas_ASC_XII_2022___Dekstop
 
             }
             db.SaveChanges();
+            MessageBox.Show("Submitting proccess successfully");
 
             onChange?.Invoke();
             this.Hide();

@@ -1,0 +1,493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\seleknas asc xii 2022 - dekstop\\seleknas asc xii 2022 - dekstop\\formmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\formmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\formmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\formmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\paymentrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\paymentrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\paymentrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\paymentrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\newmeetin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\newmeetin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\newmeetin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\newmeetin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\masterdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\masterdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\masterinternational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\masterinternational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\newitempayement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\newitempayement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\newitempayement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\newitempayement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\patientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\patientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\patientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\patientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\newpatientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\newpatientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\newpatientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\newpatientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\seleknas asc xii 2022 - dekstop\\seleknas asc xii 2022 - dekstop\\formmeeting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\formmeeting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\seleknas asc xii 2022 - dekstop\\seleknas asc xii 2022 - dekstop\\newpatientrecord.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\newpatientrecord.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\seleknas asc xii 2022 - dekstop\\seleknas asc xii 2022 - dekstop\\newpatientrecord.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\newpatientrecord.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\seleknas asc xii 2022 - dekstop\\seleknas asc xii 2022 - dekstop\\paymentrecords.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\paymentrecords.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\masterinternational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\masterinternational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\masterpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\masterpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\masterpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\masterpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\masterdoctor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\masterdoctor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\seleknas asc xii 2022 - dekstop\\masterdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93BCE6-1F61-4D89-9629-67ECF837D335}|Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop.csproj|solutionrelative:seleknas asc xii 2022 - dekstop\\masterdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2065,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormMeeting.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\FormMeeting.Designer.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\FormMeeting.Designer.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\FormMeeting.Designer.cs",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\FormMeeting.Designer.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:06:11.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NewpatientRecord.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.Designer.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.Designer.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.Designer.cs",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:06:11.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NewpatientRecord.resx",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.resx",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.resx",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.resx",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-17T21:06:10.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentRecords.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\PaymentRecords.Designer.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\PaymentRecords.Designer.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\PaymentRecords.Designer.cs",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\PaymentRecords.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:06:10.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentRecords.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\PaymentRecords.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\PaymentRecords.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\PaymentRecords.cs",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\PaymentRecords.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:39:17.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentRecords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\PaymentRecords.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\PaymentRecords.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\PaymentRecords.cs [Design]",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\PaymentRecords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:46:25.365Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\packages.config",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\packages.config",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\packages.config",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-17T08:29:03.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NewpatientRecord.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.cs",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAEwBMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:24:17.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewpatientRecord.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.cs [Design]",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\NewpatientRecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:22:52.742Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewItemPayement.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewItemPayement.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\NewItemPayement.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewItemPayement.cs",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\NewItemPayement.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:57:11.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewItemPayement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewItemPayement.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\NewItemPayement.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewItemPayement.cs [Design]",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\NewItemPayement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:54:19.496Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMeeting.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\FormMeeting.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\FormMeeting.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\FormMeeting.cs",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\FormMeeting.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswIcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:29:10.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMeeting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\FormMeeting.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\FormMeeting.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\FormMeeting.cs [Design]",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\FormMeeting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:21:49.033Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientRecord.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\PatientRecord.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\PatientRecord.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\PatientRecord.cs",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\PatientRecord.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:57:41.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientRecord.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\PatientRecord.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\PatientRecord.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\PatientRecord.cs [Design]",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\PatientRecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:31:43.809Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewMeetin.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewMeetin.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\NewMeetin.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewMeetin.cs",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\NewMeetin.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAIsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:27:41.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewMeetin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewMeetin.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\NewMeetin.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\NewMeetin.cs [Design]",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\NewMeetin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:14:57.11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MasterPatient.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\MasterPatient.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\MasterPatient.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\MasterPatient.cs",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\MasterPatient.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:05:11.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MasterPatient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\MasterPatient.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\MasterPatient.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\MasterPatient.cs [Design]",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\MasterPatient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:05:04.198Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Masterdoctor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\Masterdoctor.Designer.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\Masterdoctor.Designer.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\Masterdoctor.Designer.cs",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\Masterdoctor.Designer.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAmwFcBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:03:58.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Masterdoctor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\Masterdoctor.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\Masterdoctor.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\Masterdoctor.cs [Design]",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\Masterdoctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:30:53.181Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Masterdoctor.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\Masterdoctor.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\Masterdoctor.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\Masterdoctor.cs",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\Masterdoctor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:38:19.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\MainForm.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\MainForm.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\MainForm.cs",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\MainForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwC4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:51:53.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MasterInternational.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\MasterInternational.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\MasterInternational.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\MasterInternational.cs",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\MasterInternational.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:37:50.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MasterInternational.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\MasterInternational.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\MasterInternational.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\MasterInternational.cs [Design]",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\MasterInternational.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:25:10.667Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\MainForm.cs",
+              "RelativeDocumentMoniker": "Seleknas ASC XII 2022 - Dekstop\\MainForm.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Seleknas ASC XII 2022 - Dekstop\\Seleknas ASC XII 2022 - Dekstop\\MainForm.cs [Design]",
+              "RelativeToolTip": "Seleknas ASC XII 2022 - Dekstop\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:17:07.748Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1997,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 729,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1997,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

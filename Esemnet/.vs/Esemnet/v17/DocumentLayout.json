@@ -3,23 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemnet\\esemnet\\tambahtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\tambahtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemnet\\esemnet\\tambahdurasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\tambahdurasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemnet\\esemnet\\dialogpilihmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\dialogpilihmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemnet\\esemnet\\tambahdurasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\tambahdurasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemnet\\esemnet\\tambahtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\tambahtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\TambahTransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:Esemnet\\TambahTransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemnet\\esemnet\\dialogpilihmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemnet\\esemnet\\tambahdurasi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\tambahdurasi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemnet\\esemnet\\tambahtransaksi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\tambahtransaksi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemnet\\esemnet\\tambahtransaksi.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\tambahtransaksi.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\esemnet\\dialogpilihmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\dialogpilihmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\esemnet\\dialogpilihmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\dialogpilihmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemnet\\esemnet\\halamantransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\esemnet\\halamantransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\halamantransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,7 +51,7 @@
       "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterpotonganharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemnet\\esemnet\\masterkomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\esemnet\\masterkomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterkomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -47,11 +67,11 @@
       "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\dialogtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemnet\\esemnet\\masterkomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\esemnet\\masterkomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\masterkomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemnet\\esemnet\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\esemnet\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EEC71593-F227-4F6C-BCB9-D8F17C9A4452}|Esemnet\\Esemnet.csproj|solutionrelative:esemnet\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -87,6 +107,44 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TambahDurasi.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\TambahDurasi.cs",
+              "RelativeDocumentMoniker": "Esemnet\\TambahDurasi.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\TambahDurasi.cs",
+              "RelativeToolTip": "Esemnet\\TambahDurasi.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAkwAEBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:51:49.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TambahTransaksi.resx",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\TambahTransaksi.resx",
+              "RelativeDocumentMoniker": "Esemnet\\TambahTransaksi.resx",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\TambahTransaksi.resx",
+              "RelativeToolTip": "Esemnet\\TambahTransaksi.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-17T01:51:18.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TambahDurasi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\TambahDurasi.Designer.cs",
+              "RelativeDocumentMoniker": "Esemnet\\TambahDurasi.Designer.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\TambahDurasi.Designer.cs",
+              "RelativeToolTip": "Esemnet\\TambahDurasi.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwBsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:50:07.955Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
@@ -96,7 +154,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "TambahTransaksi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\TambahTransaksi.Designer.cs",
+              "RelativeDocumentMoniker": "Esemnet\\TambahTransaksi.Designer.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\TambahTransaksi.Designer.cs",
+              "RelativeToolTip": "Esemnet\\TambahTransaksi.Designer.cs",
+              "ViewState": "AgIAAMkBAAAAAAAAAAAUwNwBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:49:28.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TambahDurasi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\TambahDurasi.cs",
+              "RelativeDocumentMoniker": "Esemnet\\TambahDurasi.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\TambahDurasi.cs [Design]",
+              "RelativeToolTip": "Esemnet\\TambahDurasi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:49:16.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "HalamanTransaksi.cs",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\HalamanTransaksi.cs",
               "RelativeDocumentMoniker": "Esemnet\\HalamanTransaksi.cs",
@@ -104,12 +187,11 @@
               "RelativeToolTip": "Esemnet\\HalamanTransaksi.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAiwDQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T18:24:12.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T18:24:12.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "dialogpilihmember.cs",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\dialogpilihmember.cs",
               "RelativeDocumentMoniker": "Esemnet\\dialogpilihmember.cs",
@@ -117,24 +199,22 @@
               "RelativeToolTip": "Esemnet\\dialogpilihmember.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAFQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T10:10:19.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T10:10:19.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "dialogpilihmember.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\dialogpilihmember.cs",
               "RelativeDocumentMoniker": "Esemnet\\dialogpilihmember.cs",
               "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\dialogpilihmember.cs [Design]",
               "RelativeToolTip": "Esemnet\\dialogpilihmember.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T10:06:02.789Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-11T10:06:02.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TambahTransaksi.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\TambahTransaksi.cs",
               "RelativeDocumentMoniker": "Esemnet\\TambahTransaksi.cs",
@@ -146,20 +226,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TambahTransaksi.cs",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\TambahTransaksi.cs",
               "RelativeDocumentMoniker": "Esemnet\\TambahTransaksi.cs",
               "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\TambahTransaksi.cs",
               "RelativeToolTip": "Esemnet\\TambahTransaksi.cs",
-              "ViewState": "AgIAAOkAAAAAAAAAAAAAAPQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAPAAAAAAAAAAAADwvwIBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T09:43:40.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\App.config",
               "RelativeDocumentMoniker": "Esemnet\\App.config",
@@ -172,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "MasterKomputer.cs",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\MasterKomputer.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterKomputer.cs",
@@ -180,36 +260,33 @@
               "RelativeToolTip": "Esemnet\\MasterKomputer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T09:41:56.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T09:41:56.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "MasterKomputer.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\MasterKomputer.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterKomputer.cs",
               "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\MasterKomputer.cs [Design]",
               "RelativeToolTip": "Esemnet\\MasterKomputer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T18:26:33.753Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-20T18:26:33.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "MasterMember.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\MasterMember.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterMember.cs",
               "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\MasterMember.cs [Design]",
               "RelativeToolTip": "Esemnet\\MasterMember.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T20:53:14.614Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-21T20:53:14.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Dashboard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\Dashboard.cs",
               "RelativeDocumentMoniker": "Esemnet\\Dashboard.cs",
@@ -219,31 +296,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "DialogTransaksi.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\DialogTransaksi.cs",
               "RelativeDocumentMoniker": "Esemnet\\DialogTransaksi.cs",
               "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\DialogTransaksi.cs [Design]",
               "RelativeToolTip": "Esemnet\\DialogTransaksi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T05:02:07.39Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-10T05:02:07.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "MasterData.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\MasterData.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterData.cs",
               "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\MasterData.cs [Design]",
               "RelativeToolTip": "Esemnet\\MasterData.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T20:04:13.757Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-19T20:04:13.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "MasterPaket.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\MasterPaket.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterPaket.cs",
@@ -253,27 +328,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "MasterPotonganHarga.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\MasterPotonganHarga.cs",
               "RelativeDocumentMoniker": "Esemnet\\MasterPotonganHarga.cs",
               "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\MasterPotonganHarga.cs [Design]",
               "RelativeToolTip": "Esemnet\\MasterPotonganHarga.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T19:15:01.49Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-21T19:15:01.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "HalamanTransaksi.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\HalamanTransaksi.cs",
               "RelativeDocumentMoniker": "Esemnet\\HalamanTransaksi.cs",
               "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\Esemnet\\Esemnet\\HalamanTransaksi.cs [Design]",
               "RelativeToolTip": "Esemnet\\HalamanTransaksi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T03:43:50.969Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-10T03:43:50.969Z"
             }
           ]
         },

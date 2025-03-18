@@ -251,5 +251,10 @@ namespace Esemnet
 
             totalTxt.Text = (sbtotal - dipotong).ToString("C", new CultureInfo("id-ID"));
         }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

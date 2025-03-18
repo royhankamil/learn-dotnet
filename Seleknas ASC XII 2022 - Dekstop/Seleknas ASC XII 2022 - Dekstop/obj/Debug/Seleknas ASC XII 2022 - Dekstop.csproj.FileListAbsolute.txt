@@ -1,0 +1,24 @@
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\bin\Debug\Seleknas ASC XII 2022 - Dekstop.exe.config
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\bin\Debug\Seleknas ASC XII 2022 - Dekstop.exe
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\bin\Debug\Seleknas ASC XII 2022 - Dekstop.pdb
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas ASC XII 2022 - Dekstop.csproj.AssemblyReference.cache
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas_ASC_XII_2022___Dekstop.MainForm.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas_ASC_XII_2022___Dekstop.Properties.Resources.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas ASC XII 2022 - Dekstop.csproj.GenerateResource.cache
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas ASC XII 2022 - Dekstop.csproj.CoreCompileInputs.cache
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas ASC XII 2022 - Dekstop.exe
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas ASC XII 2022 - Dekstop.pdb
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\bin\Debug\EntityFramework.dll
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\bin\Debug\EntityFramework.xml
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas_ASC_XII_2022___Dekstop.MasterInternational.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas.57C4AA81.Up2Date
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas_ASC_XII_2022___Dekstop.Masterdoctor.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas_ASC_XII_2022___Dekstop.MasterPatient.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas_ASC_XII_2022___Dekstop.NewMeetin.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas_ASC_XII_2022___Dekstop.PatientRecord.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas_ASC_XII_2022___Dekstop.FormMeeting.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas_ASC_XII_2022___Dekstop.NewItemPayement.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas_ASC_XII_2022___Dekstop.NewpatientRecord.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\Seleknas ASC XII 2022 - Dekstop\Seleknas ASC XII 2022 - Dekstop\obj\Debug\Seleknas_ASC_XII_2022___Dekstop.PaymentRecords.resources

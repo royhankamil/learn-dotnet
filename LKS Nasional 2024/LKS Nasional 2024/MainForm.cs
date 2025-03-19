@@ -13,11 +13,13 @@ namespace LKS_Nasional_2024
     public partial class MainForm: Form
     {
         int user_id;
+        bool asCust;
         grocerseekerEntities db = new grocerseekerEntities();
         public MainForm(int user_id, bool asCust)
         {
             InitializeComponent();
 
+            this.asCust = asCust;
             this.user_id = user_id;
             user userr = db.users.Find(user_id);
             if (asCust)
@@ -49,6 +51,22 @@ namespace LKS_Nasional_2024
             ProfileForm profile = new ProfileForm(user_id);
             profile.Show();
             this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (asCust)
+            {
+                ProductFormCust form = new ProductFormCust(user_id);
+                form.Show();
+                this.Hide();
+            }
+            else
+            {
+                ProductForm form = new ProductForm(user_id);
+                form.Show();
+                this.Hide();
+            }
         }
     }
 }

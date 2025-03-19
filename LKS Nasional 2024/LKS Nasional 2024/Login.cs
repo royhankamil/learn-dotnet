@@ -29,11 +29,15 @@ namespace LKS_Nasional_2024
         {
             user userr = checkData();
 
-            if (userr != null)
+            if (userr != null && userr.password == PassInput.Text)
             {
                 MainForm main = new MainForm(userr.id, LoginAsCB.Text == "customer");
                 main.Show();
                 this.Hide();
+            }
+            else
+            {
+                errorTxt.Text = "Phone number or password is wrong, try again later!";
             }
         }
         

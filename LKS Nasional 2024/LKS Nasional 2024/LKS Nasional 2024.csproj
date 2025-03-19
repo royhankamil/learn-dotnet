@@ -120,6 +120,12 @@
     <Compile Include="transaction.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="transactionCust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transactionCust.Designer.cs">
+      <DependentUpon>transactionCust.cs</DependentUpon>
+    </Compile>
     <Compile Include="user.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
@@ -150,6 +156,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="transactionCust.resx">
+      <DependentUpon>transactionCust.cs</DependentUpon>
+    </EmbeddedResource>
     <EntityDeploy Include="Model1.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>Model1.Designer.cs</LastGenOutput>

@@ -16,3 +16,5 @@ C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional
 C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS Nasional 2024.pdb
 C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS_Nasional_2024.MainForm.resources
 C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS_Nasional_2024.ProfileForm.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS_Nasional_2024.ProductFormCust.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\LKS Nasional 2024\LKS Nasional 2024\obj\Debug\LKS_Nasional_2024.ProductForm.resources

@@ -3,36 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\lks nasional 2024\\lks nasional 2024\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\lks nasional 2024\\lks nasional 2024\\productformcust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\productformcust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\lks nasional 2024\\lks nasional 2024\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\lks nasional 2024\\lks nasional 2024\\productformvendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\productformvendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\lks nasional 2024\\lks nasional 2024\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\lks nasional 2024\\lks nasional 2024\\productformcust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\productformcust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\lks nasional 2024\\lks nasional 2024\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\lks nasional 2024\\lks nasional 2024\\productformcust.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\productformcust.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\lks nasional 2024\\lks nasional 2024\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\lks nasional 2024\\lks nasional 2024\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\lks nasional 2024\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\lks nasional 2024\\lks nasional 2024\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\lks nasional 2024\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\lks nasional 2024\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\lks nasional 2024\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\lks nasional 2024\\lks nasional 2024\\productformvendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\productformvendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\lks nasional 2024\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\lks nasional 2024\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\lks nasional 2024\\lks nasional 2024\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\lks nasional 2024\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F4F502D-333F-47ED-ACEB-C17698390F07}|LKS Nasional 2024\\LKS Nasional 2024.csproj|solutionrelative:lks nasional 2024\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 2065,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,45 +74,108 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductFormCust.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProductFormCust.Designer.cs",
+              "RelativeDocumentMoniker": "LKS Nasional 2024\\ProductFormCust.Designer.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProductFormCust.Designer.cs*",
+              "RelativeToolTip": "LKS Nasional 2024\\ProductFormCust.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:53:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductFormCust.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProductFormCust.cs",
+              "RelativeDocumentMoniker": "LKS Nasional 2024\\ProductFormCust.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProductFormCust.cs*",
+              "RelativeToolTip": "LKS Nasional 2024\\ProductFormCust.cs*",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwGUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:34:14.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductFormCust.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProductFormCust.cs",
+              "RelativeDocumentMoniker": "LKS Nasional 2024\\ProductFormCust.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProductFormCust.cs [Design]*",
+              "RelativeToolTip": "LKS Nasional 2024\\ProductFormCust.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:32:17.682Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductFormVendor.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProductFormVendor.cs",
+              "RelativeDocumentMoniker": "LKS Nasional 2024\\ProductFormVendor.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProductFormVendor.cs*",
+              "RelativeToolTip": "LKS Nasional 2024\\ProductFormVendor.cs*",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAAAAwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:15:32.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductFormVendor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProductFormVendor.cs",
+              "RelativeDocumentMoniker": "LKS Nasional 2024\\ProductFormVendor.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProductFormVendor.cs [Design]*",
+              "RelativeToolTip": "LKS Nasional 2024\\ProductFormVendor.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:04:30.305Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProfileForm.cs",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProfileForm.cs",
               "RelativeDocumentMoniker": "LKS Nasional 2024\\ProfileForm.cs",
-              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProfileForm.cs*",
-              "RelativeToolTip": "LKS Nasional 2024\\ProfileForm.cs*",
-              "ViewState": "AgIAANkAAAAAAAAAAAAAwOYAAABBAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProfileForm.cs",
+              "RelativeToolTip": "LKS Nasional 2024\\ProfileForm.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAUwPEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T05:54:28.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProfileForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProfileForm.cs",
               "RelativeDocumentMoniker": "LKS Nasional 2024\\ProfileForm.cs",
-              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProfileForm.cs [Design]*",
-              "RelativeToolTip": "LKS Nasional 2024\\ProfileForm.cs [Design]*",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\ProfileForm.cs [Design]",
+              "RelativeToolTip": "LKS Nasional 2024\\ProfileForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T05:47:14.969Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\MainForm.cs",
               "RelativeDocumentMoniker": "LKS Nasional 2024\\MainForm.cs",
               "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\MainForm.cs",
               "RelativeToolTip": "LKS Nasional 2024\\MainForm.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwEQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T05:29:34.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\MainForm.cs",
               "RelativeDocumentMoniker": "LKS Nasional 2024\\MainForm.cs",
@@ -104,53 +187,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "CreateAccount.cs",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\CreateAccount.cs",
               "RelativeDocumentMoniker": "LKS Nasional 2024\\CreateAccount.cs",
-              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\CreateAccount.cs*",
-              "RelativeToolTip": "LKS Nasional 2024\\CreateAccount.cs*",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\CreateAccount.cs",
+              "RelativeToolTip": "LKS Nasional 2024\\CreateAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T02:53:18.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CreateAccount.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\CreateAccount.cs",
               "RelativeDocumentMoniker": "LKS Nasional 2024\\CreateAccount.cs",
-              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\CreateAccount.cs [Design]*",
-              "RelativeToolTip": "LKS Nasional 2024\\CreateAccount.cs [Design]*",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\CreateAccount.cs [Design]",
+              "RelativeToolTip": "LKS Nasional 2024\\CreateAccount.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T02:52:07.285Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\Login.cs",
               "RelativeDocumentMoniker": "LKS Nasional 2024\\Login.cs",
               "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\Login.cs",
               "RelativeToolTip": "LKS Nasional 2024\\Login.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAFAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T02:24:00.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\Login.cs",
               "RelativeDocumentMoniker": "LKS Nasional 2024\\Login.cs",
               "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\LKS Nasional 2024\\LKS Nasional 2024\\Login.cs [Design]",
               "RelativeToolTip": "LKS Nasional 2024\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:12:19.033Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-18T02:12:19.033Z"
             }
           ]
         },

@@ -1,0 +1,15 @@
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\bin\Debug\Currency_converter.exe.config
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\bin\Debug\Currency_converter.exe
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\bin\Debug\Currency_converter.pdb
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\obj\Debug\Currency_converter.csproj.AssemblyReference.cache
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\obj\Debug\Currency_converter.Form1.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\obj\Debug\Currency_converter.Properties.Resources.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\obj\Debug\Currency_converter.csproj.GenerateResource.cache
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\obj\Debug\Currency_converter.csproj.CoreCompileInputs.cache
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\obj\Debug\Currency_converter.exe
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\obj\Debug\Currency_converter.pdb
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\bin\Debug\EntityFramework.dll
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\bin\Debug\EntityFramework.xml
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\royha\Downloads\it-software\learn-dotnet\Currency_converter\Currency_converter\obj\Debug\Currency.29AB05BD.Up2Date

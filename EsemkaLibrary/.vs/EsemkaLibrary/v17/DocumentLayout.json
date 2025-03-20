@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\EsemkaLibrary\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemkalibrary\\esemkalibrary\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|solutionrelative:esemkalibrary\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\EsemkaLibrary\\esemkalibrary\\newborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|solutionrelative:esemkalibrary\\newborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemkalibrary\\esemkalibrary\\newborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|solutionrelative:esemkalibrary\\newborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemkalibrary\\esemkalibrary\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|solutionrelative:esemkalibrary\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemkalibrary\\esemkalibrary\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\EsemkaLibrary\\esemkalibrary\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|solutionrelative:esemkalibrary\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\esemkalibrary\\esemkalibrary\\newborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|solutionrelative:esemkalibrary\\newborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\EsemkaLibrary\\esemkalibrary\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}|EsemkaLibrary\\EsemkaLibrary.csproj|solutionrelative:esemkalibrary\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 2065,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "FormTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\EsemkaLibrary\\EsemkaLibrary\\FormTest.cs",
+              "RelativeDocumentMoniker": "EsemkaLibrary\\FormTest.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\EsemkaLibrary\\EsemkaLibrary\\FormTest.cs [Design]*",
+              "RelativeToolTip": "EsemkaLibrary\\FormTest.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:10:20.907Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NewBorrowing.cs",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\EsemkaLibrary\\EsemkaLibrary\\NewBorrowing.cs",
               "RelativeDocumentMoniker": "EsemkaLibrary\\NewBorrowing.cs",
@@ -51,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "NewBorrowing.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\EsemkaLibrary\\EsemkaLibrary\\NewBorrowing.cs",
               "RelativeDocumentMoniker": "EsemkaLibrary\\NewBorrowing.cs",
@@ -63,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Home.cs [Design]",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\EsemkaLibrary\\EsemkaLibrary\\Home.cs",
               "RelativeDocumentMoniker": "EsemkaLibrary\\Home.cs",
@@ -75,13 +91,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Home.cs",
               "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\EsemkaLibrary\\EsemkaLibrary\\Home.cs",
               "RelativeDocumentMoniker": "EsemkaLibrary\\Home.cs",
               "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\EsemkaLibrary\\EsemkaLibrary\\Home.cs",
               "RelativeToolTip": "EsemkaLibrary\\Home.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAiwFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwIYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T03:56:08.262Z",
               "EditorCaption": ""

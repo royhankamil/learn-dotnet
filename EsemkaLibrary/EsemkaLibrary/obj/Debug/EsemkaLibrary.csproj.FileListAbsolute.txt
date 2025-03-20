@@ -14,3 +14,4 @@ C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\ob
 C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.exe
 C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.pdb
 C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.NewBorrowing.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.FormTest.resources

@@ -123,5 +123,12 @@ namespace EsemkaLibrary
             borrow.Show();
             this.Hide();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            FormTest form = new FormTest();
+            form.Show();
+            this.Hide();
+        }
     }
 }

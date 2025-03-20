@@ -145,11 +145,15 @@ namespace LKS_Nasional_2024
                     return;
                 }
 
+                user vend = db.users.Find(selectedProduct.vendor_id);
+                user cust = db.users.Find(user_id);
+                product prod = db.products.Find(selectedProduct.id);
+
                 transaction tr = new transaction()
                 {
-                    vendor_id = selectedProduct.vendor_id,
-                    customer_id = user_id,
-                    product_id = selectedProduct.id,
+                    user = vend,
+                    user1 = cust,
+                    product = prod,
                     quantity = (int)numericUpDown4.Value,
                     total_price = total_transaction,
                     delivery_cost = delivery_cost,
@@ -157,6 +161,8 @@ namespace LKS_Nasional_2024
                     created_at = DateTime.Now,
                     updated_at = DateTime.Now
                 };
+
+                prod.unit_stock -= (int)numericUpDown4.Value;
 
                 db.transactions.Add(tr);
                 db.SaveChanges();

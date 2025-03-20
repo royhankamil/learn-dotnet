@@ -10,34 +10,22 @@ using System.Windows.Forms;
 
 namespace LKS_Nasional_2024
 {
-    public partial class transactionCust: Form
+    public partial class TransactionVend: Form
     {
         grocerseekerEntities db = new grocerseekerEntities();
         transaction selectedTransaction;
         List<transaction> historyTransactions;
         List<transaction> pendingTransactions;
         user userr;
-        public transactionCust(int user_id)
+
+        public TransactionVend(int user_id)
         {
             InitializeComponent();
             userr = db.users.Find(user_id);
             ResetShowData();
-            historyTransactions = db.transactions.Where(t => t.customer_id == user_id && t.status != "pending").ToList();
+            historyTransactions = db.transactions.Where(t => t.vendor_id == user_id && t.status != "pending").ToList();
 
             dataGridView1.DataSource = historyTransactions.Select(t => new {
-                    t.product.product_name,
-                    t.user.vendor_name,
-                    t.quantity,
-                    t.product.price_per_unit,
-                    t.total_price,
-                    t.delivery_cost,
-                    t.status
-                }).ToList();
-
-            pendingTransactions = db.transactions.Where(t => t.customer_id == user_id && t.status == "pending").ToList();
-
-            dataGridView2.DataSource = pendingTransactions
-                .Select(t => new {
                 t.product.product_name,
                 t.user.vendor_name,
                 t.quantity,
@@ -47,7 +35,26 @@ namespace LKS_Nasional_2024
                 t.status
             }).ToList();
 
+            pendingTransactions = db.transactions.Where(t => t.vendor_id == user_id && t.status == "pending").ToList();
+
+            dataGridView2.DataSource = pendingTransactions
+                .Select(t => new {
+                    t.product.product_name,
+                    t.user.vendor_name,
+                    t.quantity,
+                    t.product.price_per_unit,
+                    t.total_price,
+                    t.delivery_cost,
+                    t.status
+                }).ToList();
+
             button1.Enabled = false;
+            button2.Enabled = false;
+        }
+
+        private void TransactionVend_Load(object sender, EventArgs e)
+        {
+
         }
 
         private void ResetShowData()
@@ -57,7 +64,7 @@ namespace LKS_Nasional_2024
             label7.Text = "-";
             label6.Text = "-";
             label11.Text = "-";
-            label10.Text = "-"; 
+            label10.Text = "-";
         }
 
         private void transactionCust_Load(object sender, EventArgs e)
@@ -67,12 +74,12 @@ namespace LKS_Nasional_2024
 
         private void label10_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void dataGridView1_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void dataGridView2_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -80,6 +87,7 @@ namespace LKS_Nasional_2024
             if (dataGridView2.CurrentRow.Index != -1)
             {
                 button1.Enabled = true;
+                button2.Enabled = true;
                 selectedTransaction = pendingTransactions[dataGridView2.CurrentRow.Index];
 
                 label9.Text = selectedTransaction.product.product_name;
@@ -93,19 +101,16 @@ namespace LKS_Nasional_2024
 
         private void button1_Click(object sender, EventArgs e)
         {
-            DialogResult result = MessageBox.Show("Are you sure want to cancel the transaction?", "Confirmation", MessageBoxButtons.YesNo);
+            selectedTransaction.status = "abort";
 
-            if (result == DialogResult.Yes)
-            {
-                selectedTransaction.status = "abort";
-                product prod = selectedTransaction.product;
-                prod.unit_stock += selectedTransaction.quantity;
+            product prod = selectedTransaction.product;
+            prod.unit_stock += selectedTransaction.quantity;
 
-                db.SaveChanges();
+            db.SaveChanges();
 
 
                 ResetShowData();
-                historyTransactions = db.transactions.Where(t => t.customer_id == userr.id && t.status != "pending").ToList();
+                historyTransactions = db.transactions.Where(t => t.vendor_id == userr.id && t.status != "pending").ToList();
 
                 dataGridView1.DataSource = historyTransactions.Select(t => new {
                     t.product.product_name,
@@ -117,7 +122,7 @@ namespace LKS_Nasional_2024
                     t.status
                 }).ToList();
 
-                pendingTransactions = db.transactions.Where(t => t.customer_id == userr.id && t.status == "pending").ToList();
+                pendingTransactions = db.transactions.Where(t => t.vendor_id == userr.id && t.status == "pending").ToList();
 
                 dataGridView2.DataSource = pendingTransactions
                     .Select(t => new {
@@ -131,7 +136,8 @@ namespace LKS_Nasional_2024
                     }).ToList();
 
                 button1.Enabled = false;
-            }
+                button2.Enabled = false;
+
         }
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -139,6 +145,7 @@ namespace LKS_Nasional_2024
             if (dataGridView1.CurrentRow.Index != -1)
             {
                 button1.Enabled = false;
+                button2.Enabled = false;
                 selectedTransaction = historyTransactions[dataGridView1.CurrentRow.Index];
 
                 label9.Text = selectedTransaction.product.product_name;
@@ -148,6 +155,42 @@ namespace LKS_Nasional_2024
                 label11.Text = selectedTransaction.total_price.ToString();
                 label10.Text = selectedTransaction.delivery_cost.ToString();
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            selectedTransaction.status = "success";
+            db.SaveChanges();
+
+
+            ResetShowData();
+            historyTransactions = db.transactions.Where(t => t.vendor_id == userr.id && t.status != "pending").ToList();
+
+            dataGridView1.DataSource = historyTransactions.Select(t => new {
+                t.product.product_name,
+                t.user.vendor_name,
+                t.quantity,
+                t.product.price_per_unit,
+                t.total_price,
+                t.delivery_cost,
+                t.status
+            }).ToList();
+
+            pendingTransactions = db.transactions.Where(t => t.vendor_id == userr.id && t.status == "pending").ToList();
+
+            dataGridView2.DataSource = pendingTransactions
+                .Select(t => new {
+                    t.product.product_name,
+                    t.user.vendor_name,
+                    t.quantity,
+                    t.product.price_per_unit,
+                    t.total_price,
+                    t.delivery_cost,
+                    t.status
+                }).ToList();
+
+            button1.Enabled = false;
+            button2.Enabled = false;
         }
     }
 }

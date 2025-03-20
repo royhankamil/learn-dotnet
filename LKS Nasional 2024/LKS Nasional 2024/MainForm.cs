@@ -68,5 +68,21 @@ namespace LKS_Nasional_2024
                 this.Hide();
             }
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (asCust)
+            {
+                transactionCust transaction = new transactionCust(user_id);
+                transaction.Show();
+                this.Hide();
+            }
+            else
+            {
+                TransactionVend transaction = new TransactionVend(user_id);
+                transaction.Show();
+                this.Hide();
+            }
+        }
     }
 }

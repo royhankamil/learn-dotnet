@@ -10,75 +10,68 @@ using System.Windows.Forms;
 
 namespace EsemkaLibrary
 {
-    public partial class NewBorrowing : Form
+    public partial class NewBorrowing: Form
     {
         EsemkaLibraryEntities db = new EsemkaLibraryEntities();
-        int user_id;
-        public NewBorrowing(int user_id)
+        int member_id;
+        public NewBorrowing(int member_id)
         {
+            this.member_id = member_id;
             InitializeComponent();
-            this.user_id = user_id;
         }
 
-        private void NewBorrowing_Load(object sender, EventArgs e)
+        private void groupBox2_Enter(object sender, EventArgs e)
         {
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var books = db.Books.Where(b => b.title.ToLower().TrimEnd().Contains(textBox1.Text.TrimEnd().ToLower())).ToList();
 
-            foreach (var book in books)
+            dataGridView1.Rows.Clear();
+            foreach (var item in db.Books.Where(b=>b.title.ToLower().TrimEnd().Contains(textBox1.Text.ToLower().TrimEnd())))
             {
-                Genre genre = db.BookGenres.FirstOrDefault(g => g.book_id == book.id).Genre;
-                if (book.stock <= 0)
+                Genre genre = db.BookGenres.First(g => g.Book.title.ToLower().TrimEnd().Contains(textBox1.Text.ToLower().TrimEnd())).Genre;
+                if (item.stock <= 0)
                 {
-                    int i = dataGridView1.Rows.Add(book.title, genre.name, book.author, book.publish_date, book.stock, "");
-                    dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.Red;
+                    int index = dataGridView1.Rows.Add(item.title, genre.name, item.author, item.publish_date, item.stock, "");
+                    dataGridView1.Rows[index].DefaultCellStyle.BackColor = Color.Red;
                 }
                 else
                 {
-                    dataGridView1.Rows.Add(book.title, genre.name, book.author, book.publish_date, book.stock, "Borrow");
+                    dataGridView1.Rows.Add(item.title, genre.name, item.author, item.publish_date, item.stock, "Borrow");
                 }
-            }
-
-            if (books.Count <= 0)
-            {
-                MessageBox.Show("Couldn't find the book title by given title");
             }
         }
 
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            if (dataGridView1.CurrentRow.Index != -1 && dataGridView1.Columns[e.ColumnIndex].Name == "ActionCol")
+            var row = dataGridView1.Rows[e.RowIndex];
+            if (dataGridView1.CurrentRow.Index != -1 && row.Cells["ActionCol"].Value.ToString() != ""
+                    && dataGridView1.Columns[e.ColumnIndex].Name == "ActionCol")
             {
-                if (dataGridView1.Rows[e.RowIndex].Cells["ActionCol"].Value.ToString() == "Borrow")
+
+                Book book = db.Books.AsEnumerable().First(b => b.title == row.Cells["TitleCol"].Value.ToString());
+                book.stock--;
+                Member member = db.Members.Find(member_id);
+
+
+                Borrowing newborrow = new Borrowing()
                 {
-                    Book book = db.Books.AsEnumerable().First(b => b.title == dataGridView1.Rows[e.RowIndex].Cells["TitleCol"].Value.ToString());
+                    Member = member,
+                    Book = book,
+                    borrow_date = DateTime.Now,
+                    created_at = DateTime.Now
+                };
 
-                    book.stock -= 1;
+                db.Borrowings.Add(newborrow);
+                db.SaveChanges();
 
-                    Member member = db.Members.Find(user_id);
-
-                    Borrowing borrow = new Borrowing()
-                    {
-                        Member = member,
-                        Book = book,
-                        borrow_date = DateTime.Now,
-                        created_at = DateTime.Now
-                    };
-
-                    db.Borrowings.Add(borrow);
-                    db.SaveChanges();
-
-                    MessageBox.Show($"Success borrow {book.title} due date is 7 days from today", "Notification", MessageBoxButtons.OK);
-                    Home home = new Home();
-                    home.Show();
-                    this.Hide();
-
-                }
+                MessageBox.Show($"Success Borrow '{book.title}' Due date is 7 days from today");
+                Form1 form = new Form1();
+                form.Show();
+                this.Hide();
             }
         }
-    } 
+    }
 }

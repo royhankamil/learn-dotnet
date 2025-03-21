@@ -6,12 +6,11 @@ C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\bi
 C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\bin\Debug\EntityFramework.xml
 C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.csproj.AssemblyReference.cache
-C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.Home.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.Form1.resources
+C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.NewBorrowing.resources
 C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.Properties.Resources.resources
 C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.csproj.GenerateResource.cache
 C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.csproj.CoreCompileInputs.cache
 C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLi.F23861B6.Up2Date
 C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.exe
 C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.pdb
-C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.NewBorrowing.resources
-C:\Users\royha\Downloads\it-software\learn-dotnet\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.FormTest.resources

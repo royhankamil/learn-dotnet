@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\masterdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\masterdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\masterdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\masterdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\masterpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\masterpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\masterpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\masterpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\icd11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\icd11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\viewpatientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\viewpatientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\addeditrecordcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\addeditrecordcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\formshowmeet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\formshowmeet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\formmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\formmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\formshowmeet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\formshowmeet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\addeditrecordcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\addeditrecordcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\newitempayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\newitempayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\newitempayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\newitempayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\formmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\formmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\viewpatientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\viewpatientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovhospital_pt2\\hovhospital_pt2\\icd11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07BF5051-A1A7-47D5-9932-39A9E949A892}|HOVHospital_pt2\\HOVHospital_pt2.csproj|solutionrelative:hovhospital_pt2\\icd11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2065,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddEditRecordcs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\AddEditRecordcs.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\AddEditRecordcs.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\AddEditRecordcs.cs [Design]",
+              "RelativeToolTip": "HOVHospital_pt2\\AddEditRecordcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:31:38.495Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NewItemPayment.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\NewItemPayment.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\NewItemPayment.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\NewItemPayment.cs",
+              "RelativeToolTip": "HOVHospital_pt2\\NewItemPayment.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:29:21.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NewItemPayment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\NewItemPayment.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\NewItemPayment.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\NewItemPayment.cs [Design]",
+              "RelativeToolTip": "HOVHospital_pt2\\NewItemPayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:27:24.384Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\PaymentForm.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\PaymentForm.cs",
+              "RelativeToolTip": "HOVHospital_pt2\\PaymentForm.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:15:09.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\PaymentForm.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\PaymentForm.cs [Design]",
+              "RelativeToolTip": "HOVHospital_pt2\\PaymentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:10:01.472Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEditRecordcs.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\AddEditRecordcs.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\AddEditRecordcs.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\AddEditRecordcs.cs",
+              "RelativeToolTip": "HOVHospital_pt2\\AddEditRecordcs.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:45:29.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormShowMeet.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\FormShowMeet.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\FormShowMeet.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\FormShowMeet.cs",
+              "RelativeToolTip": "HOVHospital_pt2\\FormShowMeet.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:35:37.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormShowMeet.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\FormShowMeet.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\FormShowMeet.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\FormShowMeet.cs [Design]",
+              "RelativeToolTip": "HOVHospital_pt2\\FormShowMeet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:29:57.301Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "viewPatientRecord.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\viewPatientRecord.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\viewPatientRecord.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\viewPatientRecord.cs",
+              "RelativeToolTip": "HOVHospital_pt2\\viewPatientRecord.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:22:58.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "viewPatientRecord.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\viewPatientRecord.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\viewPatientRecord.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\viewPatientRecord.cs [Design]",
+              "RelativeToolTip": "HOVHospital_pt2\\viewPatientRecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:20:42.892Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormMeeting.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\FormMeeting.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\FormMeeting.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\FormMeeting.cs",
+              "RelativeToolTip": "HOVHospital_pt2\\FormMeeting.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwGwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:00:07.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMeeting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\FormMeeting.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\FormMeeting.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\FormMeeting.cs [Design]",
+              "RelativeToolTip": "HOVHospital_pt2\\FormMeeting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:54:38.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterPatient.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\MasterPatient.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\MasterPatient.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\MasterPatient.cs",
+              "RelativeToolTip": "HOVHospital_pt2\\MasterPatient.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowBQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:34:30.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterPatient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\MasterPatient.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\MasterPatient.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\MasterPatient.cs [Design]",
+              "RelativeToolTip": "HOVHospital_pt2\\MasterPatient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:32:28.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MasterDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\MasterDoctor.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\MasterDoctor.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\MasterDoctor.cs",
+              "RelativeToolTip": "HOVHospital_pt2\\MasterDoctor.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:17:49.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MasterDoctor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\MasterDoctor.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\MasterDoctor.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\MasterDoctor.cs [Design]",
+              "RelativeToolTip": "HOVHospital_pt2\\MasterDoctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:11:10.873Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\MainForm.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\MainForm.cs",
+              "RelativeToolTip": "HOVHospital_pt2\\MainForm.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:10:04.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Icd11.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\Icd11.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\Icd11.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\Icd11.cs",
+              "RelativeToolTip": "HOVHospital_pt2\\Icd11.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACYAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:45:09.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Icd11.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\Icd11.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\Icd11.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\Icd11.cs [Design]",
+              "RelativeToolTip": "HOVHospital_pt2\\Icd11.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:43:17.945Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\MainForm.cs",
+              "RelativeDocumentMoniker": "HOVHospital_pt2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\HOVHospital_pt2\\HOVHospital_pt2\\MainForm.cs [Design]",
+              "RelativeToolTip": "HOVHospital_pt2\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:36:12.54Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1997,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 729,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1997,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

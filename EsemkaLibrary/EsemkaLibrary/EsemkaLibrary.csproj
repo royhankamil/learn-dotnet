@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{314B9742-74FC-48D5-BDB7-EF8555FB0A6E}</ProjectGuid>
+    <ProjectGuid>{794BAB41-4F9E-4AD1-91B3-4996B69F67C6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>EsemkaLibrary</RootNamespace>
     <AssemblyName>EsemkaLibrary</AssemblyName>
@@ -67,17 +67,11 @@
     <Compile Include="Borrowing.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
-    <Compile Include="FormTest.cs">
+    <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormTest.Designer.cs">
-      <DependentUpon>FormTest.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Home.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Home.Designer.cs">
-      <DependentUpon>Home.cs</DependentUpon>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Genre.cs">
       <DependentUpon>Model1.tt</DependentUpon>
@@ -108,11 +102,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FormTest.resx">
-      <DependentUpon>FormTest.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Home.resx">
-      <DependentUpon>Home.cs</DependentUpon>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="NewBorrowing.resx">
       <DependentUpon>NewBorrowing.cs</DependentUpon>
@@ -134,17 +125,6 @@
       <DependentUpon>Model1.edmx</DependentUpon>
     </None>
     <None Include="packages.config" />
-    <None Include="Properties\DataSources\Book.datasource" />
-    <None Include="Properties\DataSources\BookGenre.datasource" />
-    <None Include="Properties\DataSources\Borrowing.datasource" />
-    <None Include="Properties\DataSources\EsemkaLibrary.Properties.Resources.datasource" />
-    <None Include="Properties\DataSources\EsemkaLibrary.Properties.Settings.datasource" />
-    <None Include="Properties\DataSources\EsemkaLibraryEntities.datasource" />
-    <None Include="Properties\DataSources\Genre.datasource" />
-    <None Include="Properties\DataSources\Home.datasource" />
-    <None Include="Properties\DataSources\Member.datasource" />
-    <None Include="Properties\DataSources\NewBorrowing.datasource" />
-    <None Include="Properties\DataSources\Program.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

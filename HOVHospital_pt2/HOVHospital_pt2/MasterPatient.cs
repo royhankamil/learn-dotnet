@@ -18,7 +18,7 @@ namespace HOVHospital_pt2
         {
             InitializeComponent();
 
-            textBox1.Text = db.patients.Find(name).name;
+            textBox1.Text = db.patients.FirstOrDefault(n=>n.name == name)?.name;
 
             update_datagrid();
         }

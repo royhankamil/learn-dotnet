@@ -21,21 +21,21 @@ namespace HOVHospital_pt2
         {
             Icd11 icd = new Icd11();
             icd.Show();
-            Hide();
+            //Hide();
         }
 
         private void doctorToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MasterDoctor doc = new MasterDoctor();
             doc.Show();
-            Hide();
+            //Hide();
         }
 
         private void patientToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MasterPatient pat = new MasterPatient();
             pat.Show();
-            Hide();
+            //Hide();
         }
 
         private void masterToolStripMenuItem_Click(object sender, EventArgs e)

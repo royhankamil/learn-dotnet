@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\allborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\allborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\newborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\newborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\masterbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\masterbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\mastermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\mastermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\mastermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\mastermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\newborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\newborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\allborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\allborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\masterbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\masterbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|c:\\users\\royha\\downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\encrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DB522-F01C-4721-AF4F-3B9008F5D4B1}|hovlibrary\\hovlibrary.csproj|solutionrelative:hovlibrary\\encrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2065,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\MainForm.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\MainForm.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\MainForm.cs",
+              "RelativeToolTip": "hovlibrary\\MainForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:56:48.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AllBorrowing.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\AllBorrowing.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\AllBorrowing.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\AllBorrowing.cs*",
+              "RelativeToolTip": "hovlibrary\\AllBorrowing.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:31:58.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllBorrowing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\AllBorrowing.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\AllBorrowing.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\AllBorrowing.cs [Design]*",
+              "RelativeToolTip": "hovlibrary\\AllBorrowing.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:25:35.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewBorrowing.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\NewBorrowing.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\NewBorrowing.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\NewBorrowing.cs*",
+              "RelativeToolTip": "hovlibrary\\NewBorrowing.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:51:55.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewBorrowing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\NewBorrowing.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\NewBorrowing.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\NewBorrowing.cs [Design]*",
+              "RelativeToolTip": "hovlibrary\\NewBorrowing.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:44:34.844Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookList.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\BookList.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\BookList.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\BookList.cs*",
+              "RelativeToolTip": "hovlibrary\\BookList.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:33:36.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\BookList.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\BookList.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\BookList.cs [Design]*",
+              "RelativeToolTip": "hovlibrary\\BookList.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:21:38.74Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MasterBook.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\MasterBook.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\MasterBook.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\MasterBook.cs*",
+              "RelativeToolTip": "hovlibrary\\MasterBook.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwDcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:12:08.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\MasterBook.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\MasterBook.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\MasterBook.cs [Design]*",
+              "RelativeToolTip": "hovlibrary\\MasterBook.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T02:53:29.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MasterMember.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\MasterMember.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\MasterMember.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\MasterMember.cs*",
+              "RelativeToolTip": "hovlibrary\\MasterMember.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T02:10:31.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MasterMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\MasterMember.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\MasterMember.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\MasterMember.cs [Design]*",
+              "RelativeToolTip": "hovlibrary\\MasterMember.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T02:03:54.006Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\MainForm.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\MainForm.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\MainForm.cs [Design]",
+              "RelativeToolTip": "hovlibrary\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T02:02:02.487Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Encrypt.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\Encrypt.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\Encrypt.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\Encrypt.cs",
+              "RelativeToolTip": "hovlibrary\\Encrypt.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:45:23.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\Login.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\Login.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\Login.cs",
+              "RelativeToolTip": "hovlibrary\\Login.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:39:15.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\Login.cs",
+              "RelativeDocumentMoniker": "hovlibrary\\Login.cs",
+              "ToolTip": "C:\\Users\\royha\\Downloads\\it-software\\learn-dotnet\\hovlibrary\\hovlibrary\\Login.cs [Design]",
+              "RelativeToolTip": "hovlibrary\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:35:53.58Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1997,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 729,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1997,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

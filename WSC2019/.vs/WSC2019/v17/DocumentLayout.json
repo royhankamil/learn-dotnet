@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LKS-ITSSB\\FolderSoal-Materi\\it-software\\learn-dotnet\\WSC2019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{913EE527-ADAC-4FA4-B14F-289E6FE5F687}|WSC2019\\WSC2019.csproj|c:\\lks-itssb\\foldersoal-materi\\it-software\\learn-dotnet\\wsc2019\\wsc2019\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{913EE527-ADAC-4FA4-B14F-289E6FE5F687}|WSC2019\\WSC2019.csproj|solutionrelative:wsc2019\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913EE527-ADAC-4FA4-B14F-289E6FE5F687}|WSC2019\\WSC2019.csproj|c:\\lks-itssb\\foldersoal-materi\\it-software\\learn-dotnet\\wsc2019\\wsc2019\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913EE527-ADAC-4FA4-B14F-289E6FE5F687}|WSC2019\\WSC2019.csproj|solutionrelative:wsc2019\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913EE527-ADAC-4FA4-B14F-289E6FE5F687}|WSC2019\\WSC2019.csproj|c:\\lks-itssb\\foldersoal-materi\\it-software\\learn-dotnet\\wsc2019\\wsc2019\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913EE527-ADAC-4FA4-B14F-289E6FE5F687}|WSC2019\\WSC2019.csproj|solutionrelative:wsc2019\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913EE527-ADAC-4FA4-B14F-289E6FE5F687}|WSC2019\\WSC2019.csproj|c:\\lks-itssb\\foldersoal-materi\\it-software\\learn-dotnet\\wsc2019\\wsc2019\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{913EE527-ADAC-4FA4-B14F-289E6FE5F687}|WSC2019\\WSC2019.csproj|solutionrelative:wsc2019\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurchaseOrder.cs",
+              "DocumentMoniker": "C:\\LKS-ITSSB\\FolderSoal-Materi\\it-software\\learn-dotnet\\WSC2019\\WSC2019\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "WSC2019\\PurchaseOrder.cs",
+              "ToolTip": "C:\\LKS-ITSSB\\FolderSoal-Materi\\it-software\\learn-dotnet\\WSC2019\\WSC2019\\PurchaseOrder.cs",
+              "RelativeToolTip": "WSC2019\\PurchaseOrder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:50:36.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PurchaseOrder.cs [Design]",
+              "DocumentMoniker": "C:\\LKS-ITSSB\\FolderSoal-Materi\\it-software\\learn-dotnet\\WSC2019\\WSC2019\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "WSC2019\\PurchaseOrder.cs",
+              "ToolTip": "C:\\LKS-ITSSB\\FolderSoal-Materi\\it-software\\learn-dotnet\\WSC2019\\WSC2019\\PurchaseOrder.cs [Design]",
+              "RelativeToolTip": "WSC2019\\PurchaseOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:48:00.546Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryManagement.cs",
+              "DocumentMoniker": "C:\\LKS-ITSSB\\FolderSoal-Materi\\it-software\\learn-dotnet\\WSC2019\\WSC2019\\InventoryManagement.cs",
+              "RelativeDocumentMoniker": "WSC2019\\InventoryManagement.cs",
+              "ToolTip": "C:\\LKS-ITSSB\\FolderSoal-Materi\\it-software\\learn-dotnet\\WSC2019\\WSC2019\\InventoryManagement.cs",
+              "RelativeToolTip": "WSC2019\\InventoryManagement.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:42:15.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryManagement.cs [Design]",
+              "DocumentMoniker": "C:\\LKS-ITSSB\\FolderSoal-Materi\\it-software\\learn-dotnet\\WSC2019\\WSC2019\\InventoryManagement.cs",
+              "RelativeDocumentMoniker": "WSC2019\\InventoryManagement.cs",
+              "ToolTip": "C:\\LKS-ITSSB\\FolderSoal-Materi\\it-software\\learn-dotnet\\WSC2019\\WSC2019\\InventoryManagement.cs [Design]",
+              "RelativeToolTip": "WSC2019\\InventoryManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:09:24.008Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

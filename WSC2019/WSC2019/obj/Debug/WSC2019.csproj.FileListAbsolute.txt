@@ -1,0 +1,16 @@
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\bin\Debug\WSC2019.exe.config
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\bin\Debug\WSC2019.exe
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\bin\Debug\WSC2019.pdb
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\bin\Debug\EntityFramework.dll
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\bin\Debug\EntityFramework.SqlServer.dll
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\bin\Debug\EntityFramework.xml
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\bin\Debug\EntityFramework.SqlServer.xml
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\obj\Debug\WSC2019.csproj.AssemblyReference.cache
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\obj\Debug\WSC2019.InventoryManagement.resources
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\obj\Debug\WSC2019.Properties.Resources.resources
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\obj\Debug\WSC2019.csproj.GenerateResource.cache
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\obj\Debug\WSC2019.csproj.CoreCompileInputs.cache
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\obj\Debug\WSC2019.csproj.Up2Date
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\obj\Debug\WSC2019.exe
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\obj\Debug\WSC2019.pdb
+C:\LKS-ITSSB\FolderSoal-Materi\it-software\learn-dotnet\WSC2019\WSC2019\obj\Debug\WSC2019.PurchaseOrder.resources

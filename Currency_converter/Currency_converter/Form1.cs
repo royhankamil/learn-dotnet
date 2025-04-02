@@ -105,6 +105,7 @@ namespace Currency_converter
         {
             lastIndexCB2 = comboBox2.SelectedIndex;
 
+
             comboBox2.SelectedIndex = comboBox3.SelectedIndex;
             comboBox3.SelectedIndex = lastIndexCB2;
         }

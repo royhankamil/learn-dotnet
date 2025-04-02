@@ -6,7 +6,7 @@
     <edmx:Diagrams>
       <Diagram DiagramId="c621fc3b064b4bf2853b073e5075a266" Name="Diagram1">
         <EntityTypeShape EntityType="CurrencyConverterModel.Currency" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="CurrencyConverterModel.Period" Width="1.5" PointX="0.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CurrencyConverterModel.Period" Width="1.5" PointX="1.75" PointY="3.625" IsExpanded="true" />
         <EntityTypeShape EntityType="CurrencyConverterModel.USDExchangeRate" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
         <AssociationConnector Association="CurrencyConverterModel.FK__USDExchan__curre__3C69FB99" ManuallyRouted="false" />
         <AssociationConnector Association="CurrencyConverterModel.FK__USDExchan__perio__3B75D760" ManuallyRouted="false" />

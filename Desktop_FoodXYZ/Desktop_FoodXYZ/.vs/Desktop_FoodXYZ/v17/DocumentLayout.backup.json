@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\kelola_laporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|d:\\lks_it_software\\learn-dotnet\\desktop_foodxyz\\desktop_foodxyz\\desktop_foodxyz\\kelola_laporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\kelola_laporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,24 +19,28 @@
       "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\kelola_laporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\kelola_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\kelola_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\formtransaksi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\formtransaksi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\form_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\form_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\tbl_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\tbl_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\form_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\form_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|d:\\lks_it_software\\learn-dotnet\\desktop_foodxyz\\desktop_foodxyz\\desktop_foodxyz\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\form_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\form_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\kelola_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\kelola_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\kelola_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\form_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\form_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\form_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\form_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\form login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -71,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\form_barang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\formtransaksi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\formtransaksi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\form login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\form login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -85,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\tbl_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|solutionrelative:desktop_foodxyz\\tbl_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30E46A38-8544-42F9-8D4E-730091FF1247}|Desktop_FoodXYZ\\Desktop_FoodXYZ.csproj|D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\desktop_foodxyz\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
@@ -110,23 +110,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 98,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 13,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Form Login.cs [Design]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Form Login.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Form Login.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Form Login.cs [Design]",
               "RelativeToolTip": "Desktop_FoodXYZ\\Form Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T00:57:47.213Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-17T00:57:47.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Form_admin.cs [Design]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Form_admin.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Form_admin.cs",
@@ -149,12 +152,8 @@
               "WhenOpened": "2025-02-18T16:48:01.064Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Form_Barang.Designer.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Form_Barang.Designer.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Form_Barang.Designer.cs",
@@ -162,12 +161,11 @@
               "RelativeToolTip": "Desktop_FoodXYZ\\Form_Barang.Designer.cs",
               "ViewState": "AgIAAB4BAAAAAAAAAAAewC4BAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T07:31:54.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T07:31:54.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Kelola_laporan.cs [Design]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Kelola_laporan.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Kelola_laporan.cs",
@@ -179,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "App.config",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\App.config",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\App.config",
@@ -192,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Settings.Designer.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Properties\\Settings.Designer.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Properties\\Settings.Designer.cs",
@@ -204,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "packages.config",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\packages.config",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\packages.config",
@@ -216,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 7,
               "Title": "tbl_log.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\tbl_log.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\tbl_log.cs",
@@ -224,11 +222,12 @@
               "RelativeToolTip": "Desktop_FoodXYZ\\tbl_log.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T16:50:23.539Z"
+              "WhenOpened": "2025-02-18T16:50:23.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Model1.Designer.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Model1.Designer.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Model1.Designer.cs",
@@ -240,20 +239,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Kelola_laporan.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Kelola_laporan.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Kelola_laporan.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Kelola_laporan.cs",
               "RelativeToolTip": "Desktop_FoodXYZ\\Kelola_laporan.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAiwF8AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwDUAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T04:48:54.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FormTransaksi.cs [Design]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\FormTransaksi.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\FormTransaksi.cs",
@@ -265,20 +264,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "FormTransaksi.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\FormTransaksi.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\FormTransaksi.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\FormTransaksi.cs",
               "RelativeToolTip": "Desktop_FoodXYZ\\FormTransaksi.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAAGYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T01:17:07.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Form Login.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Form Login.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Form Login.cs",
@@ -286,12 +285,11 @@
               "RelativeToolTip": "Desktop_FoodXYZ\\Form Login.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T01:09:49.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T01:09:49.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Kelola_User.cs [Design]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Kelola_User.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Kelola_User.cs",
@@ -303,19 +301,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Form_Barang.cs [Design]",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Form_Barang.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Form_Barang.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Form_Barang.cs [Design]",
               "RelativeToolTip": "Desktop_FoodXYZ\\Form_Barang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T05:18:17.605Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-17T05:18:17.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Form_Barang.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Form_Barang.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Form_Barang.cs",
@@ -323,12 +320,11 @@
               "RelativeToolTip": "Desktop_FoodXYZ\\Form_Barang.cs",
               "ViewState": "AgIAAMMAAAAAAAAAAAAYwMIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T07:41:27.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T07:41:27.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Kelola_User.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Kelola_User.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Kelola_User.cs",
@@ -341,33 +337,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 5,
               "Title": "FormTransaksi.Designer.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\FormTransaksi.Designer.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\FormTransaksi.Designer.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\FormTransaksi.Designer.cs",
               "RelativeToolTip": "Desktop_FoodXYZ\\FormTransaksi.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAwwHwBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T01:00:19.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Form_admin.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Form_admin.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Form_admin.cs",
               "ToolTip": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Form_admin.cs",
               "RelativeToolTip": "Desktop_FoodXYZ\\Form_admin.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAA0wEAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T02:10:00.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Kelola_User.Designer.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Kelola_User.Designer.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Kelola_User.Designer.cs",
@@ -380,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Kelola_laporan.Designer.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Kelola_laporan.Designer.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Kelola_laporan.Designer.cs",
@@ -388,8 +384,7 @@
               "RelativeToolTip": "Desktop_FoodXYZ\\Kelola_laporan.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T04:49:33.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T04:49:33.316Z"
             },
             {
               "$type": "Document",
@@ -406,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Form Login.Designer.cs",
               "DocumentMoniker": "D:\\lks_it_software\\learn-dotnet\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Desktop_FoodXYZ\\Form Login.Designer.cs",
               "RelativeDocumentMoniker": "Desktop_FoodXYZ\\Form Login.Designer.cs",
@@ -414,8 +409,7 @@
               "RelativeToolTip": "Desktop_FoodXYZ\\Form Login.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T03:00:16.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T03:00:16.152Z"
             },
             {
               "$type": "Document",
@@ -427,6 +421,16 @@
               "RelativeToolTip": "Desktop_FoodXYZ\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
               "WhenOpened": "2025-02-17T01:01:59.01Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

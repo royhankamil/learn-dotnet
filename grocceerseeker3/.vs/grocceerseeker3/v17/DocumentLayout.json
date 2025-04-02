@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\productformvendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\productformvendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\transactioncust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\transactioncust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|c:\\users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\transactioncust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\transactioncust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\transactionvend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\transactionvend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\productformvendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\productformvendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\transactionvend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\transactionvend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\transactioncust.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\transactioncust.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE86488-8583-4101-B32E-5A6975716482}|grocceerseeker3\\grocceerseeker3.csproj|solutionrelative:grocceerseeker3\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\ProfileForm.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\ProfileForm.cs [Design]",
+              "RelativeToolTip": "grocceerseeker3\\ProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:51:26.548Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductFormVendor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\ProductFormVendor.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\ProductFormVendor.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\ProductFormVendor.cs [Design]",
+              "RelativeToolTip": "grocceerseeker3\\ProductFormVendor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:38:15.566Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\ProductForm.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\ProductForm.cs [Design]",
+              "RelativeToolTip": "grocceerseeker3\\ProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:06:53.107Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\ProductForm.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\ProductForm.cs",
+              "RelativeToolTip": "grocceerseeker3\\ProductForm.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:12:32.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionCust.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\TransactionCust.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\TransactionCust.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\TransactionCust.cs [Design]",
+              "RelativeToolTip": "grocceerseeker3\\TransactionCust.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:05:18.641Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\ProfileForm.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\ProfileForm.cs",
+              "RelativeToolTip": "grocceerseeker3\\ProfileForm.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAAANMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:56:47.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionCust.cs",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\TransactionCust.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\TransactionCust.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\TransactionCust.cs",
+              "RelativeToolTip": "grocceerseeker3\\TransactionCust.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:12:58.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionVend.cs",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\TransactionVend.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\TransactionVend.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\TransactionVend.cs",
+              "RelativeToolTip": "grocceerseeker3\\TransactionVend.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAQwGgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:19:35.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\Register.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\Register.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\Register.cs",
+              "RelativeToolTip": "grocceerseeker3\\Register.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAANAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:17:04.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductFormVendor.cs",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\ProductFormVendor.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\ProductFormVendor.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\ProductFormVendor.cs",
+              "RelativeToolTip": "grocceerseeker3\\ProductFormVendor.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAASwIcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:38:18.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionVend.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\TransactionVend.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\TransactionVend.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\TransactionVend.cs [Design]",
+              "RelativeToolTip": "grocceerseeker3\\TransactionVend.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:19:34.151Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\Register.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\Register.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\Register.cs [Design]",
+              "RelativeToolTip": "grocceerseeker3\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:09:37.822Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionCust.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\TransactionCust.Designer.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\TransactionCust.Designer.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\TransactionCust.Designer.cs",
+              "RelativeToolTip": "grocceerseeker3\\TransactionCust.Designer.cs",
+              "ViewState": "AgIAAK4BAAAAAAAAAAAAAMoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:19:41.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\MainMenu.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\MainMenu.cs",
+              "RelativeToolTip": "grocceerseeker3\\MainMenu.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwEYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:49:59.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\MainMenu.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\MainMenu.cs [Design]",
+              "RelativeToolTip": "grocceerseeker3\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:06:29.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\DataManager.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\DataManager.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\DataManager.cs",
+              "RelativeToolTip": "grocceerseeker3\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:54:16.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\Form1.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\Form1.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\Form1.cs [Design]",
+              "RelativeToolTip": "grocceerseeker3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:48:12.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\Form1.cs",
+              "RelativeDocumentMoniker": "grocceerseeker3\\Form1.cs",
+              "ToolTip": "C:\\Users\\inven\\source\\repos\\grocceerseeker3\\grocceerseeker3\\Form1.cs",
+              "RelativeToolTip": "grocceerseeker3\\Form1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:57:03.088Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1997,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 729,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1997,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
